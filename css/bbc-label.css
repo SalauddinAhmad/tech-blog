@@ -1,2 +1,13 @@
-/* BBC-style section tag — Bengali site */
-.first-entry.home-info::before{ content:"সর্বশেষ খবর"; }
+/* BBC-style per-site labels — Bengali site (tech-blog) */
+:root{
+  --font-ui:'Roboto','Noto Sans Bengali',system-ui,sans-serif;
+  --font-head:'Bornomala','Roboto',serif;
+  --font-bengali:'Bornomala','Roboto',sans-serif;
+}
+/* Ticker badge */
+.breaking-badge::before{ content:"ব্রেকিং"; }
+/* Bengali script does not uppercase — weight + letter-spacing only */
+.sec-tag{ text-transform:none; letter-spacing:.6px; font-size:.72rem; }
+.first-entry.home-info .entry-header h1{ text-transform:none; letter-spacing:.5px; }
+.entry-footer,
+.post-meta{ text-transform:none; letter-spacing:.4px; font-weight:600; }
