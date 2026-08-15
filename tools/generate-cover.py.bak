@@ -187,7 +187,6 @@ def main():
     ap.add_argument("--style", default="ai", choices=["ai", "template"])
     ap.add_argument("--fresh-bg", action="store_true", help="regenerate AI background (ignore cache)")
     ap.add_argument("--bg-cache", default="", help="dir to cache AI backgrounds")
-    ap.add_argument("--bg-prompt", default="", help="custom AI background prompt (overrides category prompt)")
     args = ap.parse_args()
 
     theme = THEMES.get(args.category, THEMES["default"])
@@ -195,17 +194,10 @@ def main():
     if args.style == "ai":
         cache = ""
         if args.bg_cache:
-            if args.bg_prompt:
-                prompt_hash = hashlib.md5(args.bg_prompt.encode()).hexdigest()[:12]
-                cache = os.path.join(args.bg_cache, f"{args.category}-{args.lang}-custom-{prompt_hash}.jpg")
-            else:
-                cache = os.path.join(args.bg_cache, f"{args.category}-{args.lang}.jpg")
+            cache = os.path.join(args.bg_cache, f"{args.category}-{args.lang}.jpg")
             if args.fresh_bg and os.path.exists(cache):
                 os.remove(cache)
-        if args.bg_prompt:
-            prompt = args.bg_prompt
-        else:
-            prompt = AI_PROMPTS.get(args.category, AI_PROMPTS["default"]).get(args.lang, AI_PROMPTS["default"]["bn"])
+        prompt = AI_PROMPTS.get(args.category, AI_PROMPTS["default"]).get(args.lang, AI_PROMPTS["default"]["bn"])
         bg = seedream_bg(prompt, cache)
         img = crop_to_banner(bg)
         img = draw_overlay(img, theme, args.title, args.lang, args.date, ai_mode=True)

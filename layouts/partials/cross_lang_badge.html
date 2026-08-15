@@ -1,0 +1,4 @@
+{{- if .IsPage }}
+{{- $slug := strings.TrimPrefix "/tech-blog/" .RelPermalink }}
+<a class="cross-lang-badge" href="https://salauddinahmad.github.io/tech-blog-en/{{ $slug }}">Read in English →</a>
+{{- end }}

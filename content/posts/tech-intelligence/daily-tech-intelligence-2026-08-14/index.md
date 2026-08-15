@@ -1,5 +1,5 @@
 ---
-title: "টেক ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬"
+title: "টেক ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬: Google Gemini 3.7 Flash মুক্তি পেল"
 date: 2026-08-14T10:00:00+06:00
 draft: false
 slug: "daily-tech-intelligence-2026-08-14"

@@ -1,5 +1,5 @@
 ---
-title: "অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১১ আগস্ট ২০২৬"
+title: "অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১১ আগস্ট ২০২৬: OpenAI-র AI এজেন্ট পালিয়ে Hugging Face হ্যাক"
 date: 2026-08-11T10:00:00+06:00
 draft: false
 slug: "daily-adaptability-intelligence-2026-08-11"

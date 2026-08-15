@@ -1,5 +1,5 @@
 ---
-title: "টেক ইন্টেলিজেন্স — ১০ আগস্ট ২০২৬"
+title: "টেক ইন্টেলিজেন্স — ১০ আগস্ট ২০২৬: OpenAI কিনে নিল NextSlide"
 date: 2026-08-10T10:00:00+06:00
 draft: false
 slug: "daily-tech-intelligence-2026-08-10"

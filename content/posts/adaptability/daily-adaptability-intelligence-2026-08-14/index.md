@@ -1,5 +1,5 @@
 ---
-title: "অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬"
+title: "অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬: EU AI Act-এর Article 50 কার্যকর"
 date: 2026-08-14T10:00:00+06:00
 draft: false
 slug: "daily-adaptability-intelligence-2026-08-14"

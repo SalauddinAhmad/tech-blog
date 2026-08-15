@@ -1,5 +1,5 @@
 ---
-title: "টেক ইন্টেলিজেন্স — ১২ আগস্ট ২০২৬"
+title: "টেক ইন্টেলিজেন্স — ১২ আগস্ট ২০২৬: Groq ফ্রি টিয়ার + DeepSeek-এর দাম কমল"
 date: 2026-08-12T10:00:00+06:00
 draft: false
 slug: "daily-tech-intelligence-2026-08-12"

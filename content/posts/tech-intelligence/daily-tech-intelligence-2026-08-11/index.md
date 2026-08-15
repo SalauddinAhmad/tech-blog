@@ -1,5 +1,5 @@
 ---
-title: "টেক ইন্টেলিজেন্স — ১১ আগস্ট ২০২৬"
+title: "টেক ইন্টেলিজেন্স — ১১ আগস্ট ২০২৬: Meta-র Muse Glimmer 30B ওপেন-ওয়েট মডেল"
 date: 2026-08-11T10:00:00+06:00
 draft: false
 slug: "daily-tech-intelligence-2026-08-11"

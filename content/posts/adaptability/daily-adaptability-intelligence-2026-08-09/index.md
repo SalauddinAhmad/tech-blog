@@ -1,5 +1,5 @@
 ---
-title: "অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ৯ আগস্ট ২০২৬"
+title: "অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ৯ আগস্ট ২০২৬: Alibaba Qwen 3.8-Max রিলিজ"
 date: 2026-08-09T10:00:00+06:00
 draft: false
 slug: "daily-adaptability-intelligence-2026-08-09"
