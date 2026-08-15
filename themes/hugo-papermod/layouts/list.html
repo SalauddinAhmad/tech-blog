@@ -1,4 +1,5 @@
 {{- define "main" }}
+{{- partial "flash_news.html" . -}}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
@@ -42,7 +43,6 @@
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
