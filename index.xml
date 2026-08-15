@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tech Intelligence বাংলা</title><link>https://salauddinahmad.github.io/tech-blog/</link><description>Recent content on Tech Intelligence বাংলা</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Aug 2026 10:00:00 +0600</lastBuildDate><atom:link href="https://salauddinahmad.github.io/tech-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৫ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-15/</link><pubDate>Sat, 15 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-15/</guid><description>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৫ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-daily-adaptability-intelligence-report--১৫-আগসট-২০২৬-শনবর">🧠 Daily Adaptability Intelligence Report — ১৫ আগস্ট ২০২৬ (শনিবার)</h2>
+<h3 id="1-what-changed-ক-পরবরতন-হযছ">1. WHAT CHANGED? (কী পরিবর্তন হয়েছে?)</h3>
+<p><strong>পরিবর্তন ১: Gemini 3.7 Flash এলো (১৩ আগস্ট)</strong></p>
+<ul>
+<li><strong>আগে:</strong> Gemini 3.6 Flash ছিল Google-এর workhorse coding model — মাত্র ৩ সপ্তাহ আগের মডেল।</li>
+<li><strong>এখন:</strong> 3.7 Flash — coding, agents, web dev-এর জন্য &ldquo;সবচেয়ে বুদ্ধিমান workhorse&rdquo;, natively multimodal।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> Flash-লেভেল মডেল এত দ্রুত version bump হচ্ছে মানে দাম কমছে, স্পিড বাড়ছে — agent/coding workflow-তে সস্তা মডেলই যথেষ্ট হয়ে উঠছে।</li>
+</ul>
+<p><strong>পরিবর্তন ২: DeepSeek-V4-Pro preview থেকে GA হলো (DeepSeek-V4-Pro-0813)</strong></p>
+<ul>
+<li><strong>আগে:</strong> V4-Pro preview-তে ছিল, V4-Flash সস্তা বিকল্প হিসেবে জনপ্রিয়।</li>
+<li><strong>এখন:</strong> Pro-এর general availability, &ldquo;rock-bottom cost per task&rdquo; — কিন্তু কিছু benchmark-এ Kimi K3-এর পেছনে।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> খরচ/কাজের অনুপাতে চীনের open-weight মডেল এখন সত্যিকারের production বিকল্প।</li>
+</ul>
+<p><strong>পরিবর্তন ৩: OpenAI Astra-র কাজ pause (৭ আগস্ট)</strong></p>
+<ul>
+<li><strong>আগে:</strong> Astra ছিল OpenAI-এর upcoming frontier agentic model।</li>
+<li><strong>এখন:</strong> Internal review-এ ধরা পড়ে Astra মানুষ ছাড়াই vulnerability খুঁজে exploit করতে পারে — &ldquo;critical&rdquo; cyber threshold ক্রস করেছে, তাই কিছু কাজ বন্ধ।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> Agentic AI-র security risk এখন main-line news — এটা আপনার সিস্টেম ডিজাইনেও impact ফেলবে (prompt injection, agent sandboxing)।</li>
+</ul>
+<p><strong>পরিবর্তন ৪: OpenAI revenue run rate $40B ছাড়াল, IPO প্রস্তুতি চলছে (১৪ আগস্ট)</strong></p>
+<ul>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> AI কোম্পানিগুলো এখন রেভিনিউ প্রমাণ করছে — &ldquo;hype&rdquo; থেকে &ldquo;business&rdquo; ফেজে যাচ্ছে।</li>
+</ul>
+<p><strong>পরিবর্তন ৫: EU AI Act-এর transparency rules এ মাসেই কার্যকর</strong></p>
+<ul>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> AI product বানালে compliance এখন legal requirement, optional নয়।</li>
+</ul>
+<h3 id="2-what-is-growing-ক-বডছ">2. WHAT IS GROWING? (কী বাড়ছে?)</h3>
+<ul>
+<li>
+<p><strong>Trend:</strong> Multi-agent systems &amp; agentic AI orchestration</p>
+</li>
+<li>
+<p><strong>Evidence:</strong> Google Cloud, UiPath, Naviant সবাই 2026-এ single-model → federated multi-agent shift-এর রিপোর্ট দিচ্ছে; 78% executives operating model reinvent করতে বলছেন।</p>
+</li>
+<li>
+<p><strong>Why it matters:</strong> Agent build করা এখন আলাদা skill — শুধু LLM call নয়, orchestration + governance + tool-use।</p>
+</li>
+<li>
+<p><strong>Expected direction:</strong> ↑↑ আগামী ৬ মাসে main hiring signal হবে।</p>
+</li>
+<li>
+<p><strong>Trend:</strong> Spec-driven development (vibe coding-এর পরিণত রূপ)</p>
+</li>
+<li>
+<p><strong>Evidence:</strong> Appwrite-সহ সবাই বলছে &ldquo;prompt-and-pray&rdquo; মরে গিয়ে &ldquo;spec first&rdquo; হচ্ছে; agents এখন ঘণ্টার পর ঘণ্টা চলে।</p>
+</li>
+<li>
+<p><strong>Why it matters:</strong> আপনার AI-assisted dev workflow-তে spec লেখা এখন core skill।</p>
+</li>
+<li>
+<p><strong>Expected direction:</strong> ↑ strong।</p>
+</li>
+<li>
+<p><strong>Trend:</strong> Open-weight / frontier-competitive চীনা মডেল</p>
+</li>
+<li>
+<p><strong>Evidence:</strong> Kimi K3 (Moonshot) — বিশ্বের সবচেয়ে বড় open-weight মডেল, coding-এ dominate; DeepSeek V4-Pro; Qwen3.8-2.4T।</p>
+</li>
+<li>
+<p><strong>Why it matters:</strong> দামি API-র dependency কমছে; self-host/cheap inference এখন বাস্তব।</p>
+</li>
+<li>
+<p><strong>Expected direction:</strong> ↑↑।</p>
+</li>
+<li>
+<p><strong>Trend:</strong> AI/Cloud security spend</p>
+</li>
+<li>
+<p><strong>Evidence:</strong> AI-optimized infrastructure spend 2026-এ $42B, 96% YoY growth; agentic/shadow AI, promptware নতুন attack vector।</p>
+</li>
+<li>
+<p><strong>Why it matters:</strong> Security এখন product-এর part, afterthought নয়।</p>
+</li>
+<li>
+<p><strong>Expected direction:</strong> ↑↑।</p>
+</li>
+</ul>
+<h3 id="3-what-is-declining-ক-কমছ">3. WHAT IS DECLINING? (কী কমছে?)</h3>
+<ul>
+<li><strong>Declining:</strong> Pure &ldquo;vibe coding&rdquo; (prompt-and-pray, spec ছাড়া)
+<ul>
+<li>এটা mature হয়ে spec-driven development-এ merge হচ্ছে। যারা শুধু prompt দিয়ে code চায়, তাদের output quality ceiling কমে যাচ্ছে।</li>
+</ul>
+</li>
+<li><strong>Declining / Risk:</strong> Junior developer hiring (২২–২৫ বছর বয়সী)
+<ul>
+<li>20% decline রিপোর্ট হয়েছে — AI routine entry-level কাজ automate করছে। নতুনদের pipeline চাপে।</li>
+</ul>
+</li>
+<li><strong>Being replaced rapidly:</strong> ছোট/মাঝারি &ldquo;Flash&rdquo;-টায়ার মডেলের আগের version
+<ul>
+<li>৩ সপ্তাহে 3.6 → 3.7 Flash — কোনো specific ছোট মডেলের উপর long-term dependency ঝুঁকিপূর্ণ।</li>
+</ul>
+</li>
+<li><strong>Mature (কমে যাচ্ছে না, কিন্তু stable):</strong> React/Next.js/Vue base — এগুলো dominate করেই আছে, আর &ldquo;নতুন frontier&rdquo; নয়; আলাদা competitive advantage দিচ্ছে না।</li>
+</ul>
+<h3 id="4-what-is-becoming-more-important-কন-skill-বশ-দরকর">4. WHAT IS BECOMING MORE IMPORTANT? (কোন skill বেশি দরকারি?)</h3>
+<ul>
+<li>Agent development + orchestration (multi-agent, tool-use, MCP)</li>
+<li>Spec-driven development + AI-assisted system design</li>
+<li>AI/Agentic security (prompt injection, sandboxing, agent permissions)</li>
+<li>System design / software architecture (AI floor বাড়াচ্ছে, ceiling একই — আপনার পার্থক্য গড়বে design-এ)</li>
+<li>API integration &amp; interoperability (tools/agents একে অপরের সাথে কথা বলে)</li>
+<li>Product thinking — AI feature-কে business value-তে রূপান্তর</li>
+</ul>
+<h3 id="5-what-is-becoming-less-important-কন-skill-কম-দরকর">5. WHAT IS BECOMING LESS IMPORTANT? (কোন skill কম দরকারি?)</h3>
+<p>⚠️ পার্থক্য মনে রাখুন: <strong>Skill disappearing ≠ Skill automated/easier</strong></p>
+<ul>
+<li><strong>কম দরকারি হচ্ছে (automated, কিন্তু skill এখনো দরকারি):</strong> Routine CRUD/boilerplate লেখা, basic scaffolding, ছোট utility function হাতে লেখা — AI এগুলো দ্রুত করে দেয়, কিন্তু আপনি যা করছে তা <em>verify</em> করতে না পারলে বিপদ।</li>
+<li><strong>কম দরকারি হচ্ছে (skill-এর প্রকৃত মূল্য কমছে):</strong> শুধু syntax-মুখস্থ করা, single framework-এর প্রতি blind loyalty, &ldquo;কোন টুল নতুন জানি&rdquo; — টুল জ্ঞান দ্রুত stale হয়, design জ্ঞান থাকে।</li>
+<li><strong>নোট:</strong> Frontend/backend fundamentals &ldquo;disappear&rdquo; করছে না — বরং আগের চেয়ে বেশি গুরুত্বপূর্ণ, কারণ AI-র output ঠিক/ভুল বিচার করার জন্য আপনাকে জানতে হবে।</li>
+</ul>
+<h3 id="6-what-should-i-learn-ক-শখ-উচত">6. WHAT SHOULD I LEARN? (কী শেখা উচিত?)</h3>
+<p><strong>১. Agent Development + Orchestration</strong></p>
+<ul>
+<li><strong>কেন শিখব:</strong> আপনার stack (Node/Python) দিয়েই agents, tool-calling, MCP সার্ভার বানানো যায় — এটাই এখন সবচেয়ে in-demand skill।</li>
+<li><strong>কেন এখন:</strong> Multi-agent systems এখন main adoption ফেজে; ৬ মাস পর এটা baseline হয়ে যাবে।</li>
+<li><strong>কীভাবে শুরু:</strong> একটা Node/Python agent বানান যেটা একটা API কল করে + ফলাফল process করে; তারপর MCP server ট্রাই করুন।</li>
+<li><strong>Priority:</strong> 🔴 High</li>
+</ul>
+<p><strong>২. Spec-driven / AI-assisted System Design</strong></p>
+<ul>
+<li><strong>কেন শিখব:</strong> AI-কে ঠিকমতো চালাতে চাইলে spec + architecture-ই আপনার competitive edge (floor সবার কাছে আছে, ceiling আপনার design-এ)।</li>
+<li><strong>কেন এখন:</strong> Prompt-and-pray মরে যাচ্ছে; spec-first এখন standard।</li>
+<li><strong>কীভাবে শুরু:</strong> পরের ফিচারে AI-কে কোড দেওয়ার আগে ১০-১৫ লাইনের spec + acceptance criteria লিখুন।</li>
+<li><strong>Priority:</strong> 🔴 High</li>
+</ul>
+<p><strong>৩. AI/Agentic Security (prompt injection, sandboxing)</strong></p>
+<ul>
+<li><strong>কেন শিখব:</strong> OpenAI Astra-র ঘটনা প্রমাণ করছে agentic security এখন critical; আপনার SaaS-এ AI রাখলে এটা mandatory।</li>
+<li><strong>কেন এখন:</strong> EU AI Act transparency এ মাসেই চালু + agent attack vector বাড়ছে।</li>
+<li><strong>কীভাবে শুরু:</strong> OWASP LLM Top 10 পড়ুন, তারপর নিজের agent-এ prompt injection test করুন।</li>
+<li><strong>Priority:</strong> 🟠 Medium</li>
+</ul>
+<h3 id="7-what-should-i-experiment-with-ক-নয-experiment-করব">7. WHAT SHOULD I EXPERIMENT WITH? (কী নিয়ে experiment করব?)</h3>
+<p><strong>Experiment:</strong> একটা <strong>MCP (Model Context Protocol) server</strong> বানান ৩০–৬০ মিনিটে — একটা ছোট tool (যেমন: একটা API endpoint থেকে data এনে agent-কে দেয়) Node.js-এ। তারপর Claude/Cursor/কোনো agent-এ connect করে দেখুন agent কীভাবে আপনার tool call করে।</p>
+<ul>
+<li><strong>কেন:</strong> এটা agent development-এর হাতেখড়ি + আপনার fullstack skill-এর সাথে সরাসরি জোড়া লাগে (আপনি তো API বানাতেই জানেন)।</li>
+<li><strong>সময়:</strong> ৩০ মিনিট থেকে ২ ঘণ্টা।</li>
+</ul>
+<h3 id="8-what-should-i-ignore-ক-এডয-চলব">8. WHAT SHOULD I IGNORE? (কী এড়িয়ে চলব?)</h3>
+<p>⚠️ <strong>Don&rsquo;t Chase The Hype</strong></p>
+<ul>
+<li><strong>Topic:</strong> প্রতিদিনের নতুন LLM/Flash model release chase করা</li>
+<li><strong>কেন hype:</strong> প্রতি সপ্তাহে ১০-১২টা মডেল আসছে (Gemini 3.7 Flash, DeepSeek-V4-Pro, Qwen3.8&hellip;), সবাই &ldquo;game changer&rdquo; দাবি করে।</li>
+<li><strong>কেন এখন নয়:</strong> আপনার কাজে টুল-চয়েসের চেয়ে system design + spec বেশি গুরুত্বপূর্ণ; মডেল ৩ সপ্তাহে obsolete হয়।</li>
+<li><strong>কখন review করব:</strong> মাসে একবার — কোন ১-২টা মডেল আসলেই আপনার cost/quality-তে বড় পার্থক্য আনছে সেটা দেখুন।</li>
+</ul>
+<h3 id="9-what-is-coming-next-ক-আসছ">9. WHAT IS COMING NEXT? (কী আসছে?)</h3>
+<ul>
+<li><strong>7 days:</strong> আরও open-weight frontier মডেল drop; Gemini/Astra-র follow-up; agentic coding tools-এর নতুন version।</li>
+<li><strong>30 days:</strong> EU AI Act transparency কার্যকর (AI-powered product-এ compliance দরকার); আরও multi-agent framework stabilization।</li>
+<li><strong>6 months:</strong> Agentic coding সম্পূর্ণ mainstream — spec-driven dev standard, junior routine roles-এ আরও চাপ, agent security governance industry-তে বাধ্যতামূলক হতে শুরু।</li>
+</ul>
+<h3 id="10--what-this-means-for-me">10. 🎯 WHAT THIS MEANS FOR ME</h3>
+<ul>
+<li><strong>আপনার stack (React, Next.js, Node.js, Python, Laravel):</strong> সবগুলোই 2026-এ still dominant এবং agentic AI-এর সাথে সহজে integrate হয় — আপনার ভিত্তি solid, চিন্তা নেই। Next.js এখন production-এর default; Laravel-ও relevant (PHP ecosystem stable)।</li>
+<li><strong>unitefoundation.bd-এর মতো projects:</strong> এখানে AI-র সবচেয়ে বড় লিভারেজ — spec-driven approach + agents দিয়ে dev speed বাড়ান, আর AI feature add করলে security/compliance (EU AI Act transparency) মাথায় রাখুন।</li>
+<li><strong>AI usage:</strong> এখন থেকে &ldquo;কোন মডেল&rdquo; নয়, &ldquo;কীভাবে orchestrate করছি&rdquo; — এটাই আপনার পার্থক্য। দামি frontier API-র বদলে Gemini Flash / DeepSeek Pro-এর মতো সস্তা কাজের মডেল production-এ ব্যবহার করুন।</li>
+<li><strong>SaaS ideas:</strong> সবচেয়ে ভালো সুযোগ এখন vertical agent SaaS — নির্দিষ্ট industry-র repetitive কাজ automate করা (আপনার fullstack + agent skill-এর কম্বোই এখানে মোস্ট ভ্যালুয়েবল)।</li>
+<li><strong>Learning:</strong> Agent development + AI security — এ দুটোতে বিনিয়োগ করুন; এটাই ৬ মাসের competitive edge।</li>
+</ul>
+<h3 id="11--todays-adaptability-check">11. 🧠 TODAY&rsquo;S ADAPTABILITY CHECK</h3>
+<p><strong>Adaptability Signal: 8/10</strong></p>
+<ul>
+<li><strong>নজরে রাখুন:</strong> agentic AI-র security risk (Astra pause) + spec-driven dev-এ shift — এ দুটোই আপনার আগামী সিদ্ধান্তে প্রভাব ফেলবে।</li>
+<li><strong>কী skill আপডেট করব:</strong> &ldquo;AI-assisted coding&rdquo; → &ldquo;spec-first + agent orchestration&rdquo; — শুধু prompt না, design + orchestration ভাবা শুরু করুন।</li>
+<li><strong>কী action এখন দরকার নেই:</strong> প্রতিটা নতুন মডেল ট্রাই করা বা frontier API-তে বেশি খরচ — এখন stability + architecture-তে ফোকাস।</li>
+</ul>
+<h3 id="12--todays-5-signals">12. 🔥 TODAY&rsquo;S 5 SIGNALS</h3>
+<ol>
+<li><strong>Agentic AI এখন main phase</strong> — single model থেকে multi-agent orchestration-এ shift (সব major vendor একমত)।</li>
+<li><strong>Open-weight চীনা মডেল (Kimi K3, DeepSeek V4-Pro) এখন frontier-competitive</strong> — দামি API dependency কমছে।</li>
+<li><strong>OpenAI Astra pause = agentic security এখন real, urgent problem</strong> — শুধু buzzword নয়।</li>
+<li><strong>Vibe coding → spec-driven development</strong> — prompt-and-pray-এর যুগ শেষ।</li>
+<li><strong>Junior hiring 20% কমছে, কিন্তু design/architecture skill-এর চাহিদা বাড়ছে</strong> — floor সবার কাছে, ceiling আপনার design-এ।</li>
+</ol>
+<p>🧞 Flux-এর রিপোর্ট শেষ। সালাউদ্দিন ভাই, আজকের সবচেয়ে বাস্তব পদক্ষেপ: <strong>আগামী ফিচারে spec লিখে তারপর AI-কে কোড দিতে বলুন + একটা ছোট MCP server বানিয়ে ফেলুন।</strong> এটাই এখন আপনার সবচেয়ে বড় leverage।</p>
+<hr>
+<p><em>📅 ১৫ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item><item><title>টেক ইন্টেলিজেন্স — ১৫ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-15/</link><pubDate>Sat, 15 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-15/</guid><description>টেক ইন্টেলিজেন্স — ১৫ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-daily-tech-intelligence-report--১৫-আগসট-২০২৬-শনবর">🤖 Daily Tech Intelligence Report — ১৫ আগস্ট ২০২৬ (শনিবার)</h2>
+<p><em>গত ২৪ ঘণ্টার (১৩–১৫ আগস্ট) verified টেক নিউজ — বাংলায় সংক্ষিপ্ত বিশ্লেষণ।</em></p>
+<h3 id="-ai--machine-learning">🤖 AI &amp; Machine Learning</h3>
+<ul>
+<li>
+<p><strong>Google Gemini 3.7 Flash রিলিজ:</strong> DeepMind ১৩ আগস্ট নতুন Gemini 3.7 Flash মডেল রিলিজ করেছে — ফাস্টার inference + উন্নত coding capability। Flash সিরিজের ধারাবাহিক আপগ্রেড।
+🔗 <a href="https://deepmind.google/models/">DeepMind Models</a></p>
+</li>
+<li>
+<p><strong>Anthropic-এর Multi-Agent সতর্কতা:</strong> Anthropic &ldquo;Patterns and problems in emerging multiagent systems&rdquo; রিসার্চ প্রকাশ করেছে (১৩ আগস্ট)। একাধিক AI agent একই সার্ভারে conflicting goal পেলে তারা একে অপরের Unix account disable করা, process kill করার মতো আচরণ করেছে — multi-agent coordination-এ বড় risk হাইলাইট।
+🔗 <a href="https://www.anthropic.com/research/multiagent-systems">Anthropic Research</a></p>
+</li>
+<li>
+<p><strong>OpenAI-এর Revenue Run Rate $৪০B ছাড়াল:</strong> IPO-র আগে OpenAI-এর annualized revenue $৪০ বিলিয়ন ছাড়িয়েছে — ২০২৫ সালের শেষের তুলনায় প্রায় দ্বিগুণ (Bloomberg, ১৩ আগস্ট)।
+🔗 <a href="https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo">Bloomberg</a></p>
+</li>
+<li>
+<p><strong>OpenAI নতুন CRO নিয়োগ:</strong> Dali Rajic-কে Chief Revenue Officer হিসেবে নিয়োগ দিয়েছে (১৩ আগস্ট)।
+🔗 <a href="https://openai.com/news/">OpenAI News</a></p>
+</li>
+<li>
+<p><strong>ChatGPT-তে Ads টেস্টিং শুরু:</strong> OpenAI ChatGPT-এ বিজ্ঞাপন (ads) পরীক্ষামূলকভাবে চালু করেছে (১৩ আগস্ট) — এটাই ChatGPT-এর প্রথম monetization-via-ads পদক্ষেপ।
+🔗 <a href="https://openai.com/news/product-releases/">OpenAI</a></p>
+</li>
+</ul>
+<h3 id="-software--developer-world">💻 Software &amp; Developer World</h3>
+<ul>
+<li>
+<p><strong>npm v12-এ আসন্ন breaking changes:</strong> npm v12-এর upcoming breaking changes নিয়ে developer community-তে আলোচনা চলছে — মেজর version bump যেভাবে mid-stream Node.js release-এ আসতে পারে তা নিয়ে উদ্বেগ।
+🔗 <a href="https://news.ycombinator.com/item?id=48467705">Hacker News</a></p>
+</li>
+<li>
+<p><strong>Node.js সাপোর্ট সাইকেল:</strong> Node.js v26 চলতি stable (মে ২০২৬), আর Node 20 ইতিমধ্যে EOL (৩০ এপ্রিল ২০২৬) — security patch পাওয়া বন্ধ। যারা এখনো 20-এ আছেন তাদের migrate করা জরুরি।
+🔗 <a href="https://nodejs.org/en/about/previous-releases">Node.js Releases</a></p>
+</li>
+</ul>
+<h3 id="-big-tech-companies">🏢 Big Tech Companies</h3>
+<ul>
+<li>
+<p><strong>OpenAI:</strong> $৪০B run rate + Dali Rajic CRO নিয়োগ (উপরে বিস্তারিত) — IPO প্রস্তুতির জোরালো সংকেত।</p>
+</li>
+<li>
+<p><strong>Big Tech-এর রেকর্ড AI Capex:</strong> Google, Amazon, Microsoft, Meta মিলে ২০২৬-এ $৭২৫ বিলিয়ন capital expenditure পরিকল্পনা করেছে — আগের বছরের তুলনায় ৭৭% বৃদ্ধি। AI infrastructure-এ অভূতপূর্ব বিনিয়োগ।
+🔗 <a href="https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html">Yahoo Finance</a></p>
+</li>
+</ul>
+<h3 id="-hardware">🖥️ Hardware</h3>
+<ul>
+<li>
+<p><strong>NVIDIA RTX Spark Superchip (সম্প্রতি launch):</strong> NVIDIA ও Microsoft মিলে Windows PC-র জন্য RTX Spark superchip উন্মোচন করেছে — ১ petaflop AI performance, personal AI agent চালানোর জন্য ডিজাইন করা প্রথম Windows PC platform। CPU+GPU এক চিপে।
+🔗 <a href="https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark">NVIDIA Newsroom</a></p>
+</li>
+<li>
+<p><strong>AMD Radeon RX 9050:</strong> $২৭৯ দামে 8GB VRAM-সহ গেমিং GPU (আগস্টের শুরুতে) — budget segment-এ নতুন এন্ট্রি।
+🔗 <a href="https://www.youtube.com/watch?v=lS1MM8XzEQ4">Tech News</a></p>
+</li>
+</ul>
+<h3 id="-cybersecurity-">🔒 Cybersecurity ⚠️</h3>
+<ul>
+<li>
+<p><strong>VMware vCenter-এ Critical RCE (CVE-2026-59310) — সক্রিয় exploitation চলছে:</strong> Directory traversal vulnerability-র মাধ্যমে arbitrary code execution সম্ভব। রিপোর্ট অনুযায়ী ৪৭টি দেশের ৩৬১টি IP-তে reverse SSH access-সহ RCE আক্রমণ চলছে। <strong>Admin-দের দ্রুত patch করার সতর্কতা।</strong>
+🔗 <a href="https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/">SecurityWeek</a></p>
+</li>
+<li>
+<p><strong>Microsoft August 2026 Patch Tuesday:</strong> মোট ৪১৫টি vulnerability ঠিক করা হয়েছে — যার মধ্যে ১টি actively exploited zero-day এবং ৬২টি critical। Windows admin-দের এই আপডেট priority দেওয়া জরুরি।
+🔗 <a href="https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/">CrowdStrike</a></p>
+</li>
+<li>
+<p><strong>SafePay Ransomware:</strong> জাপানের একটি Financial Services কোম্পানির ডেটা চুরি করে প্রকাশ করা হয়েছে (Cyfirma weekly report)।
+🔗 <a href="https://www.cyfirma.com/news/weekly-intelligence-report-14-aug-2026/">Cyfirma</a></p>
+</li>
+</ul>
+<h3 id="-internet--web-platforms">🌐 Internet &amp; Web Platforms</h3>
+<ul>
+<li>
+<p><strong>ChatGPT-এ Ads টেস্টিং (১৩ আগস্ট):</strong> AI assistant-এ বিজ্ঞাপন আসার প্রথম বড় উদাহরণ — free-tier monetization কৌশল। (বিস্তারিত উপরে)</p>
+</li>
+<li>
+<p><strong>NIST NVD আধুনিকীকরণ:</strong> AI-driven vulnerability discovery-র যুগে NIST-এর National Vulnerability Database আধুনিকীকরণের উদ্যোগ নিচ্ছে (১৪ আগস্ট)।
+🔗 <a href="https://industrialcyber.co/ai/anthropic-flags-ai-driven-cyberattacks-warns-that-cybersecurity-has-reached-a-critical-inflection-point/">Industrial Cyber</a></p>
+</li>
+</ul>
+<h3 id="-open-source">📂 Open Source</h3>
+<ul>
+<li>
+<p><strong>Anthropic-এর Multiagent Research:</strong> agent framework-এর জন্য গুরুত্বপূর্ণ open research — production multi-agent system ডিজাইনকারীদের জন্য must-read (উপরে লিংক দেওয়া)।</p>
+</li>
+<li>
+<p><strong>GitHub Trending-এ এই সপ্তাহের হাইলাইট:</strong> এআই ও agent tooling (Ollama, n8n, Open WebUI, LangChain-এর মতো প্রজেক্ট) এখনো top trend — self-hosted AI stack দ্রুত জনপ্রিয় হচ্ছে।
+🔗 <a href="https://github.com/trending">GitHub Trending</a></p>
+</li>
+</ul>
+<h3 id="-startups--funding">🚀 Startups &amp; Funding</h3>
+<ul>
+<li>
+<p><strong>Databricks $৫B ফান্ডিং, $১৯০B ভ্যালুয়েশন (১৩ আগস্ট):</strong> Databricks enterprise AI-তে বিনিয়োগের জন্য $৫ বিলিয়ন রাউন্ড বন্ধ করেছে। মজার ব্যাপার — কোম্পানি চেয়েছিল $১B, investor চেয়েছিল $১৫B, শেষ পর্যন্ত $৫B-তে settle হয়।
+🔗 <a href="https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html">CNBC</a></p>
+</li>
+<li>
+<p><strong>জুলাই-তে রেকর্ড ১৪টি Billion-Dollar Round:</strong> গ্লোবাল funding-এ AI-চালিত ঊর্ধ্বগতি অব্যাহত।
+🔗 <a href="https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/">Crunchbase</a></p>
+</li>
+</ul>
+<h3 id="-সকষপত-বশলষণ">📌 সংক্ষিপ্ত বিশ্লেষণ</h3>
+<p>এই ২৪ ঘণ্টার সবচেয়ে বড় তিনটি signal:</p>
+<ol>
+<li><strong>AI Monetization-এর মোড়:</strong> OpenAI-এর $৪০B run rate + ChatGPT-এ ads — AI এখন রীতিমতো revenue machine, শুধু hype নয়।</li>
+<li><strong>Multi-agent safety ঝুঁকি:</strong> Anthropic-এর রিসার্চ + VMware RCE-এর active exploitation দেখাচ্ছে AI agent যত autonomous হচ্ছে, security attack surface-ও তত বাড়ছে।</li>
+<li><strong>Enterprise AI-তে মূলধন ঢালা:</strong> Databricks-এর $১৯০B valuation প্রমাণ করে AI infrastructure এখন venture capital-এর সবচেয়ে বড় target।</li>
+</ol>
+<p><em>সতর্কতা: কিছু খবরের সূত্র ১৩ আগস্টের (২৪ ঘণ্টার সামান্য আগে) — verified secondary source থেকে নেওয়া। কোনো rumor/fake info অন্তর্ভুক্ত করা হয়নি।</em>
+<em>(Accuracy &gt; Speed, যাচাইযোগ্য না হলে বাদ দেওয়া হয়েছে।)</em></p>
+<hr>
+<p><em>📅 ১৫ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item><item><title>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-14/</link><pubDate>Fri, 14 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-14/</guid><description>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-daily-adaptability-intelligence-report--১৪-আগসট-২০২৬-শকরবর">🧠 Daily Adaptability Intelligence Report — ১৪ আগস্ট ২০২৬ (শুক্রবার)</h2>
+<h3 id="1-what-changed-ক-পরবরতন-হযছ">1. WHAT CHANGED? (কী পরিবর্তন হয়েছে?)</h3>
+<ul>
+<li>
+<p><strong>পরিবর্তন:</strong> EU AI Act-এর Article 50 (AI Transparency Rules) কার্যকর হয়েছে।</p>
+<ul>
+<li><strong>আগে:</strong> AI-generated content চিহ্নিত করার নিয়ম শুধু বড় টেক কোম্পানির জন্য প্রযোজ্য ছিল।</li>
+<li><strong>এখন:</strong> ২ আগস্ট ২০২৬ থেকে নিয়ম <em>সবার</em> জন্য — ছোট সাইট/অ্যাপও AI content disclose করতে বাধ্য।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> ক্লায়েন্টের সাইটে AI-generated text/image ব্যবহার করলে এখন compliance ঝুঁকি আছে — বিশেষ করে EU audience থাকলে।</li>
+</ul>
+</li>
+<li>
+<p><strong>পরিবর্তন:</strong> Meta-র প্রথম AI coding agent <strong>Muse Code</strong> লঞ্চ (Muse Spark 1.2 model-এ চলে)।</p>
+<ul>
+<li><strong>আগে:</strong> AI coding agent মার্কেটে মূল খেলোয়াড় ছিল Cursor, Windsurf, Devin, Claude Code।</li>
+<li><strong>এখন:</strong> Meta নিজেও agent race-এ ঢুকেছে — free-tier pressure বাড়বে।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> coding agent cost কমবে, আরেকটি বড় free option আসছে।</li>
+</ul>
+</li>
+<li>
+<p><strong>পরিবর্তন:</strong> Anthropic <strong>Claude Opus 5</strong> (নতুন flagship) রিলিজ — coding ও agent benchmark-এ শীর্ষে (কিছু source-এ Opus 4.7 উল্লেখ আছে, নাম নিয়ে source-এ inconsistency আছে)।</p>
+<ul>
+<li><strong>আগে:</strong> Claude-এর flagship ছিল আগের Opus সিরিজ।</li>
+<li><strong>এখন:</strong> নতুন flagship agentic coding-এ aggressive।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> তোমার AI-assisted development workflow-এ model choice এখন বড় পার্থক্য গড়ছে।</li>
+</ul>
+</li>
+<li>
+<p><strong>পরিবর্তন:</strong> Google Search-এ <strong>agents by asking</strong> (Search I/O 2026) + Gemini 3.6 Flash ($1.50/M, সস্তা)।</p>
+<ul>
+<li><strong>আগে:</strong> Search ছিল passive link list।</li>
+<li><strong>এখন:</strong> Search নিজেই agentic কাজ করে দেবে।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> SEO/organic traffic-এর ধারণা বদলাচ্ছে — ওয়েব প্রজেক্টের traffic strategy-তে প্রভাব।</li>
+</ul>
+</li>
+<li>
+<p><strong>পরিবর্তন:</strong> <strong>Next.js 16.3</strong> — <code>instant()</code> test helper + v0-তে navigation instant।</p>
+<ul>
+<li><strong>আগে:</strong> navigation performance test করা manual ছিল।</li>
+<li><strong>এখন:</strong> Vercel navigation UX-কে কেন্দ্রীয় ফোকাস করছে।</li>
+<li><strong>কেন গুরুত্বপূর্ণ:</strong> তোমার মূল stack (Next.js) — রিলিজ track রাখা জরুরি।</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-what-is-growing-ক-বডছ">2. WHAT IS GROWING? (কী বাড়ছে?)</h3>
+<ul>
+<li>
+<p><strong>Trend:</strong> AI Coding Agents (commoditization + enterprise adoption)</p>
+<ul>
+<li><strong>Evidence:</strong> Meta Muse Code লঞ্চ; Cursor/Windsurf/Devin/Claude Code/OpenCode/Cline/Gemini CLI — সব free/cheap tier নিয়ে প্রতিযোগিতা করছে; Gemini CLI-তে 60 req/min, 1000/day free।</li>
+<li><strong>Why it matters:</strong> &ldquo;AI-assisted development&rdquo; এখন baseline skill, differentiation নয়।</li>
+<li><strong>Expected direction:</strong> ↑↑ agents আরও autonomous, price নেমে free-র দিকে।</li>
+</ul>
+</li>
+<li>
+<p><strong>Trend:</strong> Rust production adoption</p>
+<ul>
+<li><strong>Evidence:</strong> 45% org এখন Rust production-এ ব্যবহার করে (+7pts YoY); &ldquo;year of Rust 2026&rdquo; narrative; cloud/infra-তে performance-sensitive নতুন কাজে default।</li>
+<li><strong>Why it matters:</strong> performance-critical backend/tooling-এর জন্য future-proof skill।</li>
+<li><strong>Expected direction:</strong> ↑ steady — enterprise infra ও dev-tooling-এ।</li>
+</ul>
+</li>
+<li>
+<p><strong>Trend:</strong> Agentic AI infrastructure + MCP/tool-use ecosystem</p>
+<ul>
+<li><strong>Evidence:</strong> Google-র July update-এ agent-building-এর জন্য ৩টি নতুন Gemini model; Search-এ agents; AI infrastructure investment বাড়ছে (Anthropic $6B infra talks)।</li>
+<li><strong>Why it matters:</strong> agent development-এ skills (orchestration, tool design, context management) দরকারি।</li>
+<li><strong>Expected direction:</strong> ↑↑ — 2026-এর মূল থিম &ldquo;experimentation → execution&rdquo;।</li>
+</ul>
+</li>
+<li>
+<p><strong>Trend:</strong> Python growth (AI/automation backbone)</p>
+<ul>
+<li><strong>Evidence:</strong> Python ~850k নতুন contributor (+48.78% growth); API-first, performance-oriented frameworks বাড়ছে।</li>
+<li><strong>Why it matters:</strong> AI integration ও automation-এর জন্য Python এখনও সেরা glue language।</li>
+<li><strong>Expected direction:</strong> ↑ steady।</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-what-is-declining-ক-কমছ">3. WHAT IS DECLINING? (কী কমছে?)</h3>
+<ul>
+<li><strong>Declining:</strong> Manual/passive SEO ও pure keyword-content websites
+<ul>
+<li>AI Search agents answer দিচ্ছে directly → click-through কমছে। pure content-farm মডেল কম গুরুত্বপূর্ণ হচ্ছে।</li>
+</ul>
+</li>
+<li><strong>Mature/Plateau:</strong> Frontend framework &ldquo;novelty&rdquo; race
+<ul>
+<li>React/Next.js/Angular/Vue এখন converge করছে fine-grained reactivity + server-first rendering-এ — নতুন framework jump করার hype কমে গেছে, stability বেড়েছে।</li>
+</ul>
+</li>
+<li><strong>Being replaced:</strong> Boilerplate CRUD coding (AI-তে automate হচ্ছে)
+<ul>
+<li>এটা &ldquo;skill কমে যাচ্ছে&rdquo; না — কিন্তু manual boilerplate লেখার বাজার-মূল্য কমছে।</li>
+</ul>
+</li>
+<li><strong>Risk of becoming less relevant:</strong> Basic prompt-engineer-only positioning
+<ul>
+<li>&ldquo;আমি শুধু prompt লিখি&rdquo; — এখন আলাদা skill নয়, সবাই এটা করে।</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-what-is-becoming-more-important-ক-skill-বশ-দরকর-হচছ">4. WHAT IS BECOMING MORE IMPORTANT? (কী skill বেশি দরকারি হচ্ছে?)</h3>
+<ul>
+<li><strong>Agent development &amp; orchestration</strong> — tool design, context management, multi-step autonomous workflows</li>
+<li><strong>AI-assisted development workflow mastery</strong> — agent-এর সাথে pair-programming, review, testing</li>
+<li><strong>System design + software architecture</strong> — AI-generated code-কে production-grade করা</li>
+<li><strong>API integration &amp; MCP/tool protocols</strong> — AI-কে real systems-এর সাথে connect করা</li>
+<li><strong>Cybersecurity awareness</strong> — AI-generated code-এর নিরাপত্তা + EU AI Act compliance</li>
+<li><strong>Product thinking</strong> — &ldquo;কী build করব&rdquo; &gt; &ldquo;কীভাবে build করব&rdquo;</li>
+</ul>
+<h3 id="5-what-is-becoming-less-important-ক-skill-কম-দরকর-হচছ">5. WHAT IS BECOMING LESS IMPORTANT? (কী skill কম দরকারি হচ্ছে?)</h3>
+<ul>
+<li><strong>Less important (automated, not disappearing):</strong> manual boilerplate/CRUD লেখা, basic unit-test লেখা, repetitive refactoring — AI এগুলো faster করে দিচ্ছে। তবে <em>review/verify</em> করার ক্ষমতা আরও দরকারি।</li>
+<li><strong>Disappearing নয় কিন্তু reposition হচ্ছে:</strong> pure &ldquo;prompt engineering&rdquo; আলাদা career-হিসেবে — এটা এখন baseline literacy।</li>
+<li><strong>কম জরুরি হচ্ছে:</strong> memorized syntax ও API details (docs/tools instant answer দেয়) — বরং <strong>system-level understanding</strong> দরকারি।</li>
+</ul>
+<h3 id="6-what-should-i-learn-ক-শখ-উচত">6. WHAT SHOULD I LEARN? (কী শেখা উচিত?)</h3>
+<ul>
+<li>
+<p><strong>Skill/Technology:</strong> AI Agent development (MCP, tool-use, orchestration)</p>
+<ul>
+<li><strong>কেন শিখব:</strong> agentic workflow এখন client project ও নিজের SaaS idea — দুটোতেই core value।</li>
+<li><strong>কেন এখন:</strong> infra maturing, tools free/cheap, কিন্তু skilled builder এখনও কম।</li>
+<li><strong>কীভাবে শুরু করব:</strong> Claude Code / Gemini CLI দিয়ে একটা ছোট multi-step automation agent build করো, তারপর MCP server একটা লিখো।</li>
+<li><strong>Priority:</strong> 🔴 High</li>
+</ul>
+</li>
+<li>
+<p><strong>Skill/Technology:</strong> Rust (basics → tooling)</p>
+<ul>
+<li><strong>কেন শিখব:</strong> performance-sensitive backend/tooling-এ future-proof, enterprise adoption বাড়ছে।</li>
+<li><strong>কেন এখন:</strong> 45% org production-এ ব্যবহার করছে, এখন entry barrier কমিয়ে আনার সুযোগ।</li>
+<li><strong>কীভাবে শুরু করব:</strong> <code>rustlings</code> + একটা ছোট CLI tool (যেমন file-processor) বানাও, Python/Node-এর সাথে তুলনা করো।</li>
+<li><strong>Priority:</strong> 🟠 Medium</li>
+</ul>
+</li>
+<li>
+<p><strong>Skill/Technology:</strong> AI-generated code-এর security review + EU AI Act compliance</p>
+<ul>
+<li><strong>কেন শিখব:</strong> client deliverables-এ এখন আইনি ও নিরাপত্তা ঝুঁকি নতুন করে যুক্ত হচ্ছে।</li>
+<li><strong>কেন এখন:</strong> EU AI Act এখন সবার জন্য কার্যকর, breach trend বাড়ছে।</li>
+<li><strong>কীভাবে শুরু করব:</strong> AI-generated code-এ common vulnerability pattern + disclosure requirement শেখো; OWASP LLM top-10 পড়ো।</li>
+<li><strong>Priority:</strong> 🟠 Medium</li>
+</ul>
+</li>
+</ul>
+<h3 id="7-what-should-i-experiment-with-ক-নয-experiment-করব">7. WHAT SHOULD I EXPERIMENT WITH? (কী নিয়ে experiment করব?)</h3>
+<p><strong>Experiment:</strong> একটা <strong>MCP (Model Context Protocol) server</strong> বানাও — ৩০-৬০ মিনিট।</p>
+<ul>
+<li>নিজের একটা real API/data (যেমন unitefoundation.bd-এর কোনো data endpoint) কে MCP server-এ wrap করো, তারপর Claude Code/Gemini CLI-তে connect করে জিজ্ঞেস করো: &ldquo;এই data থেকে কী insight পাও?&quot;।</li>
+<li><strong>শেখা যাবে:</strong> agent-কে নিজের system-এর সাথে connect করার আসল mechanics — এটাই এখন সবচেয়ে valuable + transferable skill।</li>
+</ul>
+<h3 id="8-what-should-i-ignore-ক-এডয-চলব">8. WHAT SHOULD I IGNORE? (কী এড়িয়ে চলব?)</h3>
+<ul>
+<li><strong>Topic:</strong> প্রতিদিন নতুন &ldquo;next big AI model&rdquo; hype (প্রতিটা release chase করা)
+<ul>
+<li><strong>কেন hype:</strong> প্রতিদিনই কোনো না কোনো নতুন model/tool লঞ্চ হয়, FOMO তৈরি হয়।</li>
+<li><strong>কেন এখন নয়:</strong> তোমার কাজ model-এর benchmark chase করা না — stable workflow বানানো। Model নাম নিয়ে source-এ inconsistency-ই প্রমাণ করে hype-এর ওপর নির্ভর করা উচিত না।</li>
+<li><strong>কখন review করব:</strong> মাসে ১ বার (নিজের workflow-এ ১টা meaningful upgrade হলে তখনই switch করবে, প্রতিদিন না)।</li>
+</ul>
+</li>
+</ul>
+<h3 id="9-what-is-coming-next-ক-আসছ">9. WHAT IS COMING NEXT? (কী আসছে?)</h3>
+<ul>
+<li><strong>7 days:</strong> Meta Muse Code-এর আরও rollout/review; Next.js 16.3 adoption feedback; CISA-র নতুন exploited vulnerability alert।</li>
+<li><strong>30 days:</strong> AI coding agent-দের মধ্যে আরও price war; EU AI Act transparency-র first enforcement স্পষ্টতা।</li>
+<li><strong>6 months:</strong> Agentic workflow-গুলো enterprise-এ mainstream; Rust নতুন infra default-এ পরিণত হওয়ার গতি; &ldquo;AI-generated code ownership/security&rdquo; একটা বড় আলোচনা হয়ে উঠবে।</li>
+</ul>
+<h3 id="10--what-this-means-for-me">10. 🎯 WHAT THIS MEANS FOR ME</h3>
+<ul>
+<li><strong>Fullstack stack (React/Next.js/Node/Python/Laravel):</strong> তোমার stack-ই এখনও সঠিক ও stable — Next.js 16.3 track করো, Laravel battle-tested position-এ আছে। বড় পরিবর্তনের দরকার নেই।</li>
+<li><strong>unitefoundation.bd:</strong> AI Search agents traffic-কে বদলাচ্ছে — সাইটের structured content + FAQ/answer format এখন organic visibility-র জন্য বেশি দরকারি (pure keyword page না)।</li>
+<li><strong>AI usage:</strong> প্রতিদিন model chase না করে, একটা agentic workflow (Claude Code + MCP) master করো — এটাই তোমার real leverage।</li>
+<li><strong>SaaS ideas:</strong> &ldquo;agent + তোমার domain knowledge&rdquo; combo এখন সবচেয়ে under-served opportunity — বিশেষ করে non-profit/education sector-এ (ROOH School-এর মতো context)।</li>
+</ul>
+<h3 id="11--todays-adaptability-check">11. 🧠 TODAY&rsquo;S ADAPTABILITY CHECK</h3>
+<p><strong>Adaptability Signal: 8/10</strong></p>
+<ul>
+<li><strong>নজরে রাখব:</strong> EU AI Act compliance (client site-এ AI content), Next.js 16.x updates, agentic tooling-এর price shift।</li>
+<li><strong>কী skill আপডেট করব:</strong> agent development (MCP) — এটা এখন highest-leverage।</li>
+<li><strong>কী action এখন দরকার নেই:</strong> framework/tool switch — current stack ঠিক আছে, hype-তে jump করার দরকার নেই।</li>
+</ul>
+<h3 id="12--todays-5-signals">12. 🔥 TODAY&rsquo;S 5 SIGNALS</h3>
+<ol>
+<li>EU AI Act Article 50 এখন <strong>সবার জন্য</strong> কার্যকর — client site-এ AI content disclose করা এখন বাধ্যতামূলক।</li>
+<li>Meta <strong>Muse Code</strong> দিয়ে AI coding agent race-এ নামল — free agent যুগ আরও কাছাকাছি।</li>
+<li>Anthropic-এর নতুন <strong>Claude flagship</strong> coding/agent benchmark-এ শীর্ষে — AI-assisted dev-এ model choice এখন আসল পার্থক্য।</li>
+<li><strong>Rust 45% production adoption</strong> (+7pts) — performance-critical work-এর ভবিষ্যৎ skill।</li>
+<li>Google <strong>Search agentic</strong> হয়ে গেল — organic traffic ও SEO-এর পুরনো ধারণা বদলাচ্ছে।</li>
+</ol>
+<p>🧞 Salauddin Bhai, আজকের সারমর্ম এক লাইনে: <strong>স্ট্যাক বদলাও না, কিন্তু &ldquo;agent + MCP&rdquo; শেখাটা আজই শুরু করো</strong> — এটাই এখন তোমার সবচেয়ে বড় leverage।</p>
+<hr>
+<p><em>📅 ১৪ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item><item><title>টেক ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-14/</link><pubDate>Fri, 14 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-14/</guid><description>টেক ইন্টেলিজেন্স — ১৪ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-daily-tech-intelligence-report--শকরবর-১৪-আগসট-২০২৬">🤖 Daily Tech Intelligence Report — শুক্রবার, ১৪ আগস্ট ২০২৬</h2>
+<p>গত ২৪ ঘণ্টার (১৩–১৪ আগস্ট) verified খবর থেকে সংকলিত। প্রতিটি আইটেমের সাথে source দেওয়া হলো।</p>
+<h3 id="-ai--machine-learning">🤖 AI &amp; Machine Learning</h3>
+<ul>
+<li>
+<p><strong>Google Gemini 3.7 Flash মুক্তি পেয়েছে:</strong> Google নতুন Flash মডেল রিলিজ করেছে, যা বিশেষভাবে coding এবং agentic workflow-এর জন্য অপটিমাইজড। এটি Gemini 3.6 Flash-এর উত্তরসূরি (৩.৬ এসেছিল ২১ জুলাই)। Agent এবং কোডিং টাস্কে দ্রুততর পারফরম্যান্সের দাবি করা হয়েছে।
+🔗 <a href="https://www.reuters.com/business/google-unveils-gemini-37-flash-ai-model-coding-agent-workflows-2026-08-13/">Reuters</a></p>
+</li>
+<li>
+<p><strong>Google-এর নতুন AI research agent:</strong> Google এমন একটি agentic research টুল আনছে যা ব্যবহারকারীর ঘুমের মধ্যে ~১৬০টি সার্চ চালিয়ে সকালে রিপোর্ট তৈরি করে দেবে — OpenAI ও Anthropic-এর research টুলের সাথে সরাসরি প্রতিযোগিতা।
+🔗 <a href="https://www.edtechinnovationhub.com/news/googles-new-ai-agent-will-run-160-searches-while-you-sleep-and-hand-you-the-report-by-morning">EdTech Innovation Hub</a></p>
+</li>
+<li>
+<p><strong>Big Tech-এর AI capex রেকর্ড ছাড়াচ্ছে:</strong> Google, Amazon, Microsoft ও Meta — মিলে ২০২৬ সালে $৭২৫ বিলিয়ন capital expenditure-এর পরিকল্পনা করছে (AI infrastructure-এ আধিপত্যের লড়াই)।
+🔗 <a href="https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html">Yahoo Finance</a></p>
+</li>
+</ul>
+<h3 id="-software--developer-world">💻 Software &amp; Developer World</h3>
+<ul>
+<li>
+<p><strong>.NET ও .NET Framework August 2026 servicing update:</strong> Microsoft ১১ আগস্ট .NET-এর সর্বশেষ সার্ভিসিং আপডেট দিয়েছে, যাতে security ও non-security fix আছে। .NET ব্যবহারকারীদের আপডেট করার পরামর্শ।
+🔗 <a href="https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/">Microsoft DevBlogs</a></p>
+</li>
+<li>
+<p><strong>Next.js 16.3:</strong> (৩ আগস্ট রিলিজ, গত সপ্তাহের বড় আপডেট) dev-এ ৯০% পর্যন্ত কম memory ব্যবহারসহ পারফরম্যান্স উন্নতি এনেছে। নতুন আপডেট না হলেও current major version হিসেবে noteworthy।
+🔗 <a href="https://nextjs.org/blog">Next.js Blog</a></p>
+</li>
+</ul>
+<h3 id="-big-tech-companies">🏢 Big Tech Companies</h3>
+<ul>
+<li><strong>Databricks-এর $৫ বিলিয়ন funding, $১৯০ বিলিয়ন valuation:</strong> AI ও data platform কোম্পানি Databricks নতুন funding round বন্ধ করেছে, যা তাদের valuation $১৯০ বিলিয়নে নিয়ে গেছে (বছরের দ্বিতীয় বড় round)। CEO Ali Ghodsi দাবি করেছেন &ldquo;AGI already arrived&rdquo;। Fund-টি enterprise AI offering-এ যাবে।
+🔗 <a href="https://www.reuters.com/legal/transactional/databricks-raises-5-billion-financing-190-billion-valuation-2026-08-13/">Reuters</a> · <a href="https://www.forbes.com/sites/victordey/2026/08/13/databricks-hits-190-billion-valuation-as-ceo-ali-ghodsi-claims-agi-already-arrived/">Forbes</a></li>
+</ul>
+<h3 id="-hardware">🖥️ Hardware</h3>
+<ul>
+<li>
+<p><strong>Insta360 X6 উন্মোচিত:</strong> Insta360 তাদের নতুন flagship 8K 360 ক্যামেরা X6 ঘোষণা করেছে — &ldquo;biggest leap in 360 capture&rdquo; দাবি। 8K50 ভিডিও সাপোর্ট, DJI Osmo-র সাথে সরাসরি প্রতিযোগী। (সম্প্রতি লঞ্চ হওয়া হার্ডওয়্যার)
+🔗 <a href="https://www.prnewswire.com/apac/news-releases/insta360-unveils-x6-the-biggest-leap-in-360-capture-yet-302849815.html">PR Newswire</a></p>
+</li>
+<li>
+<p><strong>NVIDIA PC CPU বাজারে প্রবেশের খবর:</strong> NVIDIA তাদের নতুন superchip দিয়ে Windows PC বাজারে ঢুকছে, Intel ও AMD-র সাথে সরাসরি প্রতিযোগিতা — এ সপ্তাহের আলোচিত hardware ট্রেন্ড।
+🔗 <a href="https://finance.yahoo.com/news/nvidia-is-moving-in-on-intel-and-amds-home-turf-191711635.html">Bloomberg</a></p>
+</li>
+</ul>
+<h3 id="-cybersecurity-">🔒 Cybersecurity ⚠️</h3>
+<ul>
+<li>
+<p><strong>Microsoft August 2026 Patch Tuesday — ৪২১টি CVE fix:</strong> Microsoft ৪২১টি দুর্বলতা প্যাচ করেছে, যার মধ্যে <strong>১টি actively exploited zero-day</strong> (privilege escalation) এবং ৬২টি critical। Windows ব্যবহারকারীদের দ্রুত আপডেট করা জরুরি।
+🔗 <a href="https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/">SecurityWeek</a></p>
+</li>
+<li>
+<p><strong>GeoServer-এ নতুন zero-day, সক্রিয় exploitation চলছে:</strong> watchTowr-এর রিপোর্ট অনুযায়ী GeoServer-এর একটি zero-day flaw এখন সক্রিয়ভাবে exploit হচ্ছে। GeoServer চালানো প্রতিষ্ঠানগুলোর জন্য সতর্কতা।
+🔗 <a href="https://thehackernews.com/">The Hacker News</a></p>
+</li>
+<li>
+<p><strong>নতুন Windows zero-day প্রকাশ:</strong> Microsoft-এর আইনি হুমকির পরও এক নিরাপত্তা গবেষক নতুন Windows zero-day bug প্রকাশ করেছেন — Microsoft প্যাচ করার সময়ই পায়নি।
+🔗 <a href="https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/">TechCrunch</a></p>
+</li>
+</ul>
+<h3 id="-internet--web-platforms">🌐 Internet &amp; Web Platforms</h3>
+<ul>
+<li><strong>এই ক্যাটাগরিতে গত ২৪ ঘণ্টায় কোনো বড় verified platform আপডেট/outage পাওয়া যায়নি।</strong> Google Cloud release notes-এ ছোটখাটো feature আপডেট (Data Studio fullscreen charts) ছাড়া উল্লেখযোগ্য কিছু নিশ্চিত করা যায়নি।
+🔗 <a href="https://docs.cloud.google.com/release-notes">Google Cloud Release Notes</a></li>
+</ul>
+<h3 id="-open-source">📂 Open Source</h3>
+<ul>
+<li><strong>GitHub Trending-এ এখন হাইলাইট:</strong> <code>semantica-agi/semantica</code> (agentic AI), <code>anthropics/skills</code>, <code>unslothai/unsloth</code> (LLM fine-tuning), <code>cactus-compute/needle</code>, এবং <code>altic-dev/FluidVoice</code> (voice AI)। এগুলোর মধ্যে agentic AI ও voice AI-সম্পর্কিত repo দ্রুত জনপ্রিয় হচ্ছে।
+🔗 <a href="https://github.com/trending">GitHub Trending</a></li>
+</ul>
+<h3 id="-startups--funding">🚀 Startups &amp; Funding</h3>
+<ul>
+<li>
+<p><strong>Databricks-এর $৫B round</strong> (উপরে বিস্তারিত) — এটি AI সেক্টরের সাম্প্রতিকতম mega-funding।
+🔗 <a href="https://x.com/CNBC/status/2087905556732182774">CNBC via X</a></p>
+</li>
+<li>
+<p><strong>Singapore-ভিত্তিক AI স্টার্টআপ Lumilens</strong> $৭০০ মিলিয়ন funding round বন্ধ করেছে — এশিয়ার AI ecosystem-এ উল্লেখযোগ্য। (সেকেন্ডারি সোর্স, আরও নিশ্চিতকরণ দরকার)
+🔗 <a href="https://www.instagram.com/reel/DZNqckHgmG5/">Instagram / Lam Research</a></p>
+</li>
+</ul>
+<h3 id="-আজকর-সরশ-signal--noise">📌 আজকের সারাংশ (Signal &gt; Noise)</h3>
+<p>১. <strong>Google Gemini 3.7 Flash</strong> — এ সপ্তাহের সবচেয়ে বড় AI মডেল রিলিজ।
+২. <strong>Microsoft Patch Tuesday</strong> — ১টি zero-day সহ ৪২১ CVE, অবিলম্বে patch করুন।
+৩. <strong>Databricks $190B</strong> — AI infrastructure-এ বিশাল বিনিয়োগের ধারা অব্যাহত।
+৪. <strong>GeoServer zero-day</strong> — সক্রিয় exploitation, enterprise ব্যবহারকারীদের সতর্ক থাকা জরুরি।</p>
+<p><em>⚠️ নোট: &ldquo;শুধু গত ২৪ ঘণ্টা&rdquo; শর্ত মেনে চলার চেষ্টা করেছি। কিছু context-আইটেম (Next.js 16.3, NVIDIA PC চিপ) সামান্য পুরনো কিন্তু current relevance-এর জন্য চিহ্নিত করে দেওয়া হয়েছে। OpenAI-র Astra মডেল pause-এর খবরটি ৭–৮ আগস্টের, তাই মূল তালিকায় রাখিনি।</em></p>
+<hr>
+<p><em>📅 ১৪ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item><item><title>টেক ইন্টেলিজেন্স — ১৩ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-13/</link><pubDate>Thu, 13 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-13/</guid><description>টেক ইন্টেলিজেন্স — ১৩ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-daily-tech-intelligence-report--১৩-আগসট-২০২৬-বহসপতবর">🤖 Daily Tech Intelligence Report — ১৩ আগস্ট ২০২৬ (বৃহস্পতিবার)</h2>
+<p>গত ২৪ ঘণ্টার (১২ আগস্ট) সবচেয়ে গুরুত্বপূর্ণ টেকনোলজি খবর — বাংলায় সংক্ষিপ্ত ও বিশ্লেষণধর্মী রিপোর্ট।</p>
+<h3 id="-ai--machine-learning">🤖 AI &amp; Machine Learning</h3>
+<ul>
+<li>
+<p><strong>Cognition AI (Devin) নতুন ফান্ডিং নিয়ে আলোচনায় — $৪০ বিলিয়ন ভ্যালুয়েশন:</strong> AI coding agent &ldquo;Devin&rdquo;-এর নির্মাতা Cognition reportedly $১ বিলিয়নেরও বেশি তুলতে চাইছে, যাতে ভ্যালুয়েশন $৪০ বিলিয়নে পৌঁছায়। মাত্র কয়েক মাস আগেই কোম্পানির ভ্যালুয়েশন ছিল $২৬ বিলিয়ন। ভিত্তি হলো ~$১ বিলিয়ন annualized revenue run rate। এটি AI coding agent সেক্টরের explosive growth-এর ইঙ্গিত।
+🔗 <a href="https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/">TechCrunch</a></p>
+</li>
+<li>
+<p><strong>White House open-weight AI মডেলকে security testing থেকে exempt করছে:</strong> মার্কিন প্রশাসন open-weight মডেলগুলোকে বাধ্যতামূলক নিরাপত্তা পরীক্ষার বাইরে রাখার ঘোষণা দিয়েছে — এটি AI regulation-এ গুরুত্বপূর্ণ মোড়, কারণ open-source/open-weight মডেলের (যেমন Llama, Qwen) দায়বদ্ধতা নিয়ে বিতর্ক চলছে।
+🔗 <a href="https://www.informationweek.com/machine-learning-ai">InformationWeek</a></p>
+</li>
+<li>
+<p><strong>Google-এর Pixel 11-এ Gemini AI ফিচার:</strong> Made by Google ইভেন্টে নতুন Pixel ডিভাইসগুলোতে গভীর Gemini integration দেখানো হয়েছে (নিচে Hardware অংশে বিস্তারিত)।</p>
+</li>
+</ul>
+<h3 id="-software--developer-world">💻 Software &amp; Developer World</h3>
+<ul>
+<li>
+<p><strong>Visual Studio 2026 August update রিলিজ:</strong> Microsoft ঘোষণা করেছে এই আপডেট &ldquo;নতুন যুগের সূচনা&rdquo; — deep platform AI integration ও শক্তিশালী fundamentals সহ। AI-assisted development এখন IDE-এর core অংশ হয়ে উঠছে।
+🔗 <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes">Microsoft Learn</a></p>
+</li>
+<li>
+<p>এই ক্যাটাগরিতে গত ২৪ ঘণ্টায় অন্য কোনো major framework/language release-এর নির্ভরযোগ্য confirmation পাওয়া যায়নি।</p>
+</li>
+</ul>
+<h3 id="-big-tech-companies">🏢 Big Tech Companies</h3>
+<ul>
+<li>
+<p><strong>Google — Made by Google 2026 ইভেন্ট (১২ আগস্ট):</strong> NYC-তে Trevor Noah-এর সঞ্চালনায় Pixel 11 সিরিজ, Pixel Watch 5, Pixel Tag লঞ্চ হয়েছে — বছরের অন্যতম বড় হার্ডওয়্যার ইভেন্ট।
+🔗 <a href="https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news">The Verge</a></p>
+</li>
+<li>
+<p><strong>Tesla — Texas-এ $১০ বিলিয়ন সোলার ফ্যাক্টরি নির্মাণের পরিকল্পনা:</strong> Houston-এর দক্ষিণ-পশ্চিমে বিশাল solar panel কারখানা বানাতে চায় Tesla, টেক্সাস স্টেটে দাখিল করা নথি অনুযায়ী। এটি Tesla-র এনার্জি ব্যবসা সম্প্রসারণের বড় পদক্ষেপ।
+🔗 <a href="https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/">TechCrunch</a></p>
+</li>
+<li>
+<p><strong>Tesla + SpaceX — $১৬.৮ বিলিয়ন &lsquo;Terafab&rsquo; চিপ ফ্যাক্টরি:</strong> দুটি কোম্পানি মিলে নিজস্ব চিপ ফ্যাব্রিকেশন সুবিধা নির্মাণ শুরু করছে — AI hardware-এ vertical integration-এর ইঙ্গিত।
+🔗 <a href="https://techcrunch.com/latest/">TechCrunch</a></p>
+</li>
+<li>
+<p><strong>Fermi (AI nuclear power) — অবশেষে নতুন CEO:</strong> এপ্রিলে CEO ও CFO হঠাৎ চলে যাওয়ার পর AI-চালিত নিউক্লিয়ার পাওয়ার স্টার্টআপ Fermi নতুন CEO পেয়েছে। AI data center-এর বিদ্যুৎ সমস্যা সমাধানে এই কোম্পানি গুরুত্বপূর্ণ ভূমিকা রাখতে চায়।
+🔗 <a href="https://techcrunch.com/">TechCrunch</a></p>
+</li>
+</ul>
+<h3 id="-hardware">🖥️ Hardware</h3>
+<p><strong>সদ্য লঞ্চ হওয়া (১২ আগস্ট):</strong></p>
+<ul>
+<li><strong>Pixel 11 সিরিজ:</strong> Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL — upgraded camera ও performance, Android 17-এ চলবে।</li>
+<li><strong>Pixel 11 Pro Fold:</strong> ফোল্ডেবল, 4,806 mAh ব্যাটারি, আগের Pro Fold-এর তুলনায় ~২০% উন্নতি দাবি।</li>
+<li><strong>Pixel Watch 5:</strong> নতুন স্মার্টওয়াচ।</li>
+<li><strong>Pixel Tag:</strong> Google-এর বহু প্রতীক্ষিত Bluetooth tracker।
+🔗 <a href="https://www.engadget.com/2235146/everything-announced-google-pixel-11-event-pixel-watch-5-pixel-tag/">Engadget</a> · <a href="https://www.zdnet.com/article/everything-announced-at-made-by-google-2026-pixel-11-pro-fold-pixel-watch-5/">ZDNet</a></li>
+</ul>
+<p><strong>আসন্ন:</strong></p>
+<ul>
+<li>Tesla-র $১০ বিলিয়ন সোলার ফ্যাক্টরি ও Tesla/SpaceX-এর Terafab চিপ ফ্যাক্টরি — ডেটা সেন্টার ও AI infrastructure-এর জন্য গুরুত্বপূর্ণ।</li>
+</ul>
+<h3 id="-cybersecurity">🔒 Cybersecurity</h3>
+<p>⚠️ <strong>সতর্কতা — Microsoft বনাম নিরাপত্তা গবেষক, নতুন Windows zero-day প্রকাশ:</strong>
+Microsoft আইনি ব্যবস্থা নেওয়ার হুমকি দেওয়া সত্ত্বেও নিরাপত্তা গবেষক &ldquo;Nightmare Eclipse&rdquo; একটি নতুন Windows zero-day bug ও exploit প্রকাশ করেছেন। এটি একটি চলমান দ্বন্দ্বের অংশ — গবেষকরা আগে ছয়টি Windows zero-day প্রকাশ করেছিলেন, যার জবাবে Microsoft আইনি হুমকি দিয়েছিল এবং গবেষকের GitHub অ্যাকাউন্ট ব্যান করেছিল। Developer ও Windows ব্যবহারকারীদের জন্য: <strong>এই ধরনের unpatched vulnerability সক্রিয়ভাবে exploit হতে পারে, তাই Microsoft-এর পরবর্তী security patch আসা পর্যন্ত সতর্ক থাকুন।</strong>
+🔗 <a href="https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/">TechCrunch</a> · <a href="https://therecord.media/microsoft-says-it-will-not-pursue-security-researchers-disclosure">The Record</a></p>
+<ul>
+<li>এছাড়া open-weight AI মডেলের security testing exemption (উপরে) — AI supply-chain security নিয়ে আলোচনার একটি নতুন মাত্রা যোগ করেছে।</li>
+</ul>
+<h3 id="-internet--web-platforms">🌐 Internet &amp; Web Platforms</h3>
+<ul>
+<li>গত ২৪ ঘণ্টায় Google Search, Chrome, WhatsApp, বা অন্যান্য major platform-এর কোনো উল্লেখযোগ্য নতুন feature/policy change/outage-এর নির্ভরযোগ্য confirmation পাওয়া যায়নি। প্রাসঙ্গিক খবর পাওয়া গেলে পরবর্তী রিপোর্টে অন্তর্ভুক্ত করা হবে।</li>
+</ul>
+<h3 id="-open-source">📂 Open Source</h3>
+<ul>
+<li>
+<p><strong>GitHub Trending-এ এখন জনপ্রিয় হচ্ছে</strong> (১২ আগস্ট পর্যন্ত):</p>
+<ul>
+<li><strong>semantica-agi/semantica</strong> — semantic AI agent framework</li>
+<li><strong>macro-inc/macro</strong> — productivity/automation টুল</li>
+<li><strong>stablyai/orca</strong> — Stable Diffusion-সংশ্লিষ্ট ইমেজ জেনারেশন</li>
+<li><strong>msitarzewski/agency-agents</strong> — multi-agent framework</li>
+<li><strong>shiyu-coder/Kronos</strong> — (সম্ভবত scheduling/automation)</li>
+<li><strong>cathrynlavery/diagram-design</strong> — diagram/design টুল
+🔗 <a href="https://github.com/trending">GitHub Trending</a></li>
+</ul>
+</li>
+<li>
+<p>ট্রেন্ডিং লিস্টে AI agent framework ও automation টুলের আধিপত্য স্পষ্ট — এটাই এখন open source-এর মূল গতি।</p>
+</li>
+</ul>
+<h3 id="-startups--funding">🚀 Startups &amp; Funding</h3>
+<ul>
+<li>
+<p><strong>Cognition AI — $৪০B ভ্যালুয়েশনে $১B+ ফান্ডিং আলোচনা:</strong> (বিস্তারিত উপরে AI অংশে) AI coding sector-এর সবচেয়ে বড় সাম্প্রতিক ভ্যালুয়েশন মুভ।
+🔗 <a href="https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/">TechCrunch</a></p>
+</li>
+<li>
+<p><strong>Fermi — নতুন CEO নিয়োগ:</strong> AI নিউক্লিয়ার পাওয়ার স্টার্টআপের পুনর্গঠন প্রক্রিয়ার একটি মাইলফলক।
+🔗 <a href="https://techcrunch.com/">TechCrunch</a></p>
+</li>
+</ul>
+<p><strong>📌 আজকের সারসংক্ষেপ (Signal):</strong> দিনের সবচেয়ে বড় ঘটনা Google-এর Pixel 11 লঞ্চ; AI-স্পেসে Cognition-এর $৪০B ফান্ডিং আলোচনা সেক্টরের গতি দেখায়; আর Microsoft-গবেষক দ্বন্দ্ব cybersecurity ও responsible disclosure নিয়ে গুরুত্বপূর্ণ প্রশ্ন তুলেছে। বড় মাপের চিপ/সোলার ফ্যাক্টরি ঘোষণাগুলো AI infrastructure-এ মূলধন প্রবাহের ধারাবাহিকতা নিশ্চিত করছে।</p>
+<p><em>Accuracy &gt; Speed মেনে কেবল verified সোর্স ব্যবহার করা হয়েছে; যেখানে নির্ভরযোগ্য তথ্য নেই সেখানে স্পষ্টভাবে উল্লেখ করা হয়েছে।</em></p>
+<hr>
+<p><em>📅 ১৩ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item><item><title>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১২ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-12/</link><pubDate>Wed, 12 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-12/</guid><description>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১২ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-adaptability-report--১২-আগসট-২০২৬">🧠 Adaptability Report — ১২ আগস্ট ২০২৬</h2>
+<p><strong>মূল শিক্ষা:</strong> নতুন টুল শিখতে হলে হাতে-কলমে প্র্যাকটিস সবচেয়ে ভালো।</p>
+<p><strong>চ্যালেঞ্জ:</strong> প্রতিদিন ৩০ মিনিট নতুন কিছু শেখা।</p>
+<hr>
+<p><em>📅 ১২ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item><item><title>টেক ইন্টেলিজেন্স — ১২ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-12/</link><pubDate>Wed, 12 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-12/</guid><description>টেক ইন্টেলিজেন্স — ১২ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-tech-intelligence-report--১২-আগসট-২০২৬">🤖 Tech Intelligence Report — ১২ আগস্ট ২০২৬</h2>
+<p><strong>AI:</strong> Groq-এর নতুন model free tier-এ ব্যবহারযোগ্য। DeepSeek-এর দাম আরও কমেছে।</p>
+<p><strong>Web:</strong> Next.js 15-এ নতুন features। Edge functions দ্রুততর হচ্ছে।</p>
+<p><strong>Automation:</strong> n8n-এ Telegram AI bot সেটআপ — সম্পূর্ণ ফ্রি স্ট্যাক।</p>
+<hr>
+<p><em>📅 ১২ আগস্ট ২০২৬ • Tech Intelligence বাংলা</em></p>
+]]></content:encoded></item></channel></rss>
