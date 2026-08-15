@@ -1,0 +1,2 @@
+/* BBC-style section tag — Bengali site */
+.first-entry.home-info::before{ content:"সর্বশেষ খবর"; }
