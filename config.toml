@@ -57,6 +57,12 @@ defaultContentLanguage = "bn"
   dateFormat = "2 Jan 2006"
   hideFooter = false
 
+  [params.altLang]
+    label = "English"
+    url = "https://salauddinahmad.github.io/tech-blog-en/"
+    hreflang = "en"
+    onLight = true
+
   [params.homeInfoParams]
     Title = "সর্বশেষ খবর"
     Content = "প্রতিদিনের প্রযুক্তি বিশ্লেষণ ও পরিবর্তনশীল বিশ্বের সাথে তাল মেলানোর গাইড — সম্পূর্ণ বাংলায়"
@@ -84,14 +90,10 @@ defaultContentLanguage = "bn"
     url = "/categories/adaptability/"
     weight = 3
   [[menu.main]]
-    name = "English ব্লগ"
-    url = "https://salauddinahmad.github.io/tech-blog-en/"
-    weight = 4
-  [[menu.main]]
     identifier = "live-tech"
-    name = "📡 লাইভ টেক"
+    name = "লাইভ টেক"
     url = "/tech-news/"
-    weight = 5
+    weight = 4
 
 [taxonomies]
   category = "categories"
