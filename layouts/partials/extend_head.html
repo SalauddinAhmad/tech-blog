@@ -1,33 +1,48 @@
-{{- /* View counter (busuanzi) — self-hosted script (FX-17); counter API stays remote */ -}}
+{{- /* View counter (busuanzi) — AUDIT FX-17: script self-hosted (static/js), API still remote */ -}}
 <script async src="{{ "js/busuanzi.pure.mini.js" | relURL }}"></script>
-{{- /* BBC-style design system — fonts: Roboto (UI/Latin, self-hosted FX-18) + Bornomala (local Bengali webfont) */ -}}
-{{- /* Roboto latin variable woff2 (4 weights) — replaces Google Fonts <link> (FX-18 Option A) */ -}}
-<link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "fonts/roboto-latin-var.woff2" | relURL }}">
-{{- /* Bornomala preload — reduce FOUT/CLS for the Bengali webfont (audit subagent_03-H4) */ -}}
+{{- /* BBC-style design system — fonts: Roboto (UI/Latin) + Bornomala (local Bengali webfont) */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{- /* AUDIT FX-18: Roboto loaded async (print-media swap + preload) so CSS never blocks render */ -}}
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet"></noscript>
+{{- /* AUDIT FX-10: preload Bornomala webfont (self-hosted) to cut FOUT */ -}}
 <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "fonts/Bornomala-Regular.woff2" | absLangURL }}">
 <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "fonts/Bornomala-Bold.woff2" | absLangURL }}">
 <style>
-@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-@font-face{font-family:'Roboto';font-style:normal;font-weight:700;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-@font-face{font-family:'Roboto';font-style:normal;font-weight:900;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 @font-face{font-family:'Bornomala';font-weight:400;font-display:swap;src:url('{{ "fonts/Bornomala-Regular.woff2" | relURL }}') format('woff2');}
 @font-face{font-family:'Bornomala';font-weight:700;font-display:swap;src:url('{{ "fonts/Bornomala-Bold.woff2" | relURL }}') format('woff2');}
 </style>
-{{- /* FX-33: bbc-label.css merged into bbc.css — single stylesheet link */ -}}
+{{- /* AUDIT FX-33: bbc-label.css merged into bbc.css (one less request); v9 = this P2 batch */ -}}
 <link rel="stylesheet" href="{{ "css/bbc.css" | relURL }}?v=9">
-{{- /* Header v2 — MUST load after bbc.css so overrides win in the cascade */ -}}
-<link rel="stylesheet" href="{{ "css/header.css" | relURL }}?v=1">
+{{- /* Header v3 — 3-layer BBC masthead. Loads after bbc.css so overrides win. */ -}}
+<link rel="stylesheet" href="{{ "css/header.css" | relURL }}?v=2">
+
+{{- /* Ticker v3 + UI polish (load LAST so overrides win) */ -}}
+<link rel="stylesheet" href="{{ "css/news-ticker.css" | relURL }}?v=3">
+<link rel="stylesheet" href="{{ "css/polish.css" | relURL }}?v=1">
+{{- /* AUDIT FX-06: force-light script removed — PaperMod theme toggle + pref-theme persistence restored */ -}}
 {{- /* PWA */ -}}
 <link rel="manifest" href="{{ "manifest.json" | relURL }}">
+{{- /* AUDIT FX-21: single theme-color now comes from config [params.assets] theme_color (#B80000) via theme head */ -}}
 <meta name="apple-mobile-web-app-capable" content="yes">
+
+{{- /* AUDIT FX-28: 404 must never be indexed */ -}}
+{{- if eq .Kind "404" }}<meta name="robots" content="noindex">{{- end }}
 
 {{- /* Cross-language hreflang for SEO */ -}}
 {{- if .IsPage }}
-{{- $slug := strings.TrimPrefix "/tech-blog/" .RelPermalink }}
-<link rel="alternate" hreflang="en" href="https://salauddinahmad.github.io/tech-blog-en/{{ $slug }}">
-<link rel="alternate" hreflang="x-default" href="https://salauddinahmad.github.io/tech-blog-en/{{ $slug }}">
+{{- $slug := strings.TrimPrefix "/tech-blog-en/" .RelPermalink }}
+<link rel="alternate" hreflang="bn" href="https://salauddinahmad.github.io/tech-blog/{{ $slug }}">
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- end }}
+{{- /* AUDIT FX-16: home hreflang — bn + x-default; the en self-link is emitted by the
+       theme's AllTranslations block, so all three (bn/en/x-default) are present on home. */ -}}
+{{- if .IsHome }}
+<link rel="alternate" hreflang="bn" href="https://salauddinahmad.github.io/tech-blog/">
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- /* AUDIT FX-23: explicit home og:image (1200×630 brand cover) */ -}}
+<meta property="og:image" content="{{ "images/og-home.png" | absLangURL }}">
 {{- end }}
 
-{{- /* Live news styles */ -}}
-<link rel="stylesheet" href="{{ "css/news-ticker.css" | relURL }}?v=2">
