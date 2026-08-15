@@ -1,7 +1,7 @@
 /* BBC-style per-site labels — Bengali site (tech-blog) */
 :root{
   --font-ui:'Roboto','Noto Sans Bengali',system-ui,sans-serif;
-  --font-head:'Bornomala','Roboto',serif;
+  --font-head:'Bornomala','Noto Sans Bengali','Roboto',serif;
   --font-bengali:'Bornomala','Roboto',sans-serif;
 }
 /* Ticker badge */

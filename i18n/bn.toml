@@ -1,0 +1,9 @@
+# Bengali UI strings (site-level; overrides theme i18n/bn.yaml)
+[prev_page]
+other = "পূর্ববর্তী"
+
+[next_page]
+other = "পরবর্তী"
+
+[toc]
+other = "সূচিপত্র"

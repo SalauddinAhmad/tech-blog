@@ -9,10 +9,16 @@ theme = "hugo-papermod"
 [pagination]
 pagerSize = 10
 languageCode = "bn"
+defaultContentLanguage = "bn"
+
+[languages]
+  [languages.bn]
+    languageCode = "bn"
+    title = "Tech Intelligence বাংলা"
+    weight = 1
 
 # ── SEO ──
 enableRobotsTXT = true
-canonifyURLs = true
 enableEmoji = true
 summaryLength = 30
 

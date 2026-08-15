@@ -1,0 +1,28 @@
+{{- /* BBC-style Bengali date override (site-level) — "১৫ আগস্ট ২০২৬" */ -}}
+{{- $scratch := newScratch }}
+{{- $bnMonths := dict "January" "জানুয়ারি" "February" "ফেব্রুয়ারি" "March" "মার্চ" "April" "এপ্রিল" "May" "মে" "June" "জুন" "July" "জুলাই" "August" "আগস্ট" "September" "সেপ্টেম্বর" "October" "অক্টোবর" "November" "নভেম্বর" "December" "ডিসেম্বর" }}
+
+{{- if not .Date.IsZero -}}
+    {{- $day := printf "%d" .Date.Day | replaceRE "0" "০" | replaceRE "1" "১" | replaceRE "2" "২" | replaceRE "3" "৩" | replaceRE "4" "৪" | replaceRE "5" "৫" | replaceRE "6" "৬" | replaceRE "7" "৭" | replaceRE "8" "৮" | replaceRE "9" "৯" }}
+    {{- $year := printf "%d" .Date.Year | replaceRE "0" "০" | replaceRE "1" "১" | replaceRE "2" "২" | replaceRE "3" "৩" | replaceRE "4" "৪" | replaceRE "5" "৫" | replaceRE "6" "৬" | replaceRE "7" "৭" | replaceRE "8" "৮" | replaceRE "9" "৯" }}
+    {{- $month := index $bnMonths (printf "%s" .Date.Month) }}
+    {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (printf "%s %s %s" $day $month $year))) }}
+{{- end }}
+
+{{- if (.Param "ShowReadingTime") -}}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)))) }}
+{{- end }}
+
+{{- if (.Param "ShowWordCount") -}}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") -}}
+    {{- with (partial "author.html" .) }}
+        {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+    {{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+    {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
