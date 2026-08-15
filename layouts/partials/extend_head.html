@@ -16,6 +16,8 @@
 </style>
 {{- /* FX-33: bbc-label.css merged into bbc.css — single stylesheet link */ -}}
 <link rel="stylesheet" href="{{ "css/bbc.css" | relURL }}?v=9">
+{{- /* Header v2 — MUST load after bbc.css so overrides win in the cascade */ -}}
+<link rel="stylesheet" href="{{ "css/header.css" | relURL }}?v=1">
 {{- /* PWA */ -}}
 <link rel="manifest" href="{{ "manifest.json" | relURL }}">
 <meta name="apple-mobile-web-app-capable" content="yes">

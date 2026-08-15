@@ -1,4 +1,4 @@
-const CACHE_NAME = "tech-intel-v2";
+const CACHE_NAME = "tech-intel-v3";
 // Scope-derived prefix — works for both /tech-blog/ and /tech-blog-en/
 // (registration scope always ends with "/")
 const SCOPE = self.registration.scope;
@@ -12,6 +12,7 @@ self.addEventListener("install", (e) => {
         SCOPE,                                   // homepage (HTML core shell)
         SCOPE + "css/bbc.css?v=9",
         SCOPE + "css/news-ticker.css?v=2",
+        SCOPE + "css/header.css?v=1",
         SCOPE + "manifest.json",
         SCOPE + "fonts/Bornomala-Regular.woff2",
         SCOPE + "fonts/Bornomala-Bold.woff2",
