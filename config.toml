@@ -6,6 +6,14 @@
 baseURL = "https://salauddinahmad.github.io/tech-blog/"
 title = "Tech Intelligence বাংলা"
 theme = "hugo-papermod"
+
+# ── Global keys (must stay ABOVE all table headers — TOML nests keys below a
+#    table header into that table; enableRobotsTXT/enableEmoji/summaryLength
+#    used to sit after [languages.bn] and were silently nested there, so
+#    robots.txt was not generated on newer Hugo versions) ──
+enableRobotsTXT = true
+enableEmoji = true
+summaryLength = 30
 [pagination]
 pagerSize = 10
 languageCode = "bn"
@@ -18,9 +26,6 @@ defaultContentLanguage = "bn"
     weight = 1
 
 # ── SEO ──
-enableRobotsTXT = true
-enableEmoji = true
-summaryLength = 30
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

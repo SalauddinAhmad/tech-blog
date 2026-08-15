@@ -28,6 +28,19 @@ create_post() {
     local CATEGORY="$1" TITLE="$2" CONTENT="$3" SLUG="$4"
     /Users/salaudinahmad/.venvs/pillow-raqm/bin/python "$TOOLS_DIR/generate-cover.py" --title "$TITLE" --category "$CATEGORY" --lang bn \
         --date "$TODAY_BN" --out "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.png" --bg-cache "$BLOG_DIR/static/images/ai-bg" || true
+    # ── Image pipeline: PNG (1200×630) → WebP (q80) + responsive srcset variants (+AVIF q40) ──
+    # Measured: cwebp q80 ≈ 91% saving, avifenc q40 ≈ 97% (audit subagent_04-F2).
+    # Sizes must stay in sync with layouts/_partials/cover.html (1200×630 / 768w / 480w).
+    if command -v cwebp >/dev/null 2>&1; then
+        cwebp -q 80 "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.png" -o "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.webp" 2>/dev/null || true
+        cwebp -q 80 -resize 768 403 "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.png" -o "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}-768w.webp" 2>/dev/null || true
+        cwebp -q 80 -resize 480 252 "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.png" -o "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}-480w.webp" 2>/dev/null || true
+    else
+        echo "⚠️  cwebp not found — WebP variants skipped (brew install webp)"
+    fi
+    if command -v avifenc >/dev/null 2>&1; then
+        avifenc -q 40 -s 4 "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.png" -o "$BLOG_DIR/static/images/cover-${CATEGORY}-${TODAY}.avif" 2>/dev/null || true
+    fi
     mkdir -p "$BLOG_DIR/content/posts/${CATEGORY}/${SLUG}"
     cat > "$BLOG_DIR/content/posts/${CATEGORY}/${SLUG}/index.md" << MDEOF
 ---

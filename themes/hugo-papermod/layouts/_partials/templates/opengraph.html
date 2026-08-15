@@ -37,9 +37,9 @@
 
 {{- if .Params.cover.image -}}
   {{- if (ne .Params.cover.relative true) }}
-    <meta property="og:image" content="{{ .Params.cover.image | absURL }}">
+    <meta property="og:image" content="{{ strings.TrimPrefix "/" .Params.cover.image | absLangURL }}">
   {{- else}}
-    <meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}">
+    <meta property="og:image" content="{{ printf "%s%s" .Permalink (strings.TrimPrefix "/" .Params.cover.image) }}">
   {{- end}}
 {{- else }}
   {{- with partial "_funcs/get-page-images" . }}
