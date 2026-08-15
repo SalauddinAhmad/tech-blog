@@ -3,3 +3,6 @@ resources/
 .DS_Store
 *.log
 .hugo_build.lock
+DELIVERY/
+latest-report-en.md
+*.docx
