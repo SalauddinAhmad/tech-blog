@@ -82,6 +82,11 @@ summaryLength = 30
     name = "English ব্লগ"
     url = "https://salauddinahmad.github.io/tech-blog-en/"
     weight = 4
+  [[menu.main]]
+    identifier = "live-tech"
+    name = "📡 লাইভ টেক"
+    url = "/tech-news/"
+    weight = 5
 
 [taxonomies]
   category = "categories"
