@@ -35,34 +35,32 @@ TOKEN_URL = "http://127.0.0.1:18432/get_token"
 # AI background prompts per category (no text — we overlay it ourselves)
 AI_PROMPTS = {
     "tech-intelligence": {
-        "bn": "Abstract futuristic technology banner background, dark navy and emerald green, glowing circuit board traces, soft bokeh light particles, depth of field, premium minimal design, wide composition, no text, no letters",
-        "en": "Abstract futuristic technology banner background, dark indigo and violet, glowing circuit board traces, soft bokeh light particles, depth of field, premium minimal design, wide composition, no text, no letters",
+        "bn": "Abstract futuristic technology banner background, light warm cream and soft blue, subtle gradient, bright and clean, professional, wide composition, no text, no letters",
+        "en": "Abstract futuristic technology banner background, light warm cream and soft blue, subtle gradient, bright and clean, professional, wide composition, no text, no letters",
     },
     "adaptability": {
-        "bn": "Abstract growth and adaptability banner background, dark teal and emerald green, organic flowing fluid shapes, soft light particles, elegant premium minimal, wide composition, no text, no letters",
-        "en": "Abstract growth and adaptability banner background, dark indigo and violet, organic flowing fluid shapes, soft light particles, elegant premium minimal, wide composition, no text, no letters",
+        "bn": "Abstract growth and adaptability banner background, light lavender and white, soft gradient, bright clean, professional, organic flowing fluid shapes, wide composition, no text, no letters",
+        "en": "Abstract growth and adaptability banner background, light lavender and white, soft gradient, bright clean, professional, organic flowing fluid shapes, wide composition, no text, no letters",
     },
     "prayer-times": {
-        "bn": "Elegant Islamic abstract banner background, deep green and gold, soft crescent moon glow, stars and light particles, peaceful premium minimal, wide composition, no text, no letters",
-        "en": "Elegant Islamic abstract banner background, deep indigo and gold, soft crescent moon glow, stars and light particles, peaceful premium minimal, wide composition, no text, no letters",
+        "bn": "Elegant Islamic abstract banner background, light sage green and warm white, elegant and bright, soft crescent moon glow, stars and light particles, wide composition, no text, no letters",
+        "en": "Elegant Islamic abstract banner background, light sage green and warm white, elegant and bright, soft crescent moon glow, stars and light particles, wide composition, no text, no letters",
     },
     "default": {
-        "bn": "Abstract premium banner background, dark navy and teal, smooth gradients, soft light particles, minimal elegant, wide composition, no text, no letters",
-        "en": "Abstract premium banner background, dark indigo and violet, smooth gradients, soft light particles, minimal elegant, wide composition, no text, no letters",
+        "bn": "Abstract premium banner background, light cream and soft blue, smooth gradients, soft light particles, minimal elegant, bright and clean, wide composition, no text, no letters",
+        "en": "Abstract premium banner background, light cream and soft blue, smooth gradients, soft light particles, minimal elegant, bright and clean, wide composition, no text, no letters",
     },
 }
-
 THEMES = {
-    "tech-intelligence": {"bg": [(10, 30, 60), (0, 120, 90)], "accent": (0, 200, 150),
-                          "badge": {"bn": "🤖 টেক ইন্টেলিজেন্স", "en": "🤖 TECH INTELLIGENCE"}},
-    "adaptability":      {"bg": [(40, 10, 60), (120, 40, 120)], "accent": (200, 120, 255),
-                          "badge": {"bn": "🧠 অ্যাডাপ্টাবিলিটি", "en": "🧠 ADAPTABILITY"}},
-    "prayer-times":      {"bg": [(10, 50, 40), (0, 100, 80)], "accent": (80, 220, 180),
-                          "badge": {"bn": "🕌 নামাজের সময়", "en": "🕌 PRAYER TIMES"}},
-    "default":           {"bg": [(20, 20, 40), (0, 100, 150)], "accent": (100, 200, 255),
-                          "badge": {"bn": "📰 ব্লগ পোস্ট", "en": "📰 BLOG POST"}},
+    "tech-intelligence": {"bg": [(200, 215, 230), (180, 210, 220)], "accent": (0, 120, 200),
+                          "badge": {"bn": "🤖 \u099f\u09c7\u0995 \u0987\u09a8\u09cd\u099f\u09c7\u09b2\u09bf\u099c\u09c7\u09a8\u09cd\u09b8", "en": "🤖 TECH INTELLIGENCE"}},
+    "adaptability":      {"bg": [(210, 200, 225), (195, 190, 215)], "accent": (120, 80, 200),
+                          "badge": {"bn": "🧠 \u0985\u09cd\u09af\u09be\u09a1\u09be\u09aa\u09cd\u099f\u09be\u09ac\u09bf\u09b2\u09bf\u099f\u09bf", "en": "🧠 ADAPTABILITY"}},
+    "prayer-times":      {"bg": [(200, 220, 200), (190, 215, 195)], "accent": (60, 160, 100),
+                          "badge": {"bn": "🕋 \u09a8\u09be\u09ae\u09be\u099c\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc", "en": "🕋 PRAYER TIMES"}},
+    "default":           {"bg": [(210, 215, 220), (195, 205, 215)], "accent": (80, 130, 200),
+                          "badge": {"bn": "📰 \u09ac\u09cd\u09b2\u0997 \u09aa\u09cb\u09b8\u09cd\u099f", "en": "📰 BLOG POST"}},
 }
-
 _ctx = None
 def ssl_ctx():
     global _ctx
@@ -129,7 +127,7 @@ def draw_overlay(img, theme, title, lang, date, ai_mode=True):
     # Readability darkening (stronger for AI art)
     alpha = 120 if ai_mode else 0
     if alpha:
-        dark = Image.new("RGBA", (W, H), (5, 8, 20, alpha))
+        dark = Image.new("RGBA", (W, H), (240, 242, 245, alpha))
         img = Image.alpha_composite(img.convert("RGBA"), dark)
         d = ImageDraw.Draw(img, "RGBA")
         # bottom-up gradient for text zone
@@ -137,14 +135,14 @@ def draw_overlay(img, theme, title, lang, date, ai_mode=True):
             t = (y - H // 2) / (H / 2)
             a = int(90 * t)
             if a:
-                d.line([(0, y), (W, y)], fill=(0, 0, 0, a))
+                d.line([(0, y), (W, y)], fill=(255, 255, 255, a))
 
     # Category badge
     badge_fnt = fnt(34, "s")
     badge_text = theme["badge"].get(LANG, theme["badge"]["bn"])
     btw = d.textlength(badge_text, font=badge_fnt)
     bx0, by0, bx1, by1 = 60, 56, 60 + btw + 48, 56 + 58
-    d.rounded_rectangle([bx0, by0, bx1, by1], radius=29, fill=(255,255,255,26), outline=theme["accent"], width=2)
+    d.rounded_rectangle([bx0, by0, bx1, by1], radius=29, fill=(255,255,255,60), outline=theme["accent"], width=2)
     d.text((bx0 + 24, by0 + 10), badge_text, font=badge_fnt, fill=theme["accent"])
 
     # Title (wrapped, centered)
@@ -166,7 +164,7 @@ def draw_overlay(img, theme, title, lang, date, ai_mode=True):
     y0 = (H - total_h) // 2 + 20
     for i, ln in enumerate(lines):
         tw = d.textlength(ln, font=title_fnt)
-        d.text(((W - tw) / 2, y0 + i * line_h), ln, font=title_fnt, fill=(255, 255, 255, 240))
+        d.text(((W - tw) / 2, y0 + i * line_h), ln, font=title_fnt, fill=(30, 30, 50, 240))
 
     # Accent line
     d.rounded_rectangle([(W-220)//2, y0 + total_h + 30, (W+220)//2, y0 + total_h + 38], radius=4, fill=theme["accent"])
@@ -176,7 +174,7 @@ def draw_overlay(img, theme, title, lang, date, ai_mode=True):
     brand = "Tech Intelligence বাংলা 🇧🇩" if LANG == "bn" else "Tech Intelligence English 🇬🇧"
     bottom = f"{date}   •   {brand}" if date else brand
     tw = d.textlength(bottom, font=small_fnt)
-    d.text(((W - tw) / 2, H - 100), bottom, font=small_fnt, fill=(255, 255, 255, 180))
+    d.text(((W - tw) / 2, H - 100), bottom, font=small_fnt, fill=(60, 60, 80, 200))
     return img
 
 def main():
