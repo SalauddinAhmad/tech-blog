@@ -2,7 +2,7 @@
 :root{
   --font-ui:'Roboto','Noto Sans Bengali',system-ui,sans-serif;
   --font-head:'Bornomala','Noto Sans Bengali','Roboto',serif;
-  --font-bengali:'Bornomala','Roboto',sans-serif;
+  --font-bengali:'Bornomala','Noto Sans Bengali','Bangla',sans-serif;
 }
 /* Ticker badge */
 .breaking-badge::before{ content:"ব্রেকিং"; }
