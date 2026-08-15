@@ -31,21 +31,23 @@ summaryLength = 30
   env = "production"
   description = "প্রতিদিনের Tech Intelligence ও Adaptability রিপোর্ট — বাংলায়, ইমেজ সহ অটো-পাবলিশ।"
   author = "Salauddin Ahmad"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
-  ShowWordCount = true
+  ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   ShowFullTextinRSS = true
   ShowLastModified = true
   UseHugoToc = true
+  hideAuthor = true
+  dateFormat = "2 Jan 2006"
   hideFooter = false
 
   [params.homeInfoParams]
-    Title = "টেক ইন্টেলিজেন্স বাংলা 🇧🇩"
+    Title = "সর্বশেষ খবর"
     Content = "প্রতিদিনের প্রযুক্তি বিশ্লেষণ ও পরিবর্তনশীল বিশ্বের সাথে তাল মেলানোর গাইড — সম্পূর্ণ বাংলায়"
 
   [params.profileMode]
@@ -59,17 +61,21 @@ summaryLength = 30
 
 [menu]
   [[menu.main]]
+    name = "হোম"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     name = "টেক ইন্টেলিজেন্স"
     url = "/categories/tech-intelligence/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "অ্যাডাপ্টাবিলিটি"
     url = "/categories/adaptability/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "English ব্লগ"
     url = "https://salauddinahmad.github.io/tech-blog-en/"
-    weight = 3
+    weight = 4
 
 [taxonomies]
   category = "categories"
