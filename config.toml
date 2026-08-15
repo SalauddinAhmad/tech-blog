@@ -1,0 +1,74 @@
+# ═══════════════════════════════════════════════════════════════
+# 🇧🇩 Tech Intelligence বাংলা — বাংলা ব্লগ (পুরো সাইট বাংলায়)
+# Hugo + PaperMod + SEO — https://salauddinahmad.github.io/tech-blog/
+# ═══════════════════════════════════════════════════════════════
+
+baseURL = "https://salauddinahmad.github.io/tech-blog/"
+title = "Tech Intelligence বাংলা"
+theme = "hugo-papermod"
+paginate = 10
+languageCode = "bn"
+
+# ── SEO ──
+enableRobotsTXT = true
+canonifyURLs = true
+enableEmoji = true
+summaryLength = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.8
+  filename = "sitemap.xml"
+
+[params]
+  env = "production"
+  description = "প্রতিদিনের Tech Intelligence ও Adaptability রিপোর্ট — বাংলায়, ইমেজ সহ অটো-পাবলিশ।"
+  author = "Salauddin Ahmad"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+  ShowLastModified = true
+  UseHugoToc = true
+  hideFooter = false
+
+  [params.homeInfoParams]
+    Title = "টেক ইন্টেলিজেন্স বাংলা 🇧🇩"
+    Content = "প্রতিদিনের প্রযুক্তি বিশ্লেষণ ও পরিবর্তনশীল বিশ্বের সাথে তাল মেলানোর গাইড — সম্পূর্ণ বাংলায়"
+
+  [params.profileMode]
+    enabled = true
+    title = "Salauddin Ahmad"
+    subtitle = "Fullstack Developer & Tech Analyst"
+    imageUrl = "/images/profile.jpg"
+
+  [params.social]
+    github = "https://github.com/SalauddinAhmad"
+
+[menu]
+  [[menu.main]]
+    name = "টেক ইন্টেলিজেন্স"
+    url = "/categories/tech-intelligence/"
+    weight = 1
+  [[menu.main]]
+    name = "অ্যাডাপ্টাবিলিটি"
+    url = "/categories/adaptability/"
+    weight = 2
+  [[menu.main]]
+    name = "English ব্লগ"
+    url = "https://salauddinahmad.github.io/tech-blog-en/"
+    weight = 3
+
+[[taxonomies]]
+  category = "categories"
+  tag = "tags"
