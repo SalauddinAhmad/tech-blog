@@ -16,6 +16,11 @@
   <meta property="og:locale" content="{{ replace . `-` `_` }}">
 {{- end }}
 
+{{- /* FX-23: home og:image — existing default cover asset (1200×630 PNG) */}}
+{{- if .IsHome }}
+  <meta property="og:image" content="{{ "images/cover-tech-intelligence.png" | absLangURL }}">
+{{- end }}
+
 {{- if .IsPage }}
   <meta property="og:type" content="article">
   {{- with .Section }}
@@ -37,9 +42,9 @@
 
 {{- if .Params.cover.image -}}
   {{- if (ne .Params.cover.relative true) }}
-    <meta property="og:image" content="{{ .Params.cover.image | absURL }}">
+    <meta property="og:image" content="{{ strings.TrimPrefix "/" .Params.cover.image | absLangURL }}">
   {{- else}}
-    <meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}">
+    <meta property="og:image" content="{{ printf "%s%s" .Permalink (strings.TrimPrefix "/" .Params.cover.image) }}">
   {{- end}}
 {{- else }}
   {{- with partial "_funcs/get-page-images" . }}

@@ -1,0 +1,6 @@
+{{- define "main" }}
+{{- /* FX-28: friendly 404 — noindex meta is emitted by the head partial (Kind "404") */}}
+<div class="not-found">404</div>
+<p class="not-found-msg">আপনি যে পৃষ্ঠাটি খুঁজছেন সেটি নেই বা সরিয়ে ফেলা হয়েছে।</p>
+<a class="not-found-home" href="{{ "" | absLangURL }}">← হোমে ফিরে যান</a>
+{{- end }}{{/* end main */ -}}

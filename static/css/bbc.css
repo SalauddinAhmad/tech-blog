@@ -3,7 +3,7 @@
    Verified BBC tokens: red #B80000 · ink #202224 · meta #545658
    border #e6e8ea · footer #222222 · container 1008px · gap 16px
    Light-only · Bornomala (BN) / Roboto (EN) headlines · Zero shadow · Hairline rhythm
-   Per-site labels in bbc-label.css; font tokens are per-repo (bbc.css + bbc-label.css)
+   Font tokens are per-repo (bbc.css); per-site label overrides merged here (FX-33)
    ═══════════════════════════════════════════════════════════════ */
 :root{
   --bbc-red:#B80000;
@@ -90,10 +90,10 @@ main.main{ display:block; }
   main.main:has(> .page-header) > .page-footer{ grid-column:1/-1; }
   main.main:has(> .page-header) > .page-header{ grid-column:1/-1; }
 
-  /* Flash news band: full-width row (audit: squeezed into ⅓ column) */
-  main.main:has(> .flash-news-section) > .flash-news-section{ grid-column:1/-1; }
+  /* Flash news band: full-width row (audit: squeezed into ⅓ column) — FX-14: order:-1 keeps it visually on top while home-info h1 is first in DOM */
+  main.main:has(> .flash-news-section) > .flash-news-section{ grid-column:1/-1; order:-1; }
 
-  /* Lead story: full-width banner card (child 3 = first card; child 1 = flash, child 2 = home-info) */
+  /* Lead story: full-width banner card (child 3 = first card; child 1 = home-info, child 2 = flash — FX-14 DOM order; CSS `order` doesn't change child indices) */
   main.main:has(> .first-entry.home-info) > .post-entry:nth-child(3){
     grid-column:1/-1;
     display:grid; grid-template-columns:1.5fr 1fr;
@@ -167,6 +167,44 @@ main.main{ display:block; }
   font-size:.68rem; font-weight:800; line-height:1.35;
   letter-spacing:1px; text-transform:uppercase;
   padding:2px 9px; margin-bottom:8px;
+}
+
+/* FX-30: show covers on category/tag pages (PaperMod hides .tag-entry covers) */
+.tag-entry .entry-cover{ display:block; }
+
+/* FX-12: page/2+ home list heading — full-width grid row, BBC section-header style */
+.list-title{
+  grid-column:1/-1;
+  font-family:var(--font-head);
+  font-size:clamp(1.25rem,2.4vw,1.6rem);
+  font-weight:800; line-height:1.25; letter-spacing:.75px;
+  text-transform:uppercase; margin:0; padding:6px 0 16px;
+  border-left:4px solid var(--bbc-red); padding-left:14px;
+}
+
+/* FX-13: last breadcrumb — current page, non-link */
+.breadcrumbs .breadcrumb-last{ color:var(--bbc-meta); }
+
+/* FX-22: skip-link — visually hidden until focused */
+.skip-link{
+  position:absolute; left:-9999px; top:0; z-index:99;
+  background:var(--bbc-red); color:#fff; padding:8px 16px; font-weight:700;
+}
+.skip-link:focus{ left:0; color:#fff; text-decoration:none; }
+
+/* FX-28: 404 page message + home button */
+.not-found-msg{ text-align:center; color:var(--bbc-meta); margin:18px 0 24px; }
+.not-found-home{
+  display:inline-block; background:var(--bbc-red); color:#fff !important;
+  padding:10px 22px; font-weight:700; border-radius:0;
+}
+.not-found-home:hover{ background:var(--bbc-red-bright); text-decoration:none; }
+
+/* FX-35: explicit focus ring for form fields (defense-in-depth over the global :focus-visible rule) */
+input:focus-visible,
+textarea:focus-visible{
+  outline:.1875rem solid #000;
+  outline-offset:.1875rem;
 }
 
 /* ── home-info internals ── */
@@ -306,7 +344,10 @@ main.main{ display:block; }
 
 /* ── Responsive (BBC breakpoints: 1008 / 600 / 400) ── */
 @media(max-width:599px){
-  .menu li a{ padding:12px 12px; font-size:13px; }
+  /* FX-11: 5-item menu wraps to 2 lines instead of overflowing/being cut */
+  .menu{ display:flex; flex-wrap:wrap; overflow-x:visible; white-space:normal; row-gap:4px; }
+  .menu li{ padding:4px 6px; }
+  .menu li a{ padding:10px 12px; font-size:13px; }
   .breaking{ padding:8px 14px; }
   .footer-cols{ grid-template-columns:1fr 1fr; gap:16px; }
   .post-title{ font-size:1.6rem; }
@@ -357,7 +398,6 @@ main.main{ display:block; }
 [data-theme="dark"] .toc,
 [data-theme="dark"] .page-footer,
 [data-theme="dark"] .timeline-card,
-[data-theme="dark"] .news-modal,
 [data-theme="dark"] .expert-take,
 [data-theme="dark"] .not-found{ background:var(--theme,#1d1e20); }
 [data-theme="dark"] body,
@@ -385,3 +425,15 @@ main.main{ display:block; }
 [data-theme="dark"] .toc a:hover{ color:var(--bbc-red-bright); }
 [data-theme="dark"] .share-buttons a{ color:var(--secondary,rgb(155,156,157)); }
 [data-theme="dark"] .post-content a{ color:var(--bbc-red-bright); }
+
+/* ═══════════════════════════════════════════════════════════════
+   BBC-style per-site labels — Bengali site (tech-blog)
+   (FX-33: merged from bbc-label.css — single stylesheet request)
+   ═══════════════════════════════════════════════════════════════ */
+/* Ticker badge */
+.breaking-badge::before{ content:"ব্রেকিং"; }
+/* Bengali script does not uppercase — weight + letter-spacing only */
+.sec-tag{ text-transform:none; letter-spacing:.6px; font-size:.72rem; }
+.first-entry.home-info .entry-header h1{ text-transform:none; letter-spacing:.5px; }
+.entry-footer,
+.post-meta{ text-transform:none; letter-spacing:.4px; font-weight:600; }

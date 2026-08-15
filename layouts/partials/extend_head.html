@@ -1,21 +1,23 @@
-{{- /* View counter (busuanzi) — free, static-site friendly */ -}}
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-{{- /* BBC-style design system — fonts: Roboto (UI/Latin) + Bornomala (local Bengali webfont) */ -}}
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+{{- /* View counter (busuanzi) — self-hosted script (FX-17); counter API stays remote */ -}}
+<script async src="{{ "js/busuanzi.pure.mini.js" | relURL }}"></script>
+{{- /* BBC-style design system — fonts: Roboto (UI/Latin, self-hosted FX-18) + Bornomala (local Bengali webfont) */ -}}
+{{- /* Roboto latin variable woff2 (4 weights) — replaces Google Fonts <link> (FX-18 Option A) */ -}}
+<link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "fonts/roboto-latin-var.woff2" | relURL }}">
 {{- /* Bornomala preload — reduce FOUT/CLS for the Bengali webfont (audit subagent_03-H4) */ -}}
 <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "fonts/Bornomala-Regular.woff2" | absLangURL }}">
 <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "fonts/Bornomala-Bold.woff2" | absLangURL }}">
 <style>
+@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:700;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:900;font-display:swap;src:url('{{ "fonts/roboto-latin-var.woff2" | relURL }}') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 @font-face{font-family:'Bornomala';font-weight:400;font-display:swap;src:url('{{ "fonts/Bornomala-Regular.woff2" | relURL }}') format('woff2');}
 @font-face{font-family:'Bornomala';font-weight:700;font-display:swap;src:url('{{ "fonts/Bornomala-Bold.woff2" | relURL }}') format('woff2');}
 </style>
-<link rel="stylesheet" href="{{ "css/bbc.css" | relURL }}?v=8">
-<link rel="stylesheet" href="{{ "css/bbc-label.css" | relURL }}?v=8">
+{{- /* FX-33: bbc-label.css merged into bbc.css — single stylesheet link */ -}}
+<link rel="stylesheet" href="{{ "css/bbc.css" | relURL }}?v=9">
 {{- /* PWA */ -}}
 <link rel="manifest" href="{{ "manifest.json" | relURL }}">
-<meta name="theme-color" content="#B80000">
 <meta name="apple-mobile-web-app-capable" content="yes">
 
 {{- /* Cross-language hreflang for SEO */ -}}
@@ -26,4 +28,4 @@
 {{- end }}
 
 {{- /* Live news styles */ -}}
-<link rel="stylesheet" href="{{ "css/news-ticker.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ "css/news-ticker.css" | relURL }}?v=2">

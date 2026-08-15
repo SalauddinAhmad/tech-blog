@@ -10,12 +10,13 @@ self.addEventListener("install", (e) => {
     caches.open(CACHE_NAME)
       .then((c) => c.addAll([
         SCOPE,                                   // homepage (HTML core shell)
-        SCOPE + "css/bbc.css?v=8",
-        SCOPE + "css/bbc-label.css?v=8",
-        SCOPE + "css/news-ticker.css?v=1",
+        SCOPE + "css/bbc.css?v=9",
+        SCOPE + "css/news-ticker.css?v=2",
         SCOPE + "manifest.json",
         SCOPE + "fonts/Bornomala-Regular.woff2",
         SCOPE + "fonts/Bornomala-Bold.woff2",
+        SCOPE + "fonts/roboto-latin-var.woff2",
+        SCOPE + "js/busuanzi.pure.mini.js",
       ]))
       .catch(() => {})                           // any single failure must not break install
   );

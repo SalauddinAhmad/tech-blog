@@ -1,9 +1,28 @@
 {{- define "main" }}
-{{- partial "flash_news.html" . -}}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
+
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- end }}
+
+{{- $paginator := .Paginate $pages }}
+
+{{- /* FX-14: home-info (h1) FIRST in DOM; flash section keeps visual top via CSS order:-1 */}}
+{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- partial "home_info.html" . }}
+{{- end }}
+
+{{- /* FX-12: home pagination page 2+ gets a real h1 (heading-order completeness) */}}
+{{- if and .IsHome (gt $paginator.PageNumber 1) }}
+<h1 class="list-title">আরও খবর</h1>
+{{- end }}
+
+{{- partial "flash_news.html" . -}}
 
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
@@ -37,18 +56,6 @@
   {{- partial "anchored_headings.html" .Content -}}
   {{- else }}{{ .Content }}{{ end }}
 </div>
-{{- end }}
-
-{{- $pages := union .RegularPages .Sections }}
-
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- end }}
-
-{{- $paginator := .Paginate $pages }}
-
-{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
-{{- partial "home_info.html" . }}
 {{- end }}
 
 {{- $term := .Data.Term }}
