@@ -1,151 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Bangla on Tech Intelligence বাংলা</title><link>https://salauddinahmad.github.io/tech-blog/tags/bangla/</link><description>Recent content in Bangla on Tech Intelligence বাংলা</description><generator>Hugo</generator><language>bn</language><lastBuildDate>Sun, 16 Aug 2026 10:00:00 +0600</lastBuildDate><atom:link href="https://salauddinahmad.github.io/tech-blog/tags/bangla/index.xml" rel="self" type="application/rss+xml"/><item><title>AI / ML — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/ai-ml/daily-ai-ml-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/ai-ml/daily-ai-ml-2026-08-16/</guid><description>AI / ML — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-ai--ml--আজকর-টক-নউজ">🤖 AI / ML — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-puerto-rico-is-rationing-water-it-couldve-avoided-it-by-harvesting-rainwater">1. Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/">Wired</a></p>
-<p>The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the &hellip;</p>
-<hr>
-<h2 id="2-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked">2. How to tell if your AI platforms’ accounts have been hacked</h2>
+<h2 id="1-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked">1. How to tell if your AI platforms’ accounts have been hacked</h2>
 <p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/">TechCrunch</a></p>
 <p>A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.</p>
 <hr>
-<h2 id="3-every-fusion-startup-that-has-raised-over-100m">3. Every fusion startup that has raised over $100M</h2>
+<h2 id="2-every-fusion-startup-that-has-raised-over-100m">2. Every fusion startup that has raised over $100M</h2>
 <p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/">TechCrunch</a></p>
 <p>Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.</p>
 <hr>
-<h2 id="4-ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles">4. Ukraine strikes major Russian rocket factory with cruise missiles</h2>
+<h2 id="3-ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles">3. Ukraine strikes major Russian rocket factory with cruise missiles</h2>
 <p><strong>সোর্স:</strong> <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/">Ars Technica</a></p>
 <p>&ldquo;Flamingo missiles were used. A good achievement.&rdquo;</p>
 <hr>
-<h2 id="5-thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria">5. Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria</h2>
-<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/">TechCrunch</a></p>
-<p>The AI opportunity is huge, but &ldquo;it would also be a grave error in our minds to let excitement weaken our investment dis&hellip;</p>
+<h2 id="4-wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution">4. Wildfire smoke now bigger prenatal threat than human sources of air pollution</h2>
+<p><strong>সোর্স:</strong> <a href="https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/">Ars Technica</a></p>
+<p>Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.</p>
 <hr>
-<h2 id="6-self-driving-trucks-are-officially-testing-on-california-highways">6. Self-driving trucks are officially testing on California highways</h2>
-<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/">TechCrunch</a></p>
-<p>Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California&hellip;</p>
-<hr>
-<h2 id="7-why-tech-bosses-keep-sharing-their-manifestos-about-ai">7. Why tech bosses keep sharing their manifestos about AI</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
-<p>Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.</p>
-<hr>
-<h2 id="8-amazon-can-use-your-twitch-content-to-train-its-aiunless-you-opt-out">8. Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/">Wired</a></p>
-<p>When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to tr&hellip;</p>
-<hr>
-<h2 id="9-when-housing-is-unaffordable-this-artists-device-makes-pedaling-harder">9. When housing is unaffordable, this artist’s device makes pedaling harder</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal">TheVerge</a></p>
-<p>Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks befor&hellip;</p>
-<hr>
-<h2 id="10-secondhand-book-sales-are-booming-is-it-because-of-ai">10. Secondhand book sales are booming. Is it because of AI?</h2>
+<h2 id="5-secondhand-book-sales-are-booming-is-it-because-of-ai">5. Secondhand book sales are booming. Is it because of AI?</h2>
 <p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
 <p>Booksellers are reporting mysterious bulk orders. It&rsquo;s thought the books are being used to train AI - and ending up pulp&hellip;</p>
+<hr>
+<h2 id="6-disney-d23-2026-everything-announced-for-star-wars-marvel-and-more">6. Disney D23 2026: Everything announced for Star Wars, Marvel, and more</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23">TheVerge</a></p>
+<p>The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday&hellip;</p>
+<hr>
+<h2 id="7-anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work">7. Anthropic shares more details about how Claude’s new watermarks will work</h2>
+<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/">TechCrunch</a></p>
+<p>How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?</p>
+<hr>
+<h2 id="8-visionquest-trailer-kicks-off-disneys-d23-fan-event">8. VisionQuest trailer kicks off Disney&rsquo;s D23 fan event</h2>
+<p><strong>সোর্স:</strong> <a href="https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/">Ars Technica</a></p>
+<p>Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU&rsquo;s X-Men and Star Wars: Starfighter</p>
+<hr>
+<h2 id="9-woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery">9. Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</h2>
+<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/">TechCrunch</a></p>
+<p>The woman claimed that AI tools are &ldquo;taking everyday life and turning it into child sexual abuse.&rdquo;</p>
+<hr>
+<h2 id="10-polaroids-tiny-instant-camera-is-72-and-includes-a-free-pack-of-film">10. Polaroid’s tiny instant camera is $72 and includes a free pack of film</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale">TheVerge</a></p>
+<p>Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nos&hellip;</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>অন্যান্য — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/other/daily-other-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/other/daily-other-2026-08-16/</guid><description>অন্যান্য — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-অনযনয--আজকর-টক-নউজ">📰 অন্যান্য — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year">1. So much solar: Digging into the list of every US power plant that went online this year</h2>
-<p><strong>সোর্স:</strong> <a href="https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/">Ars Technica</a></p>
-<p>Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.</p>
-<hr>
-<h2 id="2-protein-or-pickled-garlic-whats-new-in-ice-cream">2. Protein or pickled garlic? What&rsquo;s new in ice cream</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
-<p>There&rsquo;s a constant battle in ice cream to come up with new flavours and to keep costs down.</p>
-<hr>
-<h2 id="3-talks-to-sell-paypal-to-stripe-and-advent-are-heating-up">3. Talks to sell PayPal to Stripe and Advent are heating up</h2>
-<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/">TechCrunch</a></p>
-<p>PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm&rsquo;s &hellip;</p>
-<hr>
-<h2 id="4-zyzz-was-the-original-looksmaxxer-his-rise-and-untimely-death-feel-more-relevant-than-ever">4. Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/">Wired</a></p>
-<p>A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before inf&hellip;</p>
-<hr>
-<h2 id="5-auk-mini-2-indoor-smart-garden-review-better-where-it-counts">5. Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/review/auk-mini-2-indoor-smart-garden/">Wired</a></p>
-<p>Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.</p>
-<hr>
-<h2 id="6-instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade">6. Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/">Wired</a></p>
-<p>New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.</p>
-<hr>
-<h2 id="7-retrospec-joe-rev-2-review-2026-putting-the-joy-in-joyride">7. Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/review/retrospec-joe-rev-2/">Wired</a></p>
-<p>This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are l&hellip;</p>
-<hr>
-<h2 id="8-xteinks-tiny-e-readers-are-getting-access-to-free-books-through-libby">8. Xteink’s tiny e-readers are getting access to free books through Libby</h2>
+<h2 id="1-xteinks-tiny-e-readers-are-getting-access-to-free-books-through-libby">1. Xteink’s tiny e-readers are getting access to free books through Libby</h2>
 <p><strong>সোর্স:</strong> <a href="https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader">TheVerge</a></p>
 <p>One of the big tradeoffs with Xteink&rsquo;s pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo&hellip;</p>
 <hr>
-<h2 id="9-switched-on-pops-nate-sloan-and-charlie-harding-love-fresh-vegetables-and-guitar-pedals">9. Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals</h2>
+<h2 id="2-switched-on-pops-nate-sloan-and-charlie-harding-love-fresh-vegetables-and-guitar-pedals">2. Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals</h2>
 <p><strong>সোর্স:</strong> <a href="https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview">TheVerge</a></p>
 <p>As if you needed more reason to love Carly Rae Jepsen&rsquo;s &ldquo;Call Me Maybe&rdquo; beyond its pop perfection, it is also, according&hellip;</p>
 <hr>
-<h2 id="10-the-best-movies-to-stream-this-month-august-2026">10. The Best Movies to Stream This Month (August 2026)</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/">Wired</a></p>
-<p>Avatar Aang, Heartstopper Forever, and Exit 8 are among the films deserving of your eyeballs this month.</p>
+<h2 id="3-matt-groening-lets-slip-that-simpsons-hit-038-run-might-be-making-a-comeback">3. Matt Groening lets slip that Simpsons: Hit &amp; Run might be making a comeback</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23">TheVerge</a></p>
+<p>At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit &amp; Run game, Matt Groening &hellip;</p>
+<hr>
+<h2 id="4-its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses">4. It’s Never Too Early to Start Planning for the Next Two Solar Eclipses</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/">Wired</a></p>
+<p>In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>ওয়েব / JS — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/web-javascript/daily-web-javascript-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/web-javascript/daily-web-javascript-2026-08-16/</guid><description>ওয়েব / JS — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-ওযব--js--আজকর-টক-নউজ">🌐 ওয়েব / JS — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-using-gccs-nested-functions-with-wide-pointers-and-no-trampolines-ii">1. Using GCC&rsquo;s Nested Functions with Wide Pointers and No Trampolines II</h2>
-<p><strong>সোর্স:</strong> <a href="https://uecker.codeberg.page/2026-07-14.html">Hacker News</a></p>
-<p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a> Po&hellip;</p>
+<h2 id="1-astronomers-discover-the-existence-of-a-black-hole-star">1. Astronomers Discover the Existence of a Black Hole Star</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/">Wired</a></p>
+<p>An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spot&hellip;</p>
 <hr>
-<h2 id="2-t3x0-a-minimal-procedural-language">2. T3X/0 a Minimal Procedural Language</h2>
-<p><strong>সোর্স:</strong> <a href="https://t3x.org/t3x/0/index.html">Hacker News</a></p>
-<p>Article URL: <a href="https://t3x.org/t3x/0/index.html">https://t3x.org/t3x/0/index.html</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49309923">https://news.ycombinator.com/item?id=49309923</a> Points: 30 # C&hellip;</p>
+<h2 id="2-a-spectre-is-haunting-unicode">2. A spectre is haunting Unicode</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.dampfkraft.com/ghost-characters.html">Hacker News</a></p>
+<p>Article URL: <a href="https://www.dampfkraft.com/ghost-characters.html">https://www.dampfkraft.com/ghost-characters.html</a> Comments URL: <a href="https://news.ycombinator.com/item?id=4931092">https://news.ycombinator.com/item?id=4931092</a>&hellip;</p>
+<hr>
+<h2 id="3-falstad-math-and-physics-simulations">3. Falstad Math and Physics Simulations</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.falstad.com/mathphysics.html">Hacker News</a></p>
+<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a> Points&hellip;</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>টেক ইন্টেলিজেন্স — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/tech-intelligence/daily-tech-intelligence-2026-08-16/</guid><description>প্রতিদিনের টেক ইন্টেলিজেন্স ডাইজেস্ট — ১৬ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h1 id="-টক-ইনটলজনস--আজকর-টক-নউজ">🤖 টেক ইন্টেলিজেন্স — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-puerto-rico-is-rationing-water-it-couldve-avoided-it-by-harvesting-rainwater">1. Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/">Wired</a></p>
-<p>The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the &hellip;</p>
-<hr>
-<h2 id="2-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked">2. How to tell if your AI platforms’ accounts have been hacked</h2>
+<h2 id="1-how-to-tell-if-your-ai-platforms-accounts-have-been-hacked">1. How to tell if your AI platforms’ accounts have been hacked</h2>
 <p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/">TechCrunch</a></p>
 <p>A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.</p>
 <hr>
-<h2 id="3-5-best-apple-watch-bands-nike-nomad-and-hermés-2026">3. 5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/best-apple-watch-bands/">Wired</a></p>
-<p>We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’v&hellip;</p>
-<hr>
-<h2 id="4-so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year">4. So much solar: Digging into the list of every US power plant that went online this year</h2>
-<p><strong>সোর্স:</strong> <a href="https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/">Ars Technica</a></p>
-<p>Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.</p>
-<hr>
-<h2 id="5-every-fusion-startup-that-has-raised-over-100m">5. Every fusion startup that has raised over $100M</h2>
+<h2 id="2-every-fusion-startup-that-has-raised-over-100m">2. Every fusion startup that has raised over $100M</h2>
 <p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/">TechCrunch</a></p>
 <p>Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.</p>
 <hr>
-<h2 id="6-ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles">6. Ukraine strikes major Russian rocket factory with cruise missiles</h2>
+<h2 id="3-ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles">3. Ukraine strikes major Russian rocket factory with cruise missiles</h2>
 <p><strong>সোর্স:</strong> <a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/">Ars Technica</a></p>
 <p>&ldquo;Flamingo missiles were used. A good achievement.&rdquo;</p>
 <hr>
-<h2 id="7-spacex-officially-closes-its-cursor-acquisition">7. SpaceX officially closes its Cursor acquisition</h2>
+<h2 id="4-spacex-officially-closes-its-cursor-acquisition">4. SpaceX officially closes its Cursor acquisition</h2>
 <p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/">TechCrunch</a></p>
 <p>AI coding startup Cursor is now officially a part of SpaceX.</p>
 <hr>
-<h2 id="8-thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria">8. Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria</h2>
-<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/">TechCrunch</a></p>
-<p>The AI opportunity is huge, but &ldquo;it would also be a grave error in our minds to let excitement weaken our investment dis&hellip;</p>
+<h2 id="5-i-survived-two-years-as-prime-minister-in-a-hit-new-game---then-my-cabinet-deserted-me">5. I survived two years as prime minister in a hit new game - then my cabinet deserted me</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
+<p>Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart</p>
 <hr>
-<h2 id="9-self-driving-trucks-are-officially-testing-on-california-highways">9. Self-driving trucks are officially testing on California highways</h2>
-<p><strong>সোর্স:</strong> <a href="https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/">TechCrunch</a></p>
-<p>Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California&hellip;</p>
+<h2 id="6-wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution">6. Wildfire smoke now bigger prenatal threat than human sources of air pollution</h2>
+<p><strong>সোর্স:</strong> <a href="https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/">Ars Technica</a></p>
+<p>Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.</p>
 <hr>
-<h2 id="10-protein-or-pickled-garlic-whats-new-in-ice-cream">10. Protein or pickled garlic? What&rsquo;s new in ice cream</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
-<p>There&rsquo;s a constant battle in ice cream to come up with new flavours and to keep costs down.</p>
+<h2 id="7-secondhand-book-sales-are-booming-is-it-because-of-ai">7. Secondhand book sales are booming. Is it because of AI?</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
+<p>Booksellers are reporting mysterious bulk orders. It&rsquo;s thought the books are being used to train AI - and ending up pulp&hellip;</p>
+<hr>
+<h2 id="8-xteinks-tiny-e-readers-are-getting-access-to-free-books-through-libby">8. Xteink’s tiny e-readers are getting access to free books through Libby</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader">TheVerge</a></p>
+<p>One of the big tradeoffs with Xteink&rsquo;s pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo&hellip;</p>
+<hr>
+<h2 id="9-marvel-reveals-the-new-x-men-cast-including-inde-navarrette-and-adam-driver">9. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast">TheVerge</a></p>
+<p>With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to official&hellip;</p>
+<hr>
+<h2 id="10-disney-d23-2026-everything-announced-for-star-wars-marvel-and-more">10. Disney D23 2026: Everything announced for Star Wars, Marvel, and more</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23">TheVerge</a></p>
+<p>The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday&hellip;</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>নিয়মনীতি — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/regulation/daily-regulation-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/regulation/daily-regulation-2026-08-16/</guid><description>নিয়মনীতি — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-নযমনত--আজকর-টক-নউজ">⚖️ নিয়মনীতি — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-i-finally-found-a-magnetic-phone-grip-i-never-want-to-remove">1. I finally found a magnetic phone grip I never want to remove</h2>
+<h2 id="1-inside-the-experimental-traps-scientists-set-for-ghostly-neutrinos">1. Inside the Experimental Traps Scientists Set for Ghostly Neutrinos</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/">Wired</a></p>
+<p>Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fle&hellip;</p>
+<hr>
+<h2 id="2-i-finally-found-a-magnetic-phone-grip-i-never-want-to-remove">2. I finally found a magnetic phone grip I never want to remove</h2>
 <p><strong>সোর্স:</strong> <a href="https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review">TheVerge</a></p>
 <p>I told myself I wouldn&rsquo;t buy an OhSnap accessory for my phone. Every one I&rsquo;d tested was nice, but felt overpriced and sl&hellip;</p>
 <hr>
@@ -153,21 +137,13 @@
 ]]></content:encoded></item><item><title>মোবাইল — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/mobile/daily-mobile-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/mobile/daily-mobile-2026-08-16/</guid><description>মোবাইল — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-মবইল--আজকর-টক-নউজ">📱 মোবাইল — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-2d-gaussian-splatting-for-bézier-spline-line-art-vectorization">1. 2D Gaussian Splatting for Bézier Spline Line Art Vectorization</h2>
-<p><strong>সোর্স:</strong> <a href="https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/">Hacker News</a></p>
-<p>Article URL: <a href="https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorizatio">https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorizatio</a>&hellip;</p>
+<h2 id="1-i-survived-two-years-as-prime-minister-in-a-hit-new-game---then-my-cabinet-deserted-me">1. I survived two years as prime minister in a hit new game - then my cabinet deserted me</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&amp;at_campaign=rss">BBC</a></p>
+<p>Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart</p>
 <hr>
-<h2 id="2-were-reaching-peak-camera-with-the-sony-a7r-vi">2. We’re reaching peak camera with the Sony A7R VI</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review">TheVerge</a></p>
-<p>It wasn&rsquo;t long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all&hellip;</p>
-<hr>
-<p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
-]]></content:encoded></item><item><title>সিকিউরিটি — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/security/daily-security-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/security/daily-security-2026-08-16/</guid><description>সিকিউরিটি — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-সকউরট--আজকর-টক-নউজ">🔒 সিকিউরিটি — আজকের টেক নিউজ</h1>
-<p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
-<hr>
-<h2 id="1-new-york-city-lawmakers-push-to-ban-the-scan-at-msg">1. New York City Lawmakers Push to ‘Ban the Scan’ at MSG</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/">Wired</a></p>
-<p>At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter re&hellip;</p>
+<h2 id="2-samsung-galaxy-z-fold8-and-galaxy-z-fold8-ultra-review-the-right-shape">2. Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/">Wired</a></p>
+<p>Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>স্টার্টআপ — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/startups/daily-startups-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/startups/daily-startups-2026-08-16/</guid><description>স্টার্টআপ — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-সটরটআপ--আজকর-টক-নউজ">🚀 স্টার্টআপ — আজকের টেক নিউজ</h1>
@@ -181,49 +157,49 @@
 <p><strong>সোর্স:</strong> <a href="https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review">TheVerge</a></p>
 <p>When I&rsquo;m asked what to buy if you want to get into making electronic music, I often recommend Elektron&rsquo;s budget-minded M&hellip;</p>
 <hr>
-<h2 id="3-auto-research-with-codex-how-i-achieved-a-232x-faster-kernel">3. Auto-research with codex: How I achieved a 232x Faster Kernel</h2>
-<p><strong>সোর্স:</strong> <a href="https://sankalp.bearblog.dev/autoresearch/">Hacker News</a></p>
-<p>Article URL: <a href="https://sankalp.bearblog.dev/autoresearch/">https://sankalp.bearblog.dev/autoresearch/</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49309549">https://news.ycombinator.com/item?id=49309549</a> Poin&hellip;</p>
+<h2 id="3-super-el-niño-keeps-growing-as-new-forecasts-reach-record-territory-ahead-winter">3. Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/">Hacker News</a></p>
+<p>Article URL: <a href="https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter">https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter</a>&hellip;</p>
 <hr>
-<h2 id="4-the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis">4. The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis</h2>
+<h2 id="4-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis">4. At-home test for infected ticks could improve Lyme Disease diagnosis</h2>
 <p><strong>সোর্স:</strong> <a href="https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/">Hacker News</a></p>
 <p>Article URL: <a href="https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-dise">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-dise</a>&hellip;</p>
 <hr>
-<h2 id="5-semaglutide-linked-to-26-lower-5-year-predicted-dementia-risk">5. Semaglutide linked to 26% lower 5-year predicted dementia risk</h2>
+<h2 id="5-semaglutide-linked-to-lower-predicted-dementia-risk">5. Semaglutide linked to lower predicted dementia risk</h2>
 <p><strong>সোর্স:</strong> <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Hacker News</a></p>
 <p>Article URL: <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</a> Comments URL: <a href="https://news.ycombinator">https://news.ycombinator</a>&hellip;.</p>
 <hr>
-<h2 id="6-the-dutch-community-where-people-live-on-strips-of-land-in-a-lake">6. The Dutch Community Where People Live on Strips of Land in a Lake</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.core77.com/posts/144869">Hacker News</a></p>
-<p>Article URL: <a href="https://www.core77.com/posts/144869">https://www.core77.com/posts/144869</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49312165">https://news.ycombinator.com/item?id=49312165</a> Points: 45 &hellip;</p>
+<h2 id="6-cultivating-a-state-of-mind-where-new-ideas-are-born-2023">6. Cultivating a state of mind where new ideas are born (2023)</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.henrikkarlsson.xyz/p/good-ideas">Hacker News</a></p>
+<p>Article URL: <a href="https://www.henrikkarlsson.xyz/p/good-ideas">https://www.henrikkarlsson.xyz/p/good-ideas</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49314235">https://news.ycombinator.com/item?id=49314235</a> Poi&hellip;</p>
 <hr>
-<h2 id="7-europes-scorched-landscapes-seen-from-space-after-summer-heatwaves">7. Europe&rsquo;s scorched landscapes seen from space after summer heatwaves</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.bbc.com/news/articles/c4gxy0wqqd9o">Hacker News</a></p>
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gxy0wqqd9o">https://www.bbc.com/news/articles/c4gxy0wqqd9o</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49312413">https://news.ycombinator.com/item?id=49312413</a> &hellip;</p>
+<h2 id="7-abdominal-fat-predicts-heart-disease-risk-better-than-bmi">7. Abdominal fat predicts heart disease risk better than BMI</h2>
+<p><strong>সোর্স:</strong> <a href="https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi">Hacker News</a></p>
+<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/">https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/</a> Comments URL: <a href="https://news.ycombinator.com/item?id=49314403">https://news.ycombinator.com/item?id=49314403</a> Points: 2&hellip;</p>
 <hr>
-<h2 id="8-the-other-sean-byrne-doesnt-exist">8. The other Sean Byrne doesn&rsquo;t exist</h2>
-<p><strong>সোর্স:</strong> <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">Hacker News</a></p>
-<p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a> Comments URL: <a href="https://news.ycombinator.com/item">https://news.ycombinator.com/item</a>&hellip;</p>
+<h2 id="8-tracking-down-a-zsh-history-data-loss-bug">8. Tracking down a Zsh history data loss bug</h2>
+<p><strong>সোর্স:</strong> <a href="https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/">Hacker News</a></p>
+<p>Article URL: <a href="https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/">https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</a> Comments URL: <a href="https://news.ycomb">https://news.ycomb</a>&hellip;</p>
 <hr>
-<h2 id="9-xorshift-generators">9. Xorshift Generators</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.alanzucconi.com/2026/08/15/xorshift-generators/">Hacker News</a></p>
-<p>Article URL: <a href="https://www.alanzucconi.com/2026/08/15/xorshift-generators/">https://www.alanzucconi.com/2026/08/15/xorshift-generators/</a> Comments URL: <a href="https://news.ycombinator.com/item">https://news.ycombinator.com/item</a>&hellip;</p>
+<h2 id="9-software-engineering-fundamentals-matter-more">9. Software Engineering fundamentals matter more</h2>
+<p><strong>সোর্স:</strong> <a href="https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/">Hacker News</a></p>
+<p>Article URL: <a href="https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/">https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/</a> Comments URL: http&hellip;</p>
+<hr>
+<h2 id="10-tea5767-radio-tuner">10. Tea5767-Radio-Tuner</h2>
+<p><strong>সোর্স:</strong> <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">Hacker News</a></p>
+<p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a> Comments URL: <a href="https://news.ycombinator.com/item?id=">https://news.ycombinator.com/item?id=</a>&hellip;</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>হার্ডওয়্যার — ১৬ আগস্ট ২০২৬</title><link>https://salauddinahmad.github.io/tech-blog/posts/hardware/daily-hardware-2026-08-16/</link><pubDate>Sun, 16 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/hardware/daily-hardware-2026-08-16/</guid><description>হার্ডওয়্যার — প্রতিদিনের অটো-জেনারেটেড রিপোর্ট।</description><content:encoded><![CDATA[<h1 id="-হরডওযযর--আজকর-টক-নউজ">💻 হার্ডওয়্যার — আজকের টেক নিউজ</h1>
 <p><em>১৬ আগস্ট ২০২৬ — স্বয়ংক্রিয়ভাবে সংকলিত</em></p>
 <hr>
-<h2 id="1-5-best-apple-watch-bands-nike-nomad-and-hermés-2026">1. 5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/best-apple-watch-bands/">Wired</a></p>
-<p>We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’v&hellip;</p>
-<hr>
-<h2 id="2-marvel-reveals-the-new-x-men-cast-including-inde-navarrette-and-adam-driver">2. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver</h2>
+<h2 id="1-marvel-reveals-the-new-x-men-cast-including-inde-navarrette-and-adam-driver">1. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver</h2>
 <p><strong>সোর্স:</strong> <a href="https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast">TheVerge</a></p>
 <p>With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to official&hellip;</p>
 <hr>
-<h2 id="3-6-best-apple-watch-accessories-to-upgrade-your-watch-2026">3. 6 Best Apple Watch Accessories to Upgrade Your Watch (2026)</h2>
-<p><strong>সোর্স:</strong> <a href="https://www.wired.com/story/best-apple-watch-accessories/">Wired</a></p>
-<p>These are the Apple Watch accessories I recommend adding to your setup.</p>
+<h2 id="2-big-pickle-on-swe-atlas--codebase-qna">2. Big Pickle on SWE Atlas – Codebase QnA</h2>
+<p><strong>সোর্স:</strong> <a href="https://github.com/PhillipChaffee/big-pickle-swe-atlas">Hacker News</a></p>
+<p>Article URL: <a href="https://github.com/PhillipChaffee/big-pickle-swe-atlas">https://github.com/PhillipChaffee/big-pickle-swe-atlas</a> Comments URL: <a href="https://news.ycombinator.com/item?id=4">https://news.ycombinator.com/item?id=4</a>&hellip;</p>
 <hr>
 <p><em>📅 ১৬ আগস্ট ২০২৬ • Tech Intelligence বাংলা • স্বয়ংক্রিয় রিপোর্ট</em></p>
 ]]></content:encoded></item><item><title>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৫ আগস্ট ২০২৬: Gemini 3.7 Flash এলো</title><link>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-15/</link><pubDate>Sat, 15 Aug 2026 10:00:00 +0600</pubDate><guid>https://salauddinahmad.github.io/tech-blog/posts/adaptability/daily-adaptability-intelligence-2026-08-15/</guid><description>অ্যাডাপ্টাবিলিটি ইন্টেলিজেন্স — ১৫ আগস্ট ২০২৬</description><content:encoded><![CDATA[<h2 id="-daily-adaptability-intelligence-report--১৫-আগসট-২০২৬-শনবর">🧠 Daily Adaptability Intelligence Report — ১৫ আগস্ট ২০২৬ (শনিবার)</h2>
