@@ -18,19 +18,27 @@ cover:
 
 ---
 
-## 1. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+## 1. Astronomers Discover the Existence of a Black Hole Star
 
-**সোর্স:** [Hacker News](https://uecker.codeberg.page/2026-07-14.html)
+**সোর্স:** [Wired](https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/)
 
-Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Po...
+An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spot...
 
 ---
 
-## 2. T3X/0 a Minimal Procedural Language
+## 2. A spectre is haunting Unicode
 
-**সোর্স:** [Hacker News](https://t3x.org/t3x/0/index.html)
+**সোর্স:** [Hacker News](https://www.dampfkraft.com/ghost-characters.html)
 
-Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 30 # C...
+Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=4931092...
+
+---
+
+## 3. Falstad Math and Physics Simulations
+
+**সোর্স:** [Hacker News](https://www.falstad.com/mathphysics.html)
+
+Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points...
 
 ---
 

@@ -18,15 +18,7 @@ cover:
 
 ---
 
-## 1. Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater
-
-**সোর্স:** [Wired](https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/)
-
-The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the ...
-
----
-
-## 2. How to tell if your AI platforms’ accounts have been hacked
+## 1. How to tell if your AI platforms’ accounts have been hacked
 
 **সোর্স:** [TechCrunch](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
 
@@ -34,7 +26,7 @@ A guide on how to check if hackers have broken into your accounts on the most po
 
 ---
 
-## 3. Every fusion startup that has raised over $100M
+## 2. Every fusion startup that has raised over $100M
 
 **সোর্স:** [TechCrunch](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/)
 
@@ -42,7 +34,7 @@ Fusion startups have raised $7.1 billion to date, with the majority of it going 
 
 ---
 
-## 4. Ukraine strikes major Russian rocket factory with cruise missiles
+## 3. Ukraine strikes major Russian rocket factory with cruise missiles
 
 **সোর্স:** [Ars Technica](https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/)
 
@@ -50,51 +42,59 @@ Fusion startups have raised $7.1 billion to date, with the majority of it going 
 
 ---
 
-## 5. Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria
+## 4. Wildfire smoke now bigger prenatal threat than human sources of air pollution
 
-**সোর্স:** [TechCrunch](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
+**সোর্স:** [Ars Technica](https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/)
 
-The AI opportunity is huge, but "it would also be a grave error in our minds to let excitement weaken our investment dis...
-
----
-
-## 6. Self-driving trucks are officially testing on California highways
-
-**সোর্স:** [TechCrunch](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
-
-Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California...
+Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.
 
 ---
 
-## 7. Why tech bosses keep sharing their manifestos about AI
-
-**সোর্স:** [BBC](https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss)
-
-Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
-
----
-
-## 8. Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out
-
-**সোর্স:** [Wired](https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/)
-
-When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to tr...
-
----
-
-## 9. When housing is unaffordable, this artist’s device makes pedaling harder
-
-**সোর্স:** [TheVerge](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
-
-Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks befor...
-
----
-
-## 10. Secondhand book sales are booming. Is it because of AI?
+## 5. Secondhand book sales are booming. Is it because of AI?
 
 **সোর্স:** [BBC](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss)
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulp...
+
+---
+
+## 6. Disney D23 2026: Everything announced for Star Wars, Marvel, and more
+
+**সোর্স:** [TheVerge](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23)
+
+The annual Disney fan event showed off the cast of Marvel&#8217;s X-Men movie, plus a new trailer for Avengers: Doomsday...
+
+---
+
+## 7. Anthropic shares more details about how Claude’s new watermarks will work
+
+**সোর্স:** [TechCrunch](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
+
+How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
+
+---
+
+## 8. VisionQuest trailer kicks off Disney's D23 fan event
+
+**সোর্স:** [Ars Technica](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/)
+
+Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter
+
+---
+
+## 9. Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+
+**সোর্স:** [TechCrunch](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
+
+The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
+
+---
+
+## 10. Polaroid’s tiny instant camera is $72 and includes a free pack of film
+
+**সোর্স:** [TheVerge](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
+
+Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nos...
 
 ---
 

@@ -46,66 +46,34 @@ def bn_date():
 
 
 def generate_simple_cover(category, title_bn, out_path):
-    """Generate a simple gradient cover with Pillow — no external fonts needed."""
-    from PIL import Image, ImageDraw, ImageFont
-
-    W, H = 1200, 630
-    img = Image.new("RGB", (W, H))
-
-    # Gradient colors based on category
-    gradients = {
-        "AI/ML": ((20, 0, 50), (0, 0, 0)),
-        "Security": ((0, 30, 0), (0, 0, 0)),
-        "Cloud/DevOps": ((0, 0, 40), (0, 0, 0)),
-        "Mobile": ((40, 0, 40), (0, 0, 0)),
-        "Web/JavaScript": ((0, 20, 40), (0, 0, 0)),
-        "Hardware": ((30, 30, 0), (0, 0, 0)),
-        "Startups": ((40, 10, 0), (0, 0, 0)),
-        "Open Source": ((0, 30, 30), (0, 0, 0)),
-        "Regulation": ((30, 0, 10), (0, 0, 0)),
-        "Other": ((20, 20, 20), (0, 0, 0)),
-    }
-    top, bot = gradients.get(category, ((20, 20, 20), (0, 0, 0)))
-
-    # Draw gradient
-    draw = ImageDraw.Draw(img)
-    for y in range(H):
-        r = int(top[0] + (bot[0] - top[0]) * y / H)
-        g = int(top[1] + (bot[1] - top[1]) * y / H)
-        b = int(top[2] + (bot[2] - top[2]) * y / H)
-        draw.line([(0, y), (W, y)], fill=(r, g, b))
-
-    # Red accent bar at top
-    draw.rectangle([(0, 0), (W, 8)], fill=(184, 0, 0))
-
-    # Category badge
-    try:
-        font_badge = ImageFont.truetype(os.path.join(REPO_ROOT, "tools", "fonts", "HindSiliguri-SemiBold.ttf"), 28)
-        font_title = ImageFont.truetype(os.path.join(REPO_ROOT, "tools", "fonts", "HindSiliguri-Bold.ttf"), 44)
-        font_sub = ImageFont.truetype(os.path.join(REPO_ROOT, "tools", "fonts", "HindSiliguri-Regular.ttf"), 30)
-    except (OSError, IOError):
-        font_badge = ImageFont.load_default()
-        font_title = font_badge
-        font_sub = font_badge
-
-    # "Tech Intelligence বাংলা" badge
+    """Generate a gradient cover using the existing generate-cover.py (template style)."""
+    import subprocess
+    script = os.path.join(REPO_ROOT, "tools", "generate-cover.py")
     cat_slug, cat_bn, cat_icon = CATEGORY_MAP.get(category, ("other", "অন্যান্য", "📰"))
-    draw.text((40, 30), f"{cat_icon}  Tech Intelligence বাংলা", fill=(184, 0, 0), font=font_badge)
-
-    # Title (truncated if too long)
-    max_title_len = 30
-    display_title = title_bn[:max_title_len] + "…" if len(title_bn) > max_title_len else title_bn
-    draw.text((40, 200), display_title, fill=(255, 255, 255), font=font_title)
-
-    # Date
-    draw.text((40, 280), f"📅 {bn_date()}", fill=(180, 180, 180), font=font_sub)
-
-    # Bottom bar
-    draw.rectangle([(0, H - 40), (W, H)], fill=(184, 0, 0))
-    draw.text((40, H - 32), "salauddinahmad.github.io/tech-blog", fill=(255, 255, 255), font=font_sub)
-
-    img.save(out_path, "PNG")
-    print(f"  Cover: {out_path}")
+    cmd = [
+        "python3", script,
+        "--title", f"{cat_icon} {title_bn}",
+        "--category", cat_slug,
+        "--lang", "bn",
+        "--date", bn_date(),
+        "--out", out_path,
+        "--style", "template",
+    ]
+    try:
+        subprocess.run(cmd, check=True, capture_output=True, text=True)
+        print(f"  Cover: {out_path}")
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        # Fallback: Pillow gradient
+        from PIL import Image, ImageDraw
+        W, H = 1200, 630
+        img = Image.new("RGB", (W, H))
+        draw = ImageDraw.Draw(img)
+        for y in range(H):
+            draw.line([(0, y), (W, y)], fill=(20, 0, 50, int(20 * y / H), 0, 0))
+        draw.rectangle([(0, 0), (W, 8)], fill=(184, 0, 0))
+        draw.rectangle([(0, H - 40), (W, H)], fill=(184, 0, 0))
+        img.save(out_path, "PNG")
+        print(f"  Cover (fallback): {out_path}")
 
 
 def build_post_content(category_bn, cat_icon, news_items):

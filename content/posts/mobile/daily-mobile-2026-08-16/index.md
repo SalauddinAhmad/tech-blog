@@ -18,19 +18,19 @@ cover:
 
 ---
 
-## 1. 2D Gaussian Splatting for Bézier Spline Line Art Vectorization
+## 1. I survived two years as prime minister in a hit new game - then my cabinet deserted me
 
-**সোর্স:** [Hacker News](https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/)
+**সোর্স:** [BBC](https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss)
 
-Article URL: https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorizatio...
+Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart
 
 ---
 
-## 2. We’re reaching peak camera with the Sony A7R VI
+## 2. Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape
 
-**সোর্স:** [TheVerge](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
+**সোর্স:** [Wired](https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/)
 
-It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all...
+Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.
 
 ---
 

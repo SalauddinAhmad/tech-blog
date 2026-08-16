@@ -34,15 +34,15 @@ When I'm asked what to buy if you want to get into making electronic music, I of
 
 ---
 
-## 3. Auto-research with codex: How I achieved a 232x Faster Kernel
+## 3. Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter
 
-**সোর্স:** [Hacker News](https://sankalp.bearblog.dev/autoresearch/)
+**সোর্স:** [Hacker News](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
 
-Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Poin...
+Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter...
 
 ---
 
-## 4. The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
+## 4. At-home test for infected ticks could improve Lyme Disease diagnosis
 
 **সোর্স:** [Hacker News](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 
@@ -50,7 +50,7 @@ Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-fo
 
 ---
 
-## 5. Semaglutide linked to 26% lower 5-year predicted dementia risk
+## 5. Semaglutide linked to lower predicted dementia risk
 
 **সোর্স:** [Hacker News](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
 
@@ -58,35 +58,43 @@ Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
 
 ---
 
-## 6. The Dutch Community Where People Live on Strips of Land in a Lake
+## 6. Cultivating a state of mind where new ideas are born (2023)
 
-**সোর্স:** [Hacker News](https://www.core77.com/posts/144869)
+**সোর্স:** [Hacker News](https://www.henrikkarlsson.xyz/p/good-ideas)
 
-Article URL: https://www.core77.com/posts/144869 Comments URL: https://news.ycombinator.com/item?id=49312165 Points: 45 ...
-
----
-
-## 7. Europe's scorched landscapes seen from space after summer heatwaves
-
-**সোর্স:** [Hacker News](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
-
-Article URL: https://www.bbc.com/news/articles/c4gxy0wqqd9o Comments URL: https://news.ycombinator.com/item?id=49312413 ...
+Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Poi...
 
 ---
 
-## 8. The other Sean Byrne doesn't exist
+## 7. Abdominal fat predicts heart disease risk better than BMI
 
-**সোর্স:** [Hacker News](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+**সোর্স:** [Hacker News](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
 
-Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item...
+https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/ Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 2...
 
 ---
 
-## 9. Xorshift Generators
+## 8. Tracking down a Zsh history data loss bug
 
-**সোর্স:** [Hacker News](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
+**সোর্স:** [Hacker News](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 
-Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item...
+Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycomb...
+
+---
+
+## 9. Software Engineering fundamentals matter more
+
+**সোর্স:** [Hacker News](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+
+Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: http...
+
+---
+
+## 10. Tea5767-Radio-Tuner
+
+**সোর্স:** [Hacker News](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+
+Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=...
 
 ---
 
