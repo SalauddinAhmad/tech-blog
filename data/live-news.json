@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T16:28:46+06:00",
+  "lastUpdated": "2026-08-19T17:24:57+06:00",
   "news": [
     {
       "id": "95524b9f1235",
@@ -32,34 +32,19 @@
       "summary_en": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accid..."
     },
     {
-      "id": "a559f2780c0c",
-      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
-      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-18T10:30:00Z",
-      "description": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+      "id": "973c5fefc8b5",
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-08-19T11:19:12Z",
+      "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
+      "importance": 7,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, st..."
-    },
-    {
-      "id": "8747a048df02",
-      "title": "Fairphone is launching its latest repairable phone in the US too",
-      "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-18T11:00:00Z",
-      "description": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing co..."
+      "summary_en": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place."
     },
     {
       "id": "0a733996f28c",
@@ -150,36 +135,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favor..."
-    },
-    {
-      "id": "3a0d2f949246",
-      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-18T10:30:00Z",
-      "description": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?"
-    },
-    {
-      "id": "92cb7740fe1a",
-      "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-      "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-08-18T11:07:49Z",
-      "description": "Research shows heat amplifies the dangers of pesticides.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Research shows heat amplifies the dangers of pesticides."
     },
     {
       "id": "7a61db06927b",
@@ -360,36 +315,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded ha..."
-    },
-    {
-      "id": "f90f9798c2bb",
-      "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-18T11:00:00Z",
-      "description": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V."
-    },
-    {
-      "id": "7f901abc3cfa",
-      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-18T11:08:00Z",
-      "description": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally."
     },
     {
       "id": "6959482824aa",
@@ -707,6 +632,36 @@
       "summary_en": "The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database..."
     },
     {
+      "id": "d437054f06f1",
+      "title": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It",
+      "link": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-19T10:45:00Z",
+      "description": "The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budget fakes that were good enough to pass as real—but ultimately disposable.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budge..."
+    },
+    {
+      "id": "b31d9ee07d4f",
+      "title": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport",
+      "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-19T11:00:00Z",
+      "description": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsof..."
+    },
+    {
       "id": "704d724e9ab2",
       "title": "Peacock is raising prices by up to $3",
       "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
@@ -750,6 +705,51 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagree..."
+    },
+    {
+      "id": "9f1fb4617b32",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-18T17:21:58Z",
+      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, ..."
+    },
+    {
+      "id": "bd9656223d09",
+      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
+      "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-18T17:47:04Z",
+      "description": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Bud..."
+    },
+    {
+      "id": "1d131bb25f34",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-18T18:00:00Z",
+      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasi..."
     }
   ]
 }
