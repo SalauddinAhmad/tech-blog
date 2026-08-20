@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T04:27:43+06:00",
+  "lastUpdated": "2026-08-21T05:25:24+06:00",
   "news": [
     {
       "id": "08dde364f7c2",
@@ -173,7 +173,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-20T14:08:09Z",
-      "description": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 72 # Comments: 43",
+      "description": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 78 # Comments: 43",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
@@ -225,21 +225,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Roblox is first platform to submit to independent audits under the Online Safety Act."
-    },
-    {
-      "id": "d204e23c78ce",
-      "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-19T23:00:00Z",
-      "description": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for G..."
     },
     {
       "id": "60796a568a14",
@@ -353,28 +338,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-20T15:46:18Z",
-      "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 166 # Comments: 53",
+      "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 176 # Comments: 58",
       "topic": "Web/JavaScript",
       "topicIcon": "🌐",
       "importance": 4,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id..."
-    },
-    {
-      "id": "0fafed04a528",
-      "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T15:53:49Z",
-      "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "topic": "Web/JavaScript",
-      "topicIcon": "🌐",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join th..."
     },
     {
       "id": "84cbd60aa00b",
@@ -548,7 +518,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-20T19:22:24Z",
-      "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 153 # Comments: 168",
+      "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 210 # Comments: 247",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 4,
@@ -603,7 +573,7 @@
     },
     {
       "id": "7a4a6fae5369",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
@@ -615,6 +585,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new A..."
+    },
+    {
+      "id": "db0bf4cf3653",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-20T22:36:37Z",
+      "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companie..."
+    },
+    {
+      "id": "0ddcdbb82770",
+      "title": "How landscape gardening is being electrified",
+      "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-08-20T23:12:38Z",
+      "description": "The switch to quieter electric equipment is not going as fast as some would like.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "The switch to quieter electric equipment is not going as fast as some would like."
     },
     {
       "id": "e2e009a656a0",
@@ -707,6 +707,21 @@
       "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all ..."
     },
     {
+      "id": "4e621b47d1e8",
+      "title": "20% Off Samsung Promo Code | August 2026",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-20T05:00:00Z",
+      "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "topic": "Mobile",
+      "topicIcon": "📱",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Fl..."
+    },
+    {
       "id": "94ae8a452d16",
       "title": "iRobot Promo Code: 15% Off",
       "link": "https://www.wired.com/story/irobot-promo-code/",
@@ -735,21 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review."
-    },
-    {
-      "id": "bb6c4922c48e",
-      "title": "T-Mobile Promo Codes: 25% Off | August 2026",
-      "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-20T05:00:00Z",
-      "description": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled ..."
     }
   ]
 }
