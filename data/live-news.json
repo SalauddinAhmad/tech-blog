@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T19:47:07+06:00",
+  "lastUpdated": "2026-08-20T20:36:29+06:00",
   "news": [
     {
       "id": "cb3b611319c0",
@@ -107,19 +107,19 @@
       "summary_en": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have ..."
     },
     {
-      "id": "67bb690c4b16",
-      "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
-      "link": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-08-19T13:54:36Z",
-      "description": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 5,
-      "reliability": 5,
+      "id": "4e8c57fee475",
+      "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-20T14:09:31Z",
+      "description": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site's creator, Ethan McKanna, told The [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA."
+      "summary_en": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboa..."
     },
     {
       "id": "e46d998199a8",
@@ -272,21 +272,6 @@
       "summary_en": "US residents face trade-offs as delivery drone services such as Prime Air expand."
     },
     {
-      "id": "71381504af76",
-      "title": "LG’s new OLED breakthrough can boost display lifespans",
-      "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-20T09:11:26Z",
-      "description": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \"dream next-generation OLED\" patterning method that aims to eliminate some of the [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-last..."
-    },
-    {
       "id": "e85097b01b09",
       "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
       "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
@@ -302,21 +287,6 @@
       "summary_en": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110."
     },
     {
-      "id": "a9f0044edd6f",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-20T12:00:00Z",
-      "description": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between dif..."
-    },
-    {
       "id": "bb7f10ed90dc",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
@@ -330,6 +300,21 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+    },
+    {
+      "id": "acf4cd572631",
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-20T14:08:09Z",
+      "description": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 11 # Comments: 3",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: http..."
     },
     {
       "id": "4d4fffd97589",
@@ -405,21 +390,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "\"I will tear apart this forest and bring back what it took from me.\""
-    },
-    {
-      "id": "a55c0c147a5d",
-      "title": "OpenRouter is joining Stripe",
-      "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-19T17:32:38Z",
-      "description": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 908 # Comments: 464",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments UR..."
     },
     {
       "id": "8ec1298df12f",
@@ -572,21 +542,6 @@
       "summary_en": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
     },
     {
-      "id": "018e52fa5be2",
-      "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
-      "link": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-20T10:00:00Z",
-      "description": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and portability,\" but a more compelling reason to upgrade is that you won't have to replace them in a few years when they stop [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability...."
-    },
-    {
       "id": "f698f863a881",
       "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
       "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
@@ -632,21 +587,6 @@
       "summary_en": "The app now allows men to make the first move, suggesting its women-first positioning was limiting growth. It joins othe..."
     },
     {
-      "id": "6b88e9323391",
-      "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
-      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-20T11:30:00Z",
-      "description": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to the [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, o..."
-    },
-    {
       "id": "1f1e32f0a980",
       "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
       "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
@@ -662,19 +602,64 @@
       "summary_en": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electri..."
     },
     {
-      "id": "ace90aaaec0d",
-      "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
-      "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-19T14:33:04Z",
-      "description": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
+      "id": "208d7db41b09",
+      "title": "We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive",
+      "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-20T14:00:00Z",
+      "description": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in Tokyo, I'm convinced [&#8230;]",
       "topic": "Other",
       "topicIcon": "📰",
-      "importance": 3,
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Thr..."
+      "summary_en": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, t..."
+    },
+    {
+      "id": "9ad85400099b",
+      "title": "This tiny guitar amp is the most unhinged distortion pedal I’ve ever used",
+      "link": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-20T14:00:00Z",
+      "description": "Is Amp Crash a guitar amp or a guitar pedal? Yes. Death By Audio's latest is, in fact, both. While it's in a guitar pedal enclosure, Amp Crash is actually a tiny 3-watt amp hooked up to a 2-inch speaker. You can even connect an external speaker if you want. This isn't a digital re-creation [&#8230;]",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Is Amp Crash a guitar amp or a guitar pedal? Yes. Death By Audio's latest is, in fact, both. While it's in a guitar peda..."
+    },
+    {
+      "id": "043ed4c04cce",
+      "title": "Here’s what data Comcast says its motion-detecting routers collect",
+      "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-20T14:00:22Z",
+      "description": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, because a device I do not control [&#8230;]",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their ro..."
+    },
+    {
+      "id": "2841680f52ab",
+      "title": "Stwipe Acquires OpenWouter",
+      "link": "https://stwipe.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-20T14:04:46Z",
+      "description": "Article URL: https://stwipe.com/ Comments URL: https://news.ycombinator.com/item?id=49374738 Points: 20 # Comments: 2",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 4,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://stwipe.com/ Comments URL: https://news.ycombinator.com/item?id=49374738 Points: 20 # Comments: 2"
     },
     {
       "id": "e422db3581b7",
@@ -690,21 +675,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a p..."
-    },
-    {
-      "id": "38ab8230c0c7",
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-19T17:47:29Z",
-      "description": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id=49364745 Points: 703 # Comments: 273",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 3,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id..."
     },
     {
       "id": "da99b1575383",
@@ -737,19 +707,49 @@
       "summary_en": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool."
     },
     {
-      "id": "a8f075e6856e",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "link": "https://os8088.com/spotlight/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-19T21:11:31Z",
-      "description": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 109 # Comments: 46",
-      "topic": "Web/JavaScript",
-      "topicIcon": "🌐",
+      "id": "b9015a2c1d53",
+      "title": "Peacock Promo Codes: 40% Off August 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-20T05:00:00Z",
+      "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "topic": "Other",
+      "topicIcon": "📰",
       "importance": 3,
-      "reliability": 3,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 109 # Com..."
+      "summary_en": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupo..."
+    },
+    {
+      "id": "bf28a1663d11",
+      "title": "TurboTax Full Service Coupons This August",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-20T05:00:00Z",
+      "description": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive Tur..."
+    },
+    {
+      "id": "fb8b65d838ae",
+      "title": "Dell Coupon Codes: 20% Off for August 2026",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-20T05:00:00Z",
+      "description": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all ..."
     }
   ]
 }
