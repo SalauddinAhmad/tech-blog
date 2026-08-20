@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T18:50:13+06:00",
+  "lastUpdated": "2026-08-20T19:47:07+06:00",
   "news": [
     {
       "id": "cb3b611319c0",
@@ -60,6 +60,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States."
+    },
+    {
+      "id": "901712568f32",
+      "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+      "link": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-20T13:30:00Z",
+      "description": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's footage on the go. Osmosis, a free open-source app built by DJI watcher Konrad Iturbe (with [&#8230;]",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 7,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home t..."
     },
     {
       "id": "47420612f631",
@@ -302,34 +317,19 @@
       "summary_en": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between dif..."
     },
     {
-      "id": "6e2e0f4095d6",
-      "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-      "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-19T15:01:41Z",
-      "description": "The investment comes amid Navi plans to go public.",
+      "id": "bb7f10ed90dc",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-08-20T13:00:35Z",
+      "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
+      "importance": 5,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "The investment comes amid Navi plans to go public."
-    },
-    {
-      "id": "c86c5d5f5cf7",
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-19T15:44:53Z",
-      "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data ce..."
+      "summary_en": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
     },
     {
       "id": "4d4fffd97589",
@@ -407,6 +407,21 @@
       "summary_en": "\"I will tear apart this forest and bring back what it took from me.\""
     },
     {
+      "id": "a55c0c147a5d",
+      "title": "OpenRouter is joining Stripe",
+      "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-19T17:32:38Z",
+      "description": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 908 # Comments: 464",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 4,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments UR..."
+    },
+    {
       "id": "8ec1298df12f",
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
@@ -420,21 +435,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report ..."
-    },
-    {
-      "id": "274675f903e2",
-      "title": "Nielsen is leaning more on wearables to hear what people are watching",
-      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-19T19:53:09Z",
-      "description": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall [&#8230;]",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward wi..."
     },
     {
       "id": "df7b62856293",
@@ -647,6 +647,21 @@
       "summary_en": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, o..."
     },
     {
+      "id": "1f1e32f0a980",
+      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
+      "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-20T13:45:00Z",
+      "description": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electri..."
+    },
+    {
       "id": "ace90aaaec0d",
       "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
       "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
@@ -660,21 +675,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Thr..."
-    },
-    {
-      "id": "f7f18eded5a4",
-      "title": "Rivian spinout Also raises another $150M",
-      "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-19T15:39:47Z",
-      "description": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial car..."
     },
     {
       "id": "e422db3581b7",
@@ -692,19 +692,19 @@
       "summary_en": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a p..."
     },
     {
-      "id": "3ce595e677a9",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-19T19:00:00Z",
-      "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
+      "id": "38ab8230c0c7",
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-19T17:47:29Z",
+      "description": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id=49364745 Points: 703 # Comments: 273",
+      "topic": "Mobile",
+      "topicIcon": "📱",
       "importance": 3,
-      "reliability": 4,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-s..."
+      "summary_en": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id..."
     },
     {
       "id": "da99b1575383",
@@ -737,19 +737,19 @@
       "summary_en": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool."
     },
     {
-      "id": "4407db7d6bf2",
-      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-      "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-19T22:35:20Z",
-      "description": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&#8230;]",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
+      "id": "a8f075e6856e",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "link": "https://os8088.com/spotlight/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-19T21:11:31Z",
+      "description": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 109 # Comments: 46",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
       "importance": 3,
-      "reliability": 4,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. ..."
+      "summary_en": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 109 # Com..."
     }
   ]
 }
