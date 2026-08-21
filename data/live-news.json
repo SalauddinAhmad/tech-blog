@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T04:24:45+06:00",
+  "lastUpdated": "2026-08-22T05:23:47+06:00",
   "news": [
     {
       "id": "589ae77c33df",
@@ -107,21 +107,6 @@
       "summary_en": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery lif..."
     },
     {
-      "id": "a932d5d274ee",
-      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-      "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T23:32:27Z",
-      "description": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or wa..."
-    },
-    {
       "id": "eb3a17c12948",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
@@ -212,12 +197,27 @@
       "summary_en": "Renters say hidden Zillow listings make it harder to afford living in New York City."
     },
     {
+      "id": "81cc8caaf098",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-21T22:10:01Z",
+      "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia a..."
+    },
+    {
       "id": "5cea1754971c",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
-      "pubDate": "2026-08-21T22:00:23Z",
+      "pubDate": "2026-08-21T22:36:12Z",
       "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
       "topic": "Regulation",
       "topicIcon": "⚖️",
@@ -225,51 +225,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on ..."
-    },
-    {
-      "id": "81cc8caaf098",
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
-      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-21T22:10:01Z",
-      "description": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia ..."
-    },
-    {
-      "id": "db0bf4cf3653",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T22:36:37Z",
-      "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companie..."
-    },
-    {
-      "id": "0ddcdbb82770",
-      "title": "How landscape gardening is being electrified",
-      "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-08-20T23:12:38Z",
-      "description": "The switch to quieter electric equipment is not going as fast as some would like.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The switch to quieter electric equipment is not going as fast as some would like."
     },
     {
       "id": "e9ba6db1fcd1",
@@ -602,21 +557,6 @@
       "summary_en": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby stea..."
     },
     {
-      "id": "c9aad26635c1",
-      "title": "Google Pixel 11 Review: Minor Upgrade",
-      "link": "https://www.wired.com/review/google-pixel-11/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-20T23:15:27Z",
-      "description": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone."
-    },
-    {
       "id": "c8f0c41a4353",
       "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
       "link": "https://www.wired.com/story/ray-ban-promo-code/",
@@ -750,6 +690,66 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August."
+    },
+    {
+      "id": "4636e4f46472",
+      "title": "Ruggable Discount Code: 30% Off Rugs | August 2026",
+      "link": "https://www.wired.com/story/ruggable-discount-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows u..."
+    },
+    {
+      "id": "c980043f6d50",
+      "title": "Hoka Coupon Codes: 30% Off in August 2026",
+      "link": "https://www.wired.com/story/hoka-coupon-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for August 2026.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts ..."
+    },
+    {
+      "id": "abd3c2ac85d0",
+      "title": "30% Off Canon Promo Codes | August 2026",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August."
+    },
+    {
+      "id": "ed64648a44a9",
+      "title": "Squarespace Promo Codes: 20% Off in August 2026",
+      "link": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons fro..."
     }
   ]
 }
