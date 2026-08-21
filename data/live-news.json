@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T19:45:13+06:00",
+  "lastUpdated": "2026-08-21T20:35:09+06:00",
   "news": [
     {
       "id": "589ae77c33df",
@@ -92,21 +92,6 @@
       "summary_en": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE'..."
     },
     {
-      "id": "632d085c0041",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T17:18:58Z",
-      "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "ChatGPT and other AI models are now authoring and editing much of the new web."
-    },
-    {
       "id": "7c5b609baa8a",
       "title": "Riot is ending development on its League of Legends fighting game",
       "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
@@ -152,34 +137,19 @@
       "summary_en": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
     },
     {
-      "id": "abf32a0b7556",
-      "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-      "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-08-20T13:59:50Z",
-      "description": "The yeetcycling math resembles asteroid mining in reverse.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The yeetcycling math resembles asteroid mining in reverse."
-    },
-    {
-      "id": "f726cd00afef",
-      "title": "Ramp launches its own AI model router, called Router",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "id": "6ac7852311e2",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T16:46:00Z",
-      "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "pubDate": "2026-08-21T14:00:00Z",
+      "description": "There's about to be a big fight to secure access to space.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 5,
+      "importance": 6,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between ..."
+      "summary_en": "There's about to be a big fight to secure access to space."
     },
     {
       "id": "75ecfe43cfa5",
@@ -287,36 +257,6 @@
       "summary_en": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior."
     },
     {
-      "id": "01237097ff1b",
-      "title": "Linux 7.2",
-      "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-20T15:46:18Z",
-      "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 274 # Comments: 118",
-      "topic": "Web/JavaScript",
-      "topicIcon": "🌐",
-      "importance": 4,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id..."
-    },
-    {
-      "id": "1cbac981a493",
-      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-      "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T17:04:53Z",
-      "description": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments."
-    },
-    {
       "id": "c49df2de3722",
       "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
       "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -390,21 +330,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Goo..."
-    },
-    {
-      "id": "02ed539fac86",
-      "title": "The August 17 outage",
-      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-20T19:22:24Z",
-      "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 592 # Comments: 678",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https..."
     },
     {
       "id": "e70bc5b86969",
@@ -647,6 +572,21 @@
       "summary_en": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder ..."
     },
     {
+      "id": "632e758365f5",
+      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+      "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-21T13:48:26Z",
+      "description": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual ..."
+    },
+    {
       "id": "d5497c2ac537",
       "title": "Grok keeps sending gibberish responses to users",
       "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
@@ -750,6 +690,66 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified R..."
+    },
+    {
+      "id": "035f70e69ad4",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and m..."
+    },
+    {
+      "id": "4a4c056c3a22",
+      "title": "Paramount+ Coupon Codes and Deals for August 2026",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and mo..."
+    },
+    {
+      "id": "8d12aa494ee9",
+      "title": "Zoro Coupon Codes: 55% Off August",
+      "link": "https://www.wired.com/story/zoro-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplie..."
+    },
+    {
+      "id": "c1d3ff4133e5",
+      "title": "B&H Photo Promo Codes and Deals This August 2026",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-21T05:00:00Z",
+      "description": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo."
     }
   ]
 }
