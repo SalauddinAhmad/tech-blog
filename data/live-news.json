@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T09:02:40+06:00",
+  "lastUpdated": "2026-08-21T10:37:59+06:00",
   "news": [
     {
       "id": "08dde364f7c2",
@@ -353,7 +353,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-20T15:46:18Z",
-      "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 197 # Comments: 73",
+      "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 214 # Comments: 73",
       "topic": "Web/JavaScript",
       "topicIcon": "🌐",
       "importance": 4,
@@ -513,12 +513,12 @@
     },
     {
       "id": "02ed539fac86",
-      "title": "The August 17 outage, and the work ahead",
+      "title": "The August 17 outage",
       "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-20T19:22:24Z",
-      "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 346 # Comments: 392",
+      "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 396 # Comments: 440",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 4,
@@ -737,19 +737,19 @@
       "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all ..."
     },
     {
-      "id": "f1f498d524b6",
-      "title": "eBay Coupons: 20% Off in August 2026",
-      "link": "https://www.wired.com/story/ebay-coupon-code/",
+      "id": "4e621b47d1e8",
+      "title": "20% Off Samsung Promo Code | August 2026",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
       "source": "Wired",
       "sourceIcon": "wired",
       "pubDate": "2026-08-20T05:00:00Z",
-      "description": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "topic": "Other",
-      "topicIcon": "📰",
+      "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "topic": "Mobile",
+      "topicIcon": "📱",
       "importance": 3,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more."
+      "summary_en": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Fl..."
     }
   ]
 }
