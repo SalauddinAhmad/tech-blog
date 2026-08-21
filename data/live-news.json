@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T23:28:56+06:00",
+  "lastUpdated": "2026-08-22T00:36:14+06:00",
   "news": [
     {
       "id": "589ae77c33df",
@@ -167,21 +167,6 @@
       "summary_en": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or wa..."
     },
     {
-      "id": "dd45a398565a",
-      "title": "Patreon is changing its algorithm to help smaller creators get discovered",
-      "link": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-21T11:08:09Z",
-      "description": "Patreon has announced a number of new and overhauled features that are designed to \"build a better network - and a better internet,\" according to CEO Jack Conte. The Patreon roadmap includes discovery algorithm updates, platform and security improvements, and new features for both creators and fans. In a lengthy blog post, Conte outlines each [&#8230;]",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Patreon has announced a number of new and overhauled features that are designed to \"build a better network - and a bette..."
-    },
-    {
       "id": "eb3a17c12948",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
@@ -212,34 +197,34 @@
       "summary_en": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same..."
     },
     {
-      "id": "3f3d7cf4d8b7",
-      "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-      "link": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T19:01:41Z",
-      "description": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than tr..."
-    },
-    {
-      "id": "4065cdd41c2d",
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-20T19:15:05Z",
-      "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "id": "faaedb9cfd0d",
+      "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+      "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-08-21T16:38:25Z",
+      "description": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
       "topic": "Regulation",
       "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 4,
+      "importance": 5,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing produ..."
+      "summary_en": "Some Americans fear the FTC may be thinking about personalized pricing all wrong."
+    },
+    {
+      "id": "21ad7663a4c5",
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-08-21T16:48:59Z",
+      "description": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Romania blew up drone boat to protect lives of several hundred rig workers."
     },
     {
       "id": "f5c14fa58d07",
@@ -542,19 +527,19 @@
       "summary_en": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -..."
     },
     {
-      "id": "d6a57e38035e",
-      "title": "Omacom Foundation Launches with $8M",
-      "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+      "id": "11ac83b5c037",
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "link": "https://github.com/proliferate-ai/proliferate",
       "source": "Hacker News",
       "sourceIcon": "hn",
-      "pubDate": "2026-08-21T16:03:47Z",
-      "description": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/ Comments URL: https://news.ycombinator.com/item?id=49390132 Points: 91 # Comments: 53",
-      "topic": "Startups",
-      "topicIcon": "🚀",
+      "pubDate": "2026-08-21T16:47:15Z",
+      "description": "Hi HN- I'm Pablo, the founder of Proliferate (YC S25)! Proliferate ( https://github.com/proliferate-ai/proliferate ) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place. Here's a quick 2m demo of how we use Proliferate to build Proliferate: https://www.youtube.com/watch?v=tGNX0oaWmBY I started building Proliferate after my team onboarded to OpenAI Codex. Within days, we were using it for everything: using computer use instead of navigating websites ourselves, having Codex coordinate other agents, and setting up automations for recurring work. We really never needed to leave the desktop app to get work done. If my team’s experience is anything close to representative, a Codex-like app (a horizontal agent with a beautiful UI) is the main interface every company is going to use to get work done. That is perfectly in line with OpenAI’s mission to make Codex the everything app (see: https://news.ycombinator.com/item?id=47796469 ). But as we started automating work closer to the core of the business, I wanted to work with agents from all the labs, including open-weight models, without becoming increasingly dependent on OpenAI. And that’s what Proliferate is for! It's the open-source, self-hostable Codex that preserves your optionality across agents and model providers while building toward Codex’s breadth. Today Proliferate supports: * Working with Claude Code, Codex, OpenCode, Cursor, and Grok with their native inference and configuration options, including Bedrock, Azure, and self hosted inference. * Inter-agent communication and management: a parent agent can spawn and communicate with another supported agent as a subagent (I personally like to have Fable delegate to Codex, with OpenCode models reviewing PRs). * Building workflows- one of the features I'm most excited about. These are re-usable chains of agent sessions and human approval gates, with the harness and model chosen per step and documents passed between them. I use this to automate code review, QA, and my PR construction process. All of Proliferate is 100% open source under AGPL-3.0. There are still definitely some rough spots, but we’re building fast and I’d really love any feedback! Comments URL: https://news.ycombinator.com/item?id=49390739 Points: 18 # Comments: 8",
+      "topic": "Open Source",
+      "topicIcon": "🔓",
       "importance": 4,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/ Comments URL: https://news.ycom..."
+      "summary_en": "Hi HN- I'm Pablo, the founder of Proliferate (YC S25)! Proliferate ( https://github.com/proliferate-ai/proliferate ) is ..."
     },
     {
       "id": "df85af19a794",
@@ -570,6 +555,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horow..."
+    },
+    {
+      "id": "c272d4640149",
+      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+      "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-08-21T18:07:15Z",
+      "description": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Chinese safety regulators have cracked down on doors that don't open in a crash."
     },
     {
       "id": "6042c469f71e",
