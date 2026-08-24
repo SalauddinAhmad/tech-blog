@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T23:30:47+06:00",
+  "lastUpdated": "2026-08-25T00:39:34+06:00",
   "news": [
     {
       "id": "6fa02c4f9ef7",
@@ -317,6 +317,21 @@
       "summary_en": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and ..."
     },
     {
+      "id": "26626788ee8d",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-24T18:03:55Z",
+      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ab..."
+    },
+    {
       "id": "1538fb9c10b7",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -420,6 +435,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a propos..."
+    },
+    {
+      "id": "ed1ca3ca4556",
+      "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
+      "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-24T17:46:18Z",
+      "description": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March."
     }
   ]
 }
