@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T18:50:35+06:00",
+  "lastUpdated": "2026-08-24T19:51:51+06:00",
   "news": [
     {
       "id": "661b4dd315da",
@@ -62,12 +62,57 @@
       "summary_en": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporti..."
     },
     {
+      "id": "d9a0d687ee87",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-08-24T13:09:44Z",
+      "description": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation."
+    },
+    {
+      "id": "4986ea2460f1",
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-24T13:45:15Z",
+      "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity."
+    },
+    {
+      "id": "4d38648c033d",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-24T13:47:26Z",
+      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the f..."
+    },
+    {
       "id": "ee9d005b3909",
       "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
       "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
-      "pubDate": "2026-08-24T12:28:16Z",
+      "pubDate": "2026-08-24T13:47:29Z",
       "description": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
       "topic": "Regulation",
       "topicIcon": "⚖️",
@@ -257,19 +302,19 @@
       "summary_en": "Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies."
     },
     {
-      "id": "6746ec1221e5",
-      "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
-      "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-23T13:00:00Z",
-      "description": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 3,
+      "id": "3cd0fce72b08",
+      "title": "Netflix reportedly considers opening its app to other streamers",
+      "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-24T13:47:14Z",
+      "description": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the other services or add their content to its app. [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated t..."
+      "summary_en": "Netflix executives have considered making third-party streaming services available within its app, according to a report..."
     },
     {
       "id": "1538fb9c10b7",
@@ -315,36 +360,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "With two cameras and built-in climate sensors, the Birdfy Nest Duo let me watch an entire nesting season unfold."
-    },
-    {
-      "id": "c0486c254f22",
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "link": "https://securelist.com/android-head-unit-malware/121106/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-23T13:05:38Z",
-      "description": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 2,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id..."
-    },
-    {
-      "id": "c6404fb58b2c",
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-23T13:51:10Z",
-      "description": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 2,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombina..."
     },
     {
       "id": "869ec081dde6",
