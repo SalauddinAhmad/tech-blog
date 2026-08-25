@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T03:27:59+06:00",
+  "lastUpdated": "2026-08-26T04:27:18+06:00",
   "news": [
     {
       "id": "579b65ab022f",
@@ -17,13 +17,28 @@
       "summary_en": "\"This will be a project like no other.\""
     },
     {
+      "id": "be6ef3c85914",
+      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+      "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-25T17:20:00Z",
+      "description": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E-Day, Capcom’s upcoming [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was th..."
+    },
+    {
       "id": "9f66add6a4de",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-25T20:49:03Z",
-      "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 3 # Comments: 0",
+      "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 25 # Comments: 12",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 6,
@@ -32,19 +47,19 @@
       "summary_en": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.c..."
     },
     {
-      "id": "50152fc49922",
-      "title": "Data centers become \"killer application\" for new power transformer tech",
-      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "id": "b3528d362d3d",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
       "source": "Ars Technica",
       "sourceIcon": "ars",
-      "pubDate": "2026-08-24T21:32:16Z",
-      "description": "Solid-state transformers could also benefit EV charging and, someday, households.",
+      "pubDate": "2026-08-25T20:59:03Z",
+      "description": "Record-breaking robot races are less substantial than household chore challenges.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 5,
+      "importance": 6,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Solid-state transformers could also benefit EV charging and, someday, households."
+      "summary_en": "Record-breaking robot races are less substantial than household chore challenges."
     },
     {
       "id": "6f34f4ada801",
@@ -197,34 +212,34 @@
       "summary_en": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition."
     },
     {
+      "id": "fe2a78e322da",
+      "title": "The Witcher 3 is getting a remaster",
+      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-25T20:24:24Z",
+      "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game wi..."
+    },
+    {
       "id": "c7be6c9bbd1c",
-      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
       "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-08-25T20:44:12Z",
-      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
       "topic": "Open Source",
       "topicIcon": "🔓",
       "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding it..."
-    },
-    {
-      "id": "7b1bff0cd099",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-08-24T21:45:53Z",
-      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations."
+      "summary_en": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding i..."
     },
     {
       "id": "00d24e525cee",
@@ -392,21 +407,6 @@
       "summary_en": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies."
     },
     {
-      "id": "cd36e34ebecc",
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-25T14:00:00Z",
-      "description": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI ..."
-    },
-    {
       "id": "cd6ed22634e1",
       "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
       "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
@@ -435,21 +435,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilo..."
-    },
-    {
-      "id": "f1bc233f52fd",
-      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
-      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-25T14:25:52Z",
-      "description": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an archived [&#8230;]",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotte..."
     },
     {
       "id": "da9753c2c87b",
@@ -525,21 +510,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your ..."
-    },
-    {
-      "id": "be6ef3c85914",
-      "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-      "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-25T17:20:00Z",
-      "description": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already have some idea of what to expect, including looks at Final Fantasy VII Revelation, [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is schedu..."
     },
     {
       "id": "f430439a5321",
@@ -668,13 +638,13 @@
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-08-25T19:22:52Z",
-      "description": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut.&#160; Instagram says the process can produce [&#8230;]",
+      "description": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads p..."
+      "summary_en": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing..."
     },
     {
       "id": "49caa2fe864e",
@@ -690,6 +660,51 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "The government agency that's encouraging high-risk and high-reward research."
+    },
+    {
+      "id": "de2d233c5468",
+      "title": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
+      "link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-25T21:26:24Z",
+      "description": "With school and sports starting again, these discounts on Instant Pots, cookware, and coffee gear arrive right on time.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "With school and sports starting again, these discounts on Instant Pots, cookware, and coffee gear arrive right on time."
+    },
+    {
+      "id": "cbb131034187",
+      "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
+      "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-25T21:51:32Z",
+      "description": "Anthony Ralphs was frustrated by the San Diego City Council's support for Flock. He decided it would take something more than reasoned argument to get their attention.",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Anthony Ralphs was frustrated by the San Diego City Council's support for Flock. He decided it would take something more..."
+    },
+    {
+      "id": "73b07d5b5155",
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-25T22:20:17Z",
+      "description": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and [&#8230;]",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED displa..."
     },
     {
       "id": "00841011854a",
@@ -735,21 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public ..."
-    },
-    {
-      "id": "79f6641c4618",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-25T13:00:00Z",
-      "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents..."
     }
   ]
 }
