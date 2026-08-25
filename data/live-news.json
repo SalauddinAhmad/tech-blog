@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T02:28:46+06:00",
+  "lastUpdated": "2026-08-26T03:27:59+06:00",
   "news": [
     {
       "id": "579b65ab022f",
@@ -17,19 +17,19 @@
       "summary_en": "\"This will be a project like no other.\""
     },
     {
-      "id": "f3ce05a5c07e",
-      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-      "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-08-24T21:04:48Z",
-      "description": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
+      "id": "9f66add6a4de",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-25T20:49:03Z",
+      "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 3 # Comments: 0",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 6,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "There are currently 3 categories. Without reason, RFK Jr. is considering changes."
+      "summary_en": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.c..."
     },
     {
       "id": "50152fc49922",
@@ -60,21 +60,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters."
-    },
-    {
-      "id": "8c519a70d2ed",
-      "title": "Uber launches live video streaming for teen accounts",
-      "link": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-25T13:00:00Z",
-      "description": "Uber said no one will be able to access the video once the ride ends.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Uber said no one will be able to access the video once the ride ends."
     },
     {
       "id": "12cea9588a55",
@@ -212,34 +197,19 @@
       "summary_en": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition."
     },
     {
-      "id": "fe2a78e322da",
-      "title": "The Witcher 3 is getting a remaster",
-      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-08-25T20:24:24Z",
-      "description": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
+      "id": "c7be6c9bbd1c",
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-25T20:44:12Z",
+      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+      "topic": "Open Source",
+      "topicIcon": "🔓",
       "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game wi..."
-    },
-    {
-      "id": "4d6b68c01894",
-      "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-      "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-24T20:45:52Z",
-      "description": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home."
+      "summary_en": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding it..."
     },
     {
       "id": "7b1bff0cd099",
@@ -420,6 +390,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies."
+    },
+    {
+      "id": "cd36e34ebecc",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-25T14:00:00Z",
+      "description": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI ..."
     },
     {
       "id": "cd6ed22634e1",
@@ -707,21 +692,6 @@
       "summary_en": "The government agency that's encouraging high-risk and high-reward research."
     },
     {
-      "id": "614caa1ecd7d",
-      "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
-      "link": "https://www.wired.com/review/bitdefender-vpn/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-08-24T21:08:00Z",
-      "description": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want."
-    },
-    {
       "id": "00841011854a",
       "title": "It Should Be Harder to Apply for a Job. No, Really",
       "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video qua..."
+    },
+    {
+      "id": "e32b9224d0b2",
+      "title": "The County Prosecutors Who Became ICE Informants",
+      "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-25T11:00:00Z",
+      "description": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative oversight.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public ..."
+    },
+    {
+      "id": "79f6641c4618",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-08-25T13:00:00Z",
+      "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents..."
     }
   ]
 }
