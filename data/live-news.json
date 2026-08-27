@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T04:47:07+06:00",
+  "lastUpdated": "2026-08-27T10:19:17+06:00",
   "news": [
     {
       "id": "1d6661841b37",
@@ -197,19 +197,19 @@
       "summary_en": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead"
     },
     {
-      "id": "e518d876024c",
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "id": "745d673f45eb",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
-      "pubDate": "2026-08-26T21:37:39Z",
-      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
+      "pubDate": "2026-08-27T00:24:57Z",
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
       "importance": 6,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+      "summary_en": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring pri..."
     },
     {
       "id": "f06fda930be7",
@@ -383,13 +383,13 @@
       "source": "Ars Technica",
       "sourceIcon": "ars",
       "pubDate": "2026-08-26T21:25:27Z",
-      "description": "Reuters report shows Meta's challenges replacing people with AI agents.",
+      "description": "Report shows Meta's challenges replacing people with AI agents.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Reuters report shows Meta's challenges replacing people with AI agents."
+      "summary_en": "Report shows Meta's challenges replacing people with AI agents."
     },
     {
       "id": "f148e5a320ab",
@@ -407,19 +407,19 @@
       "summary_en": "The deal has been reached during a California federal court trial over claims brought by US states."
     },
     {
-      "id": "8b7635eea8cb",
-      "title": "AI gold rush draws crypto firms away from Bitcoin",
-      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-08-25T23:11:02Z",
-      "description": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
+      "id": "cb7e4bbf99b4",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "link": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-27T01:46:22Z",
+      "description": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 185 # Comments: 113",
+      "topic": "Open Source",
+      "topicIcon": "🔓",
+      "importance": 5,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting..."
+      "summary_en": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Po..."
     },
     {
       "id": "9f009688a182",
@@ -480,21 +480,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It’s fueled by the same public data as Pe..."
-    },
-    {
-      "id": "e775c4cd2ca1",
-      "title": "Meta settles for $18B in lawsuit brought by 29 states over social media harms to children",
-      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-26T13:43:01Z",
-      "description": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowi..."
     },
     {
       "id": "5f8c614f846a",
@@ -728,13 +713,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-26T19:43:48Z",
-      "description": "Article URL: https://isgithubcooked.com/ Comments URL: https://news.ycombinator.com/item?id=49454728 Points: 100 # Comments: 47",
+      "description": "Article URL: https://isgithubcooked.com/ Comments URL: https://news.ycombinator.com/item?id=49454728 Points: 203 # Comments: 129",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 4,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://isgithubcooked.com/ Comments URL: https://news.ycombinator.com/item?id=49454728 Points: 100 # Comme..."
+      "summary_en": "Article URL: https://isgithubcooked.com/ Comments URL: https://news.ycombinator.com/item?id=49454728 Points: 203 # Comme..."
     },
     {
       "id": "9be2ad0fcecb",
@@ -750,6 +735,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "In June, a FEMA official infamous for claiming to have teleported to a Waffle House was reportedly ousted. He’s still em..."
+    },
+    {
+      "id": "937bfbe960db",
+      "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
+      "link": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-08-26T20:55:46Z",
+      "description": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teen..."
     }
   ]
 }
