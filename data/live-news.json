@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T09:54:24+06:00",
+  "lastUpdated": "2026-09-01T15:13:44+06:00",
   "news": [
     {
       "id": "3bbdd25d548f",
@@ -32,21 +32,6 @@
       "summary_en": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups."
     },
     {
-      "id": "c5d31b731e2b",
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "link": "https://github.com/Hebbian-Robotics/hflow",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-31T15:02:41Z",
-      "description": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https://github.com/Hebbian-Robotics/hflow ), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together. Here’s a demo of HFlow in action: https://www.youtube.com/watch?v=xni0GwV-xAw Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data. Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models. An HFlow pipeline consists of transformations, checks, labels, and enrichments. The SDK exposes them as plain Python functions that receive an episode and return measurements, artifacts, or transformed data. During development, the functions can run in-process. For scheduled corpus processing, HFlow packages the same registered steps as Airflow 3 DAGs, where teams can inspect task status, logs, retries, and reruns. HFlow currently accepts one MCAP file per episode. MCAP ( https://mcap.dev/ ) is an open container format by Foxglove for timestamped multimodal recordings, similar in purpose to a ROS bag. It lets video, robot state, actions, and other sensor streams remain synchronized in one file. We use it because HFlow needs to process these streams together, and because the resulting recordings remain compatible with Foxglove and Rerun. HFlow writes a canonical MCAP with in-band H.264 video, grouped camera and state chunks, and provenance describing how the output was produced. Each step has an explicit behavior version, and catalog records connect its measurements and artifacts to the source episode and pipeline run. Quality checks store reusable evidence rather than imposing one universal definition of good data. Some failures, including black frames, frozen video, missing topics, timestamp drift, and impossible joint movements, can be measured deterministically without training a model. Others might be detected using VLMs and other models like MediaPipe Hands. But their meaning depends on the task. A smooth trajectory might indicate a successful demonstration in one setting and a stalled robot in another. HFlow writes measurements, metadata, version stamps, and artifact locations to an append-only Parquet catalog. Teams query it with DuckDB SQL and produce a version-pinned manifest without opening the recordings again. Critical checks can quarantine an episode, but HFlow does not delete data. This separates the evidence from the policy used to assemble a particular dataset. We did not want to replace the tools robotics teams already use. HFlow connects MCAP for synchronized recordings, Airflow for scheduled execution, Parquet for catalog data, and DuckDB for curation. Compared with a general workflow orchestrator, it adds contracts for robotics episodes, processing provenance, quality evidence, quarantine, and dataset manifests. Compared with a training dataset format, it operates earlier and stops at curated episodes plus a manifest. Here are three examples of teams that would use HFlow: 1. A data vendor or marketplace collecting egocentric recordings. They could use HFlow to detect black or frozen video, duplicate recordings, hand-object interaction, and other quality metrics before delivering the data, while retaining evidence of which checks ran on every episode. 2. A robotics team collecting teleoperated demonstrations for its own models. They could use HFlow to standardize recordings, add labels and enrichments, and produce a reproducible training manifest. 3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions. The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart. HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves. Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads. Comments URL: https://news.ycombinator.com/item?id=49510632 Points: 44 # Comments: 11",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https://github.com/Hebbian-Robotic..."
-    },
-    {
       "id": "fd3a51ee66e8",
       "title": "How AI could make it harder for governments to use hacking tools",
       "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
@@ -60,36 +45,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to ..."
-    },
-    {
-      "id": "f08abcf946bf",
-      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-08-31T21:28:49Z",
-      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 7,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market."
-    },
-    {
-      "id": "493a177a82af",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-08-31T15:15:25Z",
-      "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI i..."
     },
     {
       "id": "e8bde4788682",
@@ -173,7 +128,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-31T11:45:48Z",
-      "description": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 276 # Comments: 157",
+      "description": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 338 # Comments: 195",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 5,
@@ -467,21 +422,6 @@
       "summary_en": "The former US representative was also fined more than $71,000 for allegedly attempting to manipulate the prediction mark..."
     },
     {
-      "id": "dc4741c62467",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "link": "https://usealmanac.com/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-08-31T15:34:34Z",
-      "description": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company. We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to. This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, then feeding it context myself, and ultimately struggling with Hermes's default memory. At the same time, we saw our YC batchmates struggling with the same problem, and we saw an opportunity. So we built Almanac. This is how it works. You sign up, you get a Hermes agent straight out of the box. You have a one-click connect to any account (Gmail, Calendar, Granola, PostHog, etc). You have personal accounts (only accessible by you) and also shared accounts (accessible by everyone in the company). The consequence being I can never see my cofounders' accounts. The “brain” of this agent is wikis. We pull in information from your connected sources, and start organizing this information in two wikis. A personal one, for you, which understands who you are, what your preferences are, the people in your life, and the things going on in your life. The second wiki is a company wiki, which includes what the company is, what you’re working on, what the roadmap is, and what the blockers of the company are. Your agent ultimately has access to these two wikis and the original accounts, which invoke the feeling of “it just knows you.” Here’s a demo: https://www.youtube.com/watch?v=ajXP5PHuK18 We're three cofounders, Rohan, Kushagra, and Divit, and we've been friends for 11 years, since studying for the IIT-JEE. We all did Electrical Engineering (Rohan at IIT Delhi, me at IIT Kharagpur, Divit at BITS Pilani, Hyderabad), and Rohan and I later went to Harvard, where this pre-compilation layer became our capstone thesis. We have built multiple products around the idea of a pre-compiled knowledge layer. Our main differentiating point is the way we approach memory and context in general. Most AI assistant tools treat memory as an afterthought. We have worked on wikis for AI for more than a year now, building products for Harvard and NASA. The one thing we have learnt is that one needs to spend a lot more compute upfront, in the pre-compilation of this knowledge base, to get it right. Having this pre-compiled knowledge base enables a lot of interesting ideas. First is a proactive agent. Since I have compiled what’s going on in both my company and my current life, Almanac can start completing tasks on its own. Concretely, we run a background worker which takes a look at tasks that could be completed, pings the main agent, who then pings me, suggesting which tasks it could automate. As a result, I wake up to proactive notifications which look like “I already prepared a draft of your fundraising pitch deck, want to take a look?” Second, long-horizon tasks. In our wikis, we maintain a section on ongoing projects, so Almanac can pick a task back up days later without losing the thread. Most agents are session-bound: they run once, finish, and forget. But a lot of real work isn't one shot; it plays out over hours and days with people in the loop. The clearest example is anything that involves waiting on a human, like scheduling a meeting, following up on a sales thread, or chasing a document. Almanac can send an email on your behalf, and because it's always on and remembers the project, it notices the reply four hours later and drafts the right follow-up in context. Since launching, we've seen a lot of use cases for Almanac. One person runs her dog-rescue operation through it: finding available fosters, tracking pickups, and sending reminders for consent forms. Another researches Polymarket strategies with Almanac, where its memory holds what past strategies were, proposes new ones, and compares them against what went right or wrong last time. Another builds marketing campaigns on it without having to re-explain the business and the whole campaign every single time. Regarding privacy and security, Almanac only accesses accounts you explicitly connect. Your OAuth credentials are held by our connection provider, not in Almanac’s database. We only store the wiki and the source behind its citations. So an email used as a citation may be retained as Markdown. We’re live: https://usealmanac.com . We have a 7-day trial on all of our plans. Happy to hear if people have done similar setups, and what new features they’d like in Almanac. If you’re a company that wants to get an agent that actually gets tasks done, I would love to talk: https://cal.com/team/almanac/demo . Comments URL: https://news.ycombinator.com/item?id=49511007 Points: 51 # Comments: 45",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 4,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company. W..."
-    },
-    {
       "id": "badf236d9d67",
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
       "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
@@ -587,6 +527,21 @@
       "summary_en": "From the best Dyson vacuum to the best wireless earbuds we’ve tested, you can get some great gadgets on sale already ahe..."
     },
     {
+      "id": "f08abcf946bf",
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-08-31T21:28:49Z",
+      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market."
+    },
+    {
       "id": "b30b0b40df0b",
       "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
       "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
@@ -677,6 +632,21 @@
       "summary_en": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for s..."
     },
     {
+      "id": "8ad1fa4dc098",
+      "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+      "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-01T05:00:00Z",
+      "description": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in ..."
+    },
+    {
       "id": "4194b590a473",
       "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
       "link": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
@@ -728,7 +698,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-08-31T12:41:22Z",
-      "description": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 332 # Comments: 378",
+      "description": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 400 # Comments: 448",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 3,
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, mainte..."
+    },
+    {
+      "id": "30cbe227f51e",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "link": "https://ravynos.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-08-31T16:19:36Z",
+      "description": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 198 # Comments: 114",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 3,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 198 # Comments: 11..."
+    },
+    {
+      "id": "45aef92bd4de",
+      "title": "Markiplier is now GoPro’s biggest shareholder",
+      "link": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-08-31T16:38:10Z",
+      "description": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to make filmmaking more accessible,\" following the release of his [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 ..."
     }
   ]
 }
