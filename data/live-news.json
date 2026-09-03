@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T05:01:24+06:00",
+  "lastUpdated": "2026-09-03T09:16:20+06:00",
   "news": [
     {
       "id": "d34de67c90ce",
@@ -47,6 +47,21 @@
       "summary_en": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month."
     },
     {
+      "id": "7c5ce206b2d3",
+      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-02T23:36:49Z",
+      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 7,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside."
+    },
+    {
       "id": "16174673e5de",
       "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
@@ -60,21 +75,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in f..."
-    },
-    {
-      "id": "06de302643a6",
-      "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
-      "link": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-09-02T17:46:42Z",
-      "description": "Last year, I wrote a speculative cosmology piece called Blowtorch Theory. It rather cheekily extended the American theoretical physicist Lee Smolin's wonderful, powerful, oddly neglected theory of cosmological natural selection; the idea that universes reproduce, with variation, leading to Darwinian evolution of universes. While I was having dinner with my five-year-old, a friend texted to say that the piece was at number one on Hacker News. At the time, I didn't really know anything about the website, or its readers – but I learned a LOT over the next few hours, as my dinner went cold (and my son got to watch cartoons)! Anyway, I greatly enjoyed (most of) the robust discussion that followed there, and thought Hacker News readers might be interested in this new Smithsonian Magazine overview of the remarkably healthy state of evolutionary cosmology, a new field emerging around these ideas. Think of it as a startup disrupting cosmology! Comments URL: https://news.ycombinator.com/item?id=49539805 Points: 34 # Comments: 23",
-      "topic": "Web/JavaScript",
-      "topicIcon": "🌐",
-      "importance": 6,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Last year, I wrote a speculative cosmology piece called Blowtorch Theory. It rather cheekily extended the American theor..."
     },
     {
       "id": "0e6a8f5aea2e",
@@ -92,19 +92,19 @@
       "summary_en": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor..."
     },
     {
-      "id": "b49d955c085f",
+      "id": "6e96c111f32d",
       "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "link": "https://ronanrx.com/",
+      "link": "https://news.ycombinator.com/item?id=49543530",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-02T22:36:04Z",
-      "description": "Hi HN, I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks. I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough. Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication. For me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80. This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all. GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx. Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution. The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop. We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step. We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing. We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested. Comments URL: https://news.ycombinator.com/item?id=49543530 Points: 5 # Comments: 3",
+      "description": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks. I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough. Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication. For me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80. This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all. GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx. Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution. The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop. We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step. We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing. We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested. Comments URL: https://news.ycombinator.com/item?id=49543530 Points: 32 # Comments: 37",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 6,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Hi HN, I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with so..."
+      "summary_en": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharm..."
     },
     {
       "id": "ca24c75ccec2",
@@ -113,43 +113,13 @@
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-09-02T22:44:56Z",
-      "description": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 6,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry w..."
-    },
-    {
-      "id": "4c92c47948e3",
-      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-      "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-09-01T23:01:52Z",
-      "description": "333 miles of real-world range with uncompromised comfort and off-road ability.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "333 miles of real-world range with uncompromised comfort and off-road ability."
-    },
-    {
-      "id": "a9332f97bc35",
-      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-02T01:27:34Z",
-      "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\"."
+      "summary_en": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry w..."
     },
     {
       "id": "b8721641630c",
@@ -302,19 +272,19 @@
       "summary_en": "Congress pauses the OMB's attempt to rewrite how research is funded."
     },
     {
-      "id": "d0b97e38a85d",
-      "title": "Will self-flying planes transform the skies?",
-      "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-01T23:27:35Z",
-      "description": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "id": "a54a8dca955e",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-02T23:00:00Z",
+      "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [&#8230;]",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
+      "importance": 5,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying."
+      "summary_en": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous ..."
     },
     {
       "id": "f08beb36ba97",
@@ -720,6 +690,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways..."
+    },
+    {
+      "id": "a3db9b4efb89",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-02T23:01:00Z",
+      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for ..."
+    },
+    {
+      "id": "4aa8b01362dd",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-03T01:32:02Z",
+      "description": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment wi..."
     },
     {
       "id": "99acb403cfea",
