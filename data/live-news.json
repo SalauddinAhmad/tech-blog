@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T04:59:46+06:00",
+  "lastUpdated": "2026-09-04T06:55:21+06:00",
   "news": [
     {
       "id": "bdd957c6a938",
@@ -15,21 +15,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models ..."
-    },
-    {
-      "id": "7c5ce206b2d3",
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-02T23:36:49Z",
-      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside."
     },
     {
       "id": "53bf8b9c6a5b",
@@ -143,7 +128,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-03T15:07:01Z",
-      "description": "https://status.openai.com https://status.claude.com https://status.x.ai ChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 comments) Claude outage – Resolved - https://news.ycombinator.com/item?id=49549676 (146 comments) Grok outage - https://news.ycombinator.com/item?id=49551589 (142 comments) Comments URL: https://news.ycombinator.com/item?id=49551096 Points: 306 # Comments: 507",
+      "description": "https://status.openai.com https://status.claude.com https://status.x.ai ChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 comments) Claude outage – Resolved - https://news.ycombinator.com/item?id=49549676 (146 comments) Grok outage - https://news.ycombinator.com/item?id=49551589 (142 comments) Comments URL: https://news.ycombinator.com/item?id=49551096 Points: 325 # Comments: 520",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
@@ -317,19 +302,49 @@
       "summary_en": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor."
     },
     {
-      "id": "a3db9b4efb89",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-02T23:01:00Z",
-      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
+      "id": "a3bc47ca5285",
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-03T23:37:37Z",
+      "description": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for ..."
+      "summary_en": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 mi..."
+    },
+    {
+      "id": "ee6369b53b1f",
+      "title": "The unusually muted Tesla Cybercab launch",
+      "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-04T00:25:06Z",
+      "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a h..."
+    },
+    {
+      "id": "920440924028",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-04T00:48:42Z",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
     },
     {
       "id": "4aa8b01362dd",
@@ -480,21 +495,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it ..."
-    },
-    {
-      "id": "93de9e831209",
-      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-03T16:00:00Z",
-      "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited [&#8230;]",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded senso..."
     },
     {
       "id": "56c7f77a4d5e",
