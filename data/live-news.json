@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T04:33:13+06:00",
+  "lastUpdated": "2026-09-08T06:56:18+06:00",
   "news": [
     {
       "id": "6592f699f635",
@@ -23,7 +23,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T09:26:53Z",
-      "description": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 208 # Comments: 68",
+      "description": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 220 # Comments: 80",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 6,
@@ -167,19 +167,19 @@
       "summary_en": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better tha..."
     },
     {
-      "id": "d5c736f2ff62",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-06T23:36:04Z",
-      "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 4,
+      "id": "4a7b091ab7a6",
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-07T23:05:12Z",
+      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 5,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T..."
+      "summary_en": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers ar..."
     },
     {
       "id": "0b5c38b2d7a0",
@@ -302,6 +302,21 @@
       "summary_en": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficien..."
     },
     {
+      "id": "7beb9220c57d",
+      "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+      "link": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-07T23:00:00Z",
+      "description": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited edition kitchen kit, ideal for perfecting the broth of Khan.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Kling..."
+    },
+    {
       "id": "b091053dfe69",
       "title": "What’s the Best Kindle of 2026 (So Far)?",
       "link": "https://www.wired.com/gallery/best-kindle/",
@@ -398,43 +413,43 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T18:52:06Z",
-      "description": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 147 # Comments: 56",
+      "description": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 204 # Comments: 97",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 3,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 14..."
+      "summary_en": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 20..."
     },
     {
-      "id": "5076d4f1063e",
-      "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
-      "link": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+      "id": "137c5f16b25f",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
       "source": "Hacker News",
       "sourceIcon": "hn",
-      "pubDate": "2026-09-07T20:21:12Z",
-      "description": "Article URL: https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/ Comments URL: https://news.ycombinator.com/item?id=49602582 Points: 84 # Comments: 42",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
+      "pubDate": "2026-09-07T20:32:55Z",
+      "description": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 76 # Comments: 33",
+      "topic": "Startups",
+      "topicIcon": "🚀",
       "importance": 3,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/ Comments URL: https://news.ycombi..."
+      "summary_en": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downl..."
     },
     {
-      "id": "4421a36886f3",
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "id": "f27f9bc594b6",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "link": "https://github.com/Sadpainy/Stuxnet",
       "source": "Hacker News",
       "sourceIcon": "hn",
-      "pubDate": "2026-09-07T00:22:04Z",
-      "description": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 373 # Comments: 660",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 2,
+      "pubDate": "2026-09-07T22:12:38Z",
+      "description": "Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=49603546 Points: 52 # Comments: 12",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 3,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592..."
+      "summary_en": "Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=4..."
     },
     {
       "id": "eb27cd2dd2ee",
@@ -443,7 +458,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T03:29:51Z",
-      "description": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 922 # Comments: 225",
+      "description": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 946 # Comments: 244",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
@@ -458,13 +473,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T09:02:47Z",
-      "description": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 174 # Comments: 73",
+      "description": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 185 # Comments: 77",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 174 #..."
+      "summary_en": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 185 #..."
     },
     {
       "id": "f65bd5f6dff1",
@@ -473,13 +488,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T13:35:13Z",
-      "description": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 353 # Comments: 98",
+      "description": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 370 # Comments: 105",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 353 # ..."
+      "summary_en": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 370 # ..."
     },
     {
       "id": "1e7b1d6161ce",
@@ -488,13 +503,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T19:06:01Z",
-      "description": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 42 # Comments: 12",
+      "description": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 53 # Comments: 43",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 42 #..."
+      "summary_en": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 53 #..."
     },
     {
       "id": "a9b02df87094",
@@ -503,7 +518,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T20:34:32Z",
-      "description": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 19 # Comments: 5",
+      "description": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 32 # Comments: 12",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
@@ -512,28 +527,13 @@
       "summary_en": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/ite..."
     },
     {
-      "id": "39a0c77b85e0",
-      "title": "The smallest edge AI device for local LLMs",
-      "link": "https://tiiny.ai/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-09-07T21:09:12Z",
-      "description": "Article URL: https://tiiny.ai/ Comments URL: https://news.ycombinator.com/item?id=49603011 Points: 11 # Comments: 2",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 2,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://tiiny.ai/ Comments URL: https://news.ycombinator.com/item?id=49603011 Points: 11 # Comments: 2"
-    },
-    {
       "id": "af7e4750aca0",
       "title": "Working on Economics with Fable 5",
       "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-07T21:18:15Z",
-      "description": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49603086 Points: 5 # Comments: 1",
+      "description": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49603086 Points: 49 # Comments: 31",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
@@ -542,19 +542,49 @@
       "summary_en": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinat..."
     },
     {
-      "id": "ed31a48bef50",
-      "title": "The Education of a Doomer",
-      "link": "https://borretti.me/article/the-education-of-a-doomer",
+      "id": "a10aa370c7a5",
+      "title": "TALA Is Open-Source",
+      "link": "https://d2lang.com/blog/tala-is-open-source/",
       "source": "Hacker News",
       "sourceIcon": "hn",
-      "pubDate": "2026-09-07T21:19:12Z",
-      "description": "Article URL: https://borretti.me/article/the-education-of-a-doomer Comments URL: https://news.ycombinator.com/item?id=49603092 Points: 21 # Comments: 5",
+      "pubDate": "2026-09-07T23:37:42Z",
+      "description": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 40 # Comments: 2",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 2,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://borretti.me/article/the-education-of-a-doomer Comments URL: https://news.ycombinator.com/item?id=49..."
+      "summary_en": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Po..."
+    },
+    {
+      "id": "20c169671e86",
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-09-07T23:56:41Z",
+      "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/ Comments URL: https://news.ycombinator.com/item?id=49604257 Points: 6 # Comments: 1",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 2,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/ Commen..."
+    },
+    {
+      "id": "a1cd0dbcc231",
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "link": "https://github.com/aispace-sh/aispace-client",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-09-07T23:59:58Z",
+      "description": "Article URL: https://github.com/aispace-sh/aispace-client Comments URL: https://news.ycombinator.com/item?id=49604280 Points: 7 # Comments: 1",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 2,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://github.com/aispace-sh/aispace-client Comments URL: https://news.ycombinator.com/item?id=49604280 Po..."
     }
   ]
 }
