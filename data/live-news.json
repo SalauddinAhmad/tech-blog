@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T06:58:35+06:00",
+  "lastUpdated": "2026-09-10T11:48:50+06:00",
   "news": [
     {
       "id": "7991d7bc4b78",
@@ -407,21 +407,6 @@
       "summary_en": "Mullenweg said in a company Slack message that it was against his will."
     },
     {
-      "id": "6ae05f74a921",
-      "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026",
-      "link": "https://www.wired.com/story/sony-promo-code/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-09T05:00:00Z",
-      "description": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha came..."
-    },
-    {
       "id": "695b8f08f777",
       "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
       "link": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
@@ -488,7 +473,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-09T13:27:11Z",
-      "description": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 873 # Comments: 348",
+      "description": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 971 # Comments: 380",
       "topic": "Web/JavaScript",
       "topicIcon": "🌐",
       "importance": 4,
@@ -750,6 +735,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earli..."
+    },
+    {
+      "id": "a77658ea9247",
+      "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-09T23:00:04Z",
+      "description": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]",
+      "topic": "Mobile",
+      "topicIcon": "📱",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple..."
     }
   ]
 }
