@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:08:12+06:00",
+  "lastUpdated": "2026-09-16T05:59:19+06:00",
   "news": [
     {
       "id": "7d4394af2ddf",
@@ -32,6 +32,21 @@
       "summary_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut..."
     },
     {
+      "id": "4481f7d052d1",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "link": "https://github.com/pizza-bot-app/pizza-bot",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-09-15T15:20:26Z",
+      "description": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source. Pizza Bot started as an internal passion project I worked on with a small team at Amazon. The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved). This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza Bot as an MCP server instead, so it would be available to AI tools through natural language. This was a decent solution for technical users, but the Account Managers who live inside our CRM system wanted something too. We decided to rebuild Pizza Bot as an Electron desktop app modeled after an email inbox, so it would be familiar to non-technical users and would run on both Mac and Windows. We also bundled internal MCP servers as OCI images and hosted them in Amazon ECR as an \"addon marketplace\" so users could install them with one click without having to set up Amazon developer tooling. The project took off organically and expanded outside of AWS into the wider Amazon organization globally. More than 2,000 people ended up using it for meeting prep, email drafting, Slack summaries, CRM logging, prioritizing their day, and web research. Once apps like Claude Cowork and Amazon's own Quick Desktop came out, we realized the real growth opportunity was outside of Amazon. Rather than try to rip out the Amazon-specific integrations, we rebuilt Pizza Bot once more as an open source project. We leaned on coding agents heavily, which is the only reason a team our size could pull off a full rewrite. I'm pleased to say it's finally public, and we're hoping to bring in community members and see where it goes. We'd like to do for knowledge workers what Claude Code and Codex have done for programmers. A couple of things to know up front. Most of what made Pizza Bot useful on day one inside Amazon came from that internal catalog of skills and MCP servers for Amazon's own systems, and none of it could come out with the app. So it ships thinner than the version those 2,000 people used, and building that catalog back up for tools other people actually use is where we need the most help. It's also a community project and not an AWS service, so there's no support or SLA behind it. The Windows and Linux builds aren't signed yet either. On the technical side, Pizza Bot is a server and a client. The desktop app bundles both, or you can point a client at a remote backend; personally, I self-host the server on my home network and reach it from my phone over Tailscale. The server owns the thread lifecycle and checkpoints state with DeepAgents and LangGraph, and clients rehydrate from it as needed, so you can disconnect mid-run and pick the thread back up from another client. Approval pauses outlive the session that created them and collect in an Action filter, so you can answer an hour later from a different device. The agent you talk to has a sandboxed QuickJS interpreter that can reach your filesystem only if you grant it a folder, but its main job is to delegate. Each subagent is a 1:1 mapping of a Skill, and an Activity bar shows that subagent and the tool calls it's making as it works. Memory is opt-in and stored as plain markdown files on your machine. Every tool call is explicit, including looking up a memory - we err on the side of transparency to reduce surprises. Tools come from MCP servers, and skills are ordinary SKILL.md files with a per-tool approval policy, so existing skills that don't require a code interpreter should still work. What I'd most like to hear about is where the app itself gets in your way, the kind of problem you can't fix by writing a skill or an MCP server. I'm around today to answer questions! Comments URL: https://news.ycombinator.com/item?id=49713894 Points: 15 # Comments: 5",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 7,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and ..."
+    },
+    {
       "id": "cc89af6e0bc0",
       "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
       "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
@@ -53,28 +68,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-15T13:20:24Z",
-      "description": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 150 # Comments: 28",
+      "description": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 164 # Comments: 30",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 6,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 1..."
-    },
-    {
-      "id": "6444791fae45",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-15T13:36:45Z",
-      "description": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. [&#8230;]",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new Si..."
     },
     {
       "id": "bbd5c8ed9218",
@@ -122,49 +122,19 @@
       "summary_en": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 mi..."
     },
     {
-      "id": "f7906909219d",
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-09-14T21:32:22Z",
-      "description": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
+      "id": "30fb04a6f530",
+      "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-15T23:34:25Z",
+      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\""
-    },
-    {
-      "id": "1d0a904f16c1",
-      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-09-14T22:06:24Z",
-      "description": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense."
-    },
-    {
-      "id": "5a4264a30fd9",
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-14T23:07:56Z",
-      "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents."
+      "summary_en": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what ..."
     },
     {
       "id": "5c81d3a81377",
@@ -377,6 +347,66 @@
       "summary_en": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The boo..."
     },
     {
+      "id": "572c02ec8dce",
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-09-15T20:19:17Z",
+      "description": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits."
+    },
+    {
+      "id": "4686332c8f93",
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-15T22:13:10Z",
+      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm"
+    },
+    {
+      "id": "aabad1208d51",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-09-15T22:26:32Z",
+      "description": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling."
+    },
+    {
+      "id": "3f8309803edf",
+      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-15T23:27:17Z",
+      "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women."
+    },
+    {
       "id": "c301c683b977",
       "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
       "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
@@ -480,21 +510,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Rib..."
-    },
-    {
-      "id": "5416e428e9cf",
-      "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
-      "link": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-15T13:00:00Z",
-      "description": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists."
     },
     {
       "id": "3a86713f2be0",
@@ -735,21 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl..."
-    },
-    {
-      "id": "746e67bf33bb",
-      "title": "Microsoft announces Windows and Surface event for October 7th",
-      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-15T20:36:59Z",
-      "description": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to..."
     }
   ]
 }
