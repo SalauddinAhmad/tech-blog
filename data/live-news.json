@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T05:59:19+06:00",
+  "lastUpdated": "2026-09-16T10:38:56+06:00",
   "news": [
     {
       "id": "7d4394af2ddf",
@@ -38,7 +38,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-15T15:20:26Z",
-      "description": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source. Pizza Bot started as an internal passion project I worked on with a small team at Amazon. The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved). This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza Bot as an MCP server instead, so it would be available to AI tools through natural language. This was a decent solution for technical users, but the Account Managers who live inside our CRM system wanted something too. We decided to rebuild Pizza Bot as an Electron desktop app modeled after an email inbox, so it would be familiar to non-technical users and would run on both Mac and Windows. We also bundled internal MCP servers as OCI images and hosted them in Amazon ECR as an \"addon marketplace\" so users could install them with one click without having to set up Amazon developer tooling. The project took off organically and expanded outside of AWS into the wider Amazon organization globally. More than 2,000 people ended up using it for meeting prep, email drafting, Slack summaries, CRM logging, prioritizing their day, and web research. Once apps like Claude Cowork and Amazon's own Quick Desktop came out, we realized the real growth opportunity was outside of Amazon. Rather than try to rip out the Amazon-specific integrations, we rebuilt Pizza Bot once more as an open source project. We leaned on coding agents heavily, which is the only reason a team our size could pull off a full rewrite. I'm pleased to say it's finally public, and we're hoping to bring in community members and see where it goes. We'd like to do for knowledge workers what Claude Code and Codex have done for programmers. A couple of things to know up front. Most of what made Pizza Bot useful on day one inside Amazon came from that internal catalog of skills and MCP servers for Amazon's own systems, and none of it could come out with the app. So it ships thinner than the version those 2,000 people used, and building that catalog back up for tools other people actually use is where we need the most help. It's also a community project and not an AWS service, so there's no support or SLA behind it. The Windows and Linux builds aren't signed yet either. On the technical side, Pizza Bot is a server and a client. The desktop app bundles both, or you can point a client at a remote backend; personally, I self-host the server on my home network and reach it from my phone over Tailscale. The server owns the thread lifecycle and checkpoints state with DeepAgents and LangGraph, and clients rehydrate from it as needed, so you can disconnect mid-run and pick the thread back up from another client. Approval pauses outlive the session that created them and collect in an Action filter, so you can answer an hour later from a different device. The agent you talk to has a sandboxed QuickJS interpreter that can reach your filesystem only if you grant it a folder, but its main job is to delegate. Each subagent is a 1:1 mapping of a Skill, and an Activity bar shows that subagent and the tool calls it's making as it works. Memory is opt-in and stored as plain markdown files on your machine. Every tool call is explicit, including looking up a memory - we err on the side of transparency to reduce surprises. Tools come from MCP servers, and skills are ordinary SKILL.md files with a per-tool approval policy, so existing skills that don't require a code interpreter should still work. What I'd most like to hear about is where the app itself gets in your way, the kind of problem you can't fix by writing a skill or an MCP server. I'm around today to answer questions! Comments URL: https://news.ycombinator.com/item?id=49713894 Points: 15 # Comments: 5",
+      "description": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source. Pizza Bot started as an internal passion project I worked on with a small team at Amazon. The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved). This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza Bot as an MCP server instead, so it would be available to AI tools through natural language. This was a decent solution for technical users, but the Account Managers who live inside our CRM system wanted something too. We decided to rebuild Pizza Bot as an Electron desktop app modeled after an email inbox, so it would be familiar to non-technical users and would run on both Mac and Windows. We also bundled internal MCP servers as OCI images and hosted them in Amazon ECR as an \"addon marketplace\" so users could install them with one click without having to set up Amazon developer tooling. The project took off organically and expanded outside of AWS into the wider Amazon organization globally. More than 2,000 people ended up using it for meeting prep, email drafting, Slack summaries, CRM logging, prioritizing their day, and web research. Once apps like Claude Cowork and Amazon's own Quick Desktop came out, we realized the real growth opportunity was outside of Amazon. Rather than try to rip out the Amazon-specific integrations, we rebuilt Pizza Bot once more as an open source project. We leaned on coding agents heavily, which is the only reason a team our size could pull off a full rewrite. I'm pleased to say it's finally public, and we're hoping to bring in community members and see where it goes. We'd like to do for knowledge workers what Claude Code and Codex have done for programmers. A couple of things to know up front. Most of what made Pizza Bot useful on day one inside Amazon came from that internal catalog of skills and MCP servers for Amazon's own systems, and none of it could come out with the app. So it ships thinner than the version those 2,000 people used, and building that catalog back up for tools other people actually use is where we need the most help. It's also a community project and not an AWS service, so there's no support or SLA behind it. The Windows and Linux builds aren't signed yet either. On the technical side, Pizza Bot is a server and a client. The desktop app bundles both, or you can point a client at a remote backend; personally, I self-host the server on my home network and reach it from my phone over Tailscale. The server owns the thread lifecycle and checkpoints state with DeepAgents and LangGraph, and clients rehydrate from it as needed, so you can disconnect mid-run and pick the thread back up from another client. Approval pauses outlive the session that created them and collect in an Action filter, so you can answer an hour later from a different device. The agent you talk to has a sandboxed QuickJS interpreter that can reach your filesystem only if you grant it a folder, but its main job is to delegate. Each subagent is a 1:1 mapping of a Skill, and an Activity bar shows that subagent and the tool calls it's making as it works. Memory is opt-in and stored as plain markdown files on your machine. Every tool call is explicit, including looking up a memory - we err on the side of transparency to reduce surprises. Tools come from MCP servers, and skills are ordinary SKILL.md files with a per-tool approval policy, so existing skills that don't require a code interpreter should still work. What I'd most like to hear about is where the app itself gets in your way, the kind of problem you can't fix by writing a skill or an MCP server. I'm around today to answer questions! Comments URL: https://news.ycombinator.com/item?id=49713894 Points: 37 # Comments: 23",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 7,
@@ -62,21 +62,6 @@
       "summary_en": "Reaching orbit would mark a significant milestone."
     },
     {
-      "id": "378b443ac031",
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "link": "https://bkovac.github.io/modem-thing/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-09-15T13:20:24Z",
-      "description": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 164 # Comments: 30",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 6,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 1..."
-    },
-    {
       "id": "bbd5c8ed9218",
       "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
@@ -90,21 +75,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leader..."
-    },
-    {
-      "id": "748ab31264da",
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-15T15:00:00Z",
-      "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta..."
     },
     {
       "id": "51c3719f455b",
@@ -122,34 +92,34 @@
       "summary_en": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 mi..."
     },
     {
-      "id": "30fb04a6f530",
-      "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-15T23:34:25Z",
-      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
+      "id": "4686332c8f93",
+      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-16T00:59:20Z",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what ..."
-    },
-    {
-      "id": "5c81d3a81377",
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-09-15T03:47:36Z",
-      "description": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\""
+      "summary_en": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it p..."
+    },
+    {
+      "id": "ad14c70e6cfe",
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-16T01:00:00Z",
+      "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger [&#8230;]",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabi..."
     },
     {
       "id": "aec74c8e34e6",
@@ -362,21 +332,6 @@
       "summary_en": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits."
     },
     {
-      "id": "4686332c8f93",
-      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-15T22:13:10Z",
-      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm"
-    },
-    {
       "id": "aabad1208d51",
       "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
       "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
@@ -407,19 +362,34 @@
       "summary_en": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women."
     },
     {
-      "id": "c301c683b977",
-      "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
-      "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-15T00:23:42Z",
-      "description": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
+      "id": "30fb04a6f530",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-15T23:34:25Z",
+      "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 4,
+      "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say ..."
+      "summary_en": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what ..."
+    },
+    {
+      "id": "9eb0d4718491",
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-16T02:00:00Z",
+      "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, [&#8230;]",
+      "topic": "Mobile",
+      "topicIcon": "📱",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Pa..."
     },
     {
       "id": "6fe5a63fdda6",
@@ -497,21 +467,6 @@
       "summary_en": "As anxieties over surveillance tech grow, unsuspecting singles are sharing stories of being covertly filmed on dates by ..."
     },
     {
-      "id": "2b82b6d196ef",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-15T13:00:00Z",
-      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Rib..."
-    },
-    {
       "id": "3a86713f2be0",
       "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
       "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
@@ -540,21 +495,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "EPA says power plant emissions have no material impact on climate change."
-    },
-    {
-      "id": "b6ea8f148cbb",
-      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
-      "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-15T14:03:18Z",
-      "description": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Instax Pal 2 includes both in a design that looks like a miniaturized [&#8230;]",
-      "topic": "Web/JavaScript",
-      "topicIcon": "🌐",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an ins..."
     },
     {
       "id": "4b177e1f3cbd",
@@ -722,9 +662,9 @@
       "summary_en": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in ..."
     },
     {
-      "id": "0cfb3dcdb81d",
+      "id": "6c97203d7659",
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
       "pubDate": "2026-09-15T19:30:00Z",
@@ -750,6 +690,66 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl..."
+    },
+    {
+      "id": "746e67bf33bb",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-15T20:36:59Z",
+      "description": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to..."
+    },
+    {
+      "id": "57e99614fd36",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-15T21:47:38Z",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construc..."
+    },
+    {
+      "id": "049ed956b823",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-16T00:20:39Z",
+      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be eng..."
+    },
+    {
+      "id": "dca51ab57e61",
+      "title": "If the US Collapses Soon, Don’t Blame Emily St. John Mandel",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-emily-st-john-mandel-exit-party/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-15T10:00:00Z",
+      "description": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit Party, imagines two possible American futures—totalitarian state and post-civil-war chaos.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit..."
     }
   ]
 }
