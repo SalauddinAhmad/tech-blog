@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:38:56+06:00",
+  "lastUpdated": "2026-09-16T15:42:35+06:00",
   "news": [
     {
       "id": "7d4394af2ddf",
@@ -30,21 +30,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut..."
-    },
-    {
-      "id": "4481f7d052d1",
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "link": "https://github.com/pizza-bot-app/pizza-bot",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-09-15T15:20:26Z",
-      "description": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source. Pizza Bot started as an internal passion project I worked on with a small team at Amazon. The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved). This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza Bot as an MCP server instead, so it would be available to AI tools through natural language. This was a decent solution for technical users, but the Account Managers who live inside our CRM system wanted something too. We decided to rebuild Pizza Bot as an Electron desktop app modeled after an email inbox, so it would be familiar to non-technical users and would run on both Mac and Windows. We also bundled internal MCP servers as OCI images and hosted them in Amazon ECR as an \"addon marketplace\" so users could install them with one click without having to set up Amazon developer tooling. The project took off organically and expanded outside of AWS into the wider Amazon organization globally. More than 2,000 people ended up using it for meeting prep, email drafting, Slack summaries, CRM logging, prioritizing their day, and web research. Once apps like Claude Cowork and Amazon's own Quick Desktop came out, we realized the real growth opportunity was outside of Amazon. Rather than try to rip out the Amazon-specific integrations, we rebuilt Pizza Bot once more as an open source project. We leaned on coding agents heavily, which is the only reason a team our size could pull off a full rewrite. I'm pleased to say it's finally public, and we're hoping to bring in community members and see where it goes. We'd like to do for knowledge workers what Claude Code and Codex have done for programmers. A couple of things to know up front. Most of what made Pizza Bot useful on day one inside Amazon came from that internal catalog of skills and MCP servers for Amazon's own systems, and none of it could come out with the app. So it ships thinner than the version those 2,000 people used, and building that catalog back up for tools other people actually use is where we need the most help. It's also a community project and not an AWS service, so there's no support or SLA behind it. The Windows and Linux builds aren't signed yet either. On the technical side, Pizza Bot is a server and a client. The desktop app bundles both, or you can point a client at a remote backend; personally, I self-host the server on my home network and reach it from my phone over Tailscale. The server owns the thread lifecycle and checkpoints state with DeepAgents and LangGraph, and clients rehydrate from it as needed, so you can disconnect mid-run and pick the thread back up from another client. Approval pauses outlive the session that created them and collect in an Action filter, so you can answer an hour later from a different device. The agent you talk to has a sandboxed QuickJS interpreter that can reach your filesystem only if you grant it a folder, but its main job is to delegate. Each subagent is a 1:1 mapping of a Skill, and an Activity bar shows that subagent and the tool calls it's making as it works. Memory is opt-in and stored as plain markdown files on your machine. Every tool call is explicit, including looking up a memory - we err on the side of transparency to reduce surprises. Tools come from MCP servers, and skills are ordinary SKILL.md files with a per-tool approval policy, so existing skills that don't require a code interpreter should still work. What I'd most like to hear about is where the app itself gets in your way, the kind of problem you can't fix by writing a skill or an MCP server. I'm around today to answer questions! Comments URL: https://news.ycombinator.com/item?id=49713894 Points: 37 # Comments: 23",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and ..."
     },
     {
       "id": "cc89af6e0bc0",
@@ -92,21 +77,6 @@
       "summary_en": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 mi..."
     },
     {
-      "id": "4686332c8f93",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-16T00:59:20Z",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it p..."
-    },
-    {
       "id": "ad14c70e6cfe",
       "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
       "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
@@ -122,19 +92,34 @@
       "summary_en": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabi..."
     },
     {
-      "id": "aec74c8e34e6",
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-09-15T07:00:30Z",
-      "description": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+      "id": "c8d219e56e06",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-16T08:54:46Z",
+      "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta [&#8230;]",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 5,
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused b..."
+    },
+    {
+      "id": "4686332c8f93",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-16T09:16:13Z",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "The refreshed Volvos also get new infotainment systems with Gemini onboard."
+      "summary_en": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it p..."
     },
     {
       "id": "754e1b756217",
@@ -392,34 +377,19 @@
       "summary_en": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Pa..."
     },
     {
-      "id": "6fe5a63fdda6",
-      "title": "System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop",
-      "link": "https://www.wired.com/review/system76-pangolin-pro-linux-laptop/",
+      "id": "5a55dea08107",
+      "title": "Boox Launches the Palma 3 E-Reader",
+      "link": "https://www.wired.com/story/boox-palma-3-announced/",
       "source": "Wired",
       "sourceIcon": "wired",
-      "pubDate": "2026-09-15T09:00:00Z",
-      "description": "The System76 Pangolin Pro Linux Laptop wraps a speedy processor, plenty of ports, and a great operating system in a svelte, 16-inch package.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
+      "pubDate": "2026-09-16T09:36:00Z",
+      "description": "The e-paper device maker also launched two new color digital notebooks last night, the Note Air6 C and Mini C.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The System76 Pangolin Pro Linux Laptop wraps a speedy processor, plenty of ports, and a great operating system in a svel..."
-    },
-    {
-      "id": "6a3f79b79ac7",
-      "title": "A New Headset to Help With Depression Is Now Available in the US",
-      "link": "https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-15T09:30:00Z",
-      "description": "The device made by Flow Neuroscience is approved by the FDA and could help people get off antidepressants—but it costs $2,200.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The device made by Flow Neuroscience is approved by the FDA and could help people get off antidepressants—but it costs $..."
+      "summary_en": "The e-paper device maker also launched two new color digital notebooks last night, the Note Air6 C and Mini C."
     },
     {
       "id": "845a19268b7a",
@@ -662,9 +632,9 @@
       "summary_en": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in ..."
     },
     {
-      "id": "6c97203d7659",
+      "id": "0cfb3dcdb81d",
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
       "pubDate": "2026-09-15T19:30:00Z",
@@ -737,19 +707,49 @@
       "summary_en": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be eng..."
     },
     {
-      "id": "dca51ab57e61",
-      "title": "If the US Collapses Soon, Don’t Blame Emily St. John Mandel",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-emily-st-john-mandel-exit-party/",
+      "id": "123e0064883f",
+      "title": "How chimps teach their kids tool tricks",
+      "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-09-16T04:00:39Z",
+      "description": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior."
+    },
+    {
+      "id": "a63715bc376a",
+      "title": "Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More",
+      "link": "https://www.wired.com/story/chegg-coupon-code/",
       "source": "Wired",
       "sourceIcon": "wired",
-      "pubDate": "2026-09-15T10:00:00Z",
-      "description": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit Party, imagines two possible American futures—totalitarian state and post-civil-war chaos.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
+      "pubDate": "2026-09-16T05:00:00Z",
+      "description": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit..."
+      "summary_en": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing."
+    },
+    {
+      "id": "4e1ddd792cd7",
+      "title": "Sam's Club Promo Codes and Membership Deals for September 2026",
+      "link": "https://www.wired.com/story/sams-club-coupon/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-16T05:00:00Z",
+      "description": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discou..."
     }
   ]
 }
