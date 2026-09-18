@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T05:24:30+06:00",
+  "lastUpdated": "2026-09-18T09:31:49+06:00",
   "news": [
     {
       "id": "0706f0f10e6d",
@@ -15,21 +15,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just l..."
-    },
-    {
-      "id": "d95188870b47",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-17T14:06:14Z",
-      "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and cl..."
     },
     {
       "id": "c78d0c6b782c",
@@ -77,19 +62,34 @@
       "summary_en": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highl..."
     },
     {
-      "id": "69d773778745",
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-16T23:41:57Z",
-      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 5,
-      "reliability": 5,
+      "id": "8981793a8aaf",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-17T23:25:52Z",
+      "description": "The round values the data center giant at $30.9 billion.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC."
+      "summary_en": "The round values the data center giant at $30.9 billion."
+    },
+    {
+      "id": "bd935a3bf4ee",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-18T02:00:00Z",
+      "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overse..."
     },
     {
       "id": "4a87dc1c7397",
@@ -158,7 +158,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-17T16:22:15Z",
-      "description": "Hey HN, we're Nars & Nishant, founders of Skillsync ( https://skillsync.com ) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. This is annoying because you cannot simply switch between agents without starting over. We get locked into a single provider and their agent as we invest in skills and memories over time. Skillsync acts as a universal converter. It moves the entire session, including all the messages, reasoning and tool calls so you can pick up right where you left off. Skillsync collects all your sessions in one place and makes them searchable. It breaks down what each session is carrying, including which loaded skills the agent is actually using, making stale context easy to spot. You can also create shared workspaces to sync sessions across your team. You can build your own closed loop systems. Everything runs locally except when you share to workspaces. The core is an open-source Rust engine called txcript ( https://github.com/skillsynchq/txcript ). It translates a session from one agent's on-disk format into another's, mapping conversation, reasoning, and tool history. Think ffmpeg or pandoc, but for agent sessions. On top of that engine is a local-first desktop app. Your agent sessions are normally scattered across different tools' folders in formats you'd never read by hand; the app surfaces them in one place with a UI that makes them actually readable, the conversation, the reasoning, and the tool calls, so you can revisit what happened, move a session into another agent, or share it with a teammate. Skills and memory are stored as portable, human-readable markdown you own, and exposed to any agent over MCP for search and selective retrieval. Sessions and translation run locally on your machine. The one thing that leaves is what you explicitly share into a team workspace. It’s been surprising to us to see how locked-in people already are without realizing it. You don't notice you're trapped in one agent or harness until you try to leave, and by then you've got months of sessions stuck in a format only that tool can read. The lock-in is invisible right up until it's expensive. Once sessions are portable, they stop being disposable logs and become something you can actually build on, spotting patterns in how you work, handing a session off to someone else, letting a non-technical teammate pick up where an engineer left off. The session turns out to be the unit of collaboration, and right now it's being thrown away. Before Skillsync, Nars and I built an open-source payment orchestrator that let merchants route across many processors instead of getting locked into one (30k+ GitHub stars). Fighting vendor lock-in by making incompatible systems interoperate was the whole job. We came into YC with a different idea, but the more we lived inside coding agents the more we saw the same problem from the other side: your context is locked into whatever agent you start with, because every agent stores sessions differently and none of it moves. Some of the things we’re seeing people do with Skillsync are: - Moving a session between Claude Code, Codex, and Cursor mid-task, including when you hit a usage limit on one and want to keep going on another. - Thinking through a problem in a browser Claude chat, then handing the whole thread to Claude Code or Codex to build. - Sharing research sessions with a team. Everyone uploads their sessions, so teammates and their agents can build on each other's work instead of repeating it. It's available as a Mac app, CLI and MCP. Here's the demo: https://youtu.be/7hVhSnSKGl8 . Would love to hear your feedback and answer questions! Comments URL: https://news.ycombinator.com/item?id=49743049 Points: 40 # Comments: 43",
+      "description": "Hey HN, we're Nars & Nishant, founders of Skillsync ( https://skillsync.com ) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. This is annoying because you cannot simply switch between agents without starting over. We get locked into a single provider and their agent as we invest in skills and memories over time. Skillsync acts as a universal converter. It moves the entire session, including all the messages, reasoning and tool calls so you can pick up right where you left off. Skillsync collects all your sessions in one place and makes them searchable. It breaks down what each session is carrying, including which loaded skills the agent is actually using, making stale context easy to spot. You can also create shared workspaces to sync sessions across your team. You can build your own closed loop systems. Everything runs locally except when you share to workspaces. The core is an open-source Rust engine called txcript ( https://github.com/skillsynchq/txcript ). It translates a session from one agent's on-disk format into another's, mapping conversation, reasoning, and tool history. Think ffmpeg or pandoc, but for agent sessions. On top of that engine is a local-first desktop app. Your agent sessions are normally scattered across different tools' folders in formats you'd never read by hand; the app surfaces them in one place with a UI that makes them actually readable, the conversation, the reasoning, and the tool calls, so you can revisit what happened, move a session into another agent, or share it with a teammate. Skills and memory are stored as portable, human-readable markdown you own, and exposed to any agent over MCP for search and selective retrieval. Sessions and translation run locally on your machine. The one thing that leaves is what you explicitly share into a team workspace. It’s been surprising to us to see how locked-in people already are without realizing it. You don't notice you're trapped in one agent or harness until you try to leave, and by then you've got months of sessions stuck in a format only that tool can read. The lock-in is invisible right up until it's expensive. Once sessions are portable, they stop being disposable logs and become something you can actually build on, spotting patterns in how you work, handing a session off to someone else, letting a non-technical teammate pick up where an engineer left off. The session turns out to be the unit of collaboration, and right now it's being thrown away. Before Skillsync, Nars and I built an open-source payment orchestrator that let merchants route across many processors instead of getting locked into one (30k+ GitHub stars). Fighting vendor lock-in by making incompatible systems interoperate was the whole job. We came into YC with a different idea, but the more we lived inside coding agents the more we saw the same problem from the other side: your context is locked into whatever agent you start with, because every agent stores sessions differently and none of it moves. Some of the things we’re seeing people do with Skillsync are: - Moving a session between Claude Code, Codex, and Cursor mid-task, including when you hit a usage limit on one and want to keep going on another. - Thinking through a problem in a browser Claude chat, then handing the whole thread to Claude Code or Codex to build. - Sharing research sessions with a team. Everyone uploads their sessions, so teammates and their agents can build on each other's work instead of repeating it. It's available as a Mac app, CLI and MCP. Here's the demo: https://youtu.be/7hVhSnSKGl8 . Would love to hear your feedback and answer questions! Comments URL: https://news.ycombinator.com/item?id=49743049 Points: 53 # Comments: 51",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
@@ -188,28 +188,28 @@
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-09-17T23:21:17Z",
-      "description": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Google DeepMind just launched an institute to hash out the big AGI questions in public"
+      "summary_en": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research commu..."
     },
     {
-      "id": "efb6bd3f4f07",
-      "title": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
-      "link": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-16T23:42:55Z",
-      "description": "The Nurovi line includes three lidar-powered robovacs. But to get the model I’m most intrigued by, you’ll need a Costco membership.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
+      "id": "868883bd1df0",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-09-18T01:05:03Z",
+      "description": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 19 # Comments: 7",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 5,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "The Nurovi line includes three lidar-powered robovacs. But to get the model I’m most intrigued by, you’ll need a Costco ..."
+      "summary_en": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.yc..."
     },
     {
       "id": "a48d37d1597d",
@@ -300,21 +300,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "After wearing it day and night for a week, I found that better health tracking, faster charging, and a simpler interface..."
-    },
-    {
-      "id": "2c8cb78011bc",
-      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-      "link": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-17T13:00:00Z",
-      "description": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called [&#8230;]",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbu..."
     },
     {
       "id": "d8c2781da44a",
@@ -527,34 +512,19 @@
       "summary_en": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
     },
     {
-      "id": "87a157bc6cb5",
-      "title": "Here’s What Snap’s Expensive Specs Can Actually Do",
-      "link": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-16T23:40:00Z",
-      "description": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.",
+      "id": "1e6796b12b2f",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-18T00:02:36Z",
+      "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 3,
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features tha..."
-    },
-    {
-      "id": "ef880d634359",
-      "title": "SteelSeries Coupon Codes: 15% Off in September 2026",
-      "link": "https://www.wired.com/story/steelseries-coupon-code/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-17T05:00:00Z",
-      "description": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories."
+      "summary_en": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating ..."
     },
     {
       "id": "67d98406c07e",
@@ -585,6 +555,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in September 2026. Discover our best codes and disc..."
+    },
+    {
+      "id": "ef880d634359",
+      "title": "SteelSeries Coupon Codes: 15% Off in September 2026",
+      "link": "https://www.wired.com/story/steelseries-coupon-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-17T05:00:00Z",
+      "description": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories."
     },
     {
       "id": "dbab441afc4c",
@@ -707,21 +692,6 @@
       "summary_en": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have al..."
     },
     {
-      "id": "ea48c6825ddc",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-17T14:00:00Z",
-      "description": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ foun..."
-    },
-    {
       "id": "361d4ca3f860",
       "title": "AI is feared globally as the destroyer of jobs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company ..."
+    },
+    {
+      "id": "84a2a239d16d",
+      "title": "Last call: Disrupt volunteer application closes soon",
+      "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-17T15:02:00Z",
+      "description": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and st..."
+    },
+    {
+      "id": "70e117d494aa",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "link": "https://github.com/asciimoo/hister",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-09-17T16:25:37Z",
+      "description": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 500 # Comments: 139",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 3,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 500 ..."
     }
   ]
 }
