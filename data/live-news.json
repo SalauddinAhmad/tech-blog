@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T05:03:35+06:00",
+  "lastUpdated": "2026-09-19T09:28:44+06:00",
   "news": [
     {
       "id": "0d07d819dbcf",
@@ -62,21 +62,6 @@
       "summary_en": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s ..."
     },
     {
-      "id": "deaa594637f7",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-18T14:00:14Z",
-      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accoun..."
-    },
-    {
       "id": "8f37ecc27601",
       "title": "US government website used Chinese model the FBI called \"malicious\"",
       "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
@@ -90,6 +75,21 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "The Federal Register website briefly used an open source Chinese AI search tool."
+    },
+    {
+      "id": "46a265e1127e",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-09-19T01:40:35Z",
+      "description": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 23 # Comments: 15",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-report..."
     },
     {
       "id": "adc74777b244",
@@ -120,21 +120,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder."
-    },
-    {
-      "id": "c6ace4402c91",
-      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-18T14:30:00Z",
-      "description": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-      "topic": "Cloud/DevOps",
-      "topicIcon": "☁️",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up..."
     },
     {
       "id": "a6984e38f9d8",
@@ -212,19 +197,19 @@
       "summary_en": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
     },
     {
-      "id": "36b71d7b1509",
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-09-18T20:02:54Z",
-      "description": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 220 # Comments: 68",
+      "id": "ea36c1448b7e",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-09-18T20:26:33Z",
+      "description": "But the military's overall use of AI seems to be accelerating.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
-      "reliability": 3,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Commen..."
+      "summary_en": "But the military's overall use of AI seems to be accelerating."
     },
     {
       "id": "f08beb36ba97",
@@ -332,21 +317,6 @@
       "summary_en": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instag..."
     },
     {
-      "id": "c625b8a74296",
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-18T14:00:00Z",
-      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, in..."
-    },
-    {
       "id": "72009b85c809",
       "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
       "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
@@ -375,21 +345,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can ge..."
-    },
-    {
-      "id": "fd58fce9d4e9",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-18T15:00:00Z",
-      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to sav..."
     },
     {
       "id": "7b1b9f93d6bb",
@@ -587,6 +542,81 @@
       "summary_en": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The compa..."
     },
     {
+      "id": "891b06747757",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-18T23:13:31Z",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning ..."
+    },
+    {
+      "id": "d5911730957e",
+      "title": "Would Australians support a smart glasses ban?",
+      "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-18T23:15:10Z",
+      "description": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they t..."
+    },
+    {
+      "id": "8401e8e9e2ed",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-18T23:25:01Z",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+    },
+    {
+      "id": "4215ed0c60a6",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-19T00:12:07Z",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
+    },
+    {
+      "id": "6cdb0ccc5e11",
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-19T01:00:00Z",
+      "description": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse."
+    },
+    {
       "id": "8d12aa494ee9",
       "title": "Zoro Coupon Codes: 20% Off September 2026",
       "link": "https://www.wired.com/story/zoro-promo-code/",
@@ -632,21 +662,6 @@
       "summary_en": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals."
     },
     {
-      "id": "94ae8a452d16",
-      "title": "iRobot Promo Code: 15% Off",
-      "link": "https://www.wired.com/story/irobot-promo-code/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-18T05:00:00Z",
-      "description": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free clea..."
-    },
-    {
       "id": "3e5b6f22a85f",
       "title": "Design Within Reach Promo Codes: 30% Off | September 2026",
       "link": "https://www.wired.com/story/design-within-reach-promo-code/",
@@ -660,6 +675,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with the..."
+    },
+    {
+      "id": "94ae8a452d16",
+      "title": "iRobot Promo Code: 15% Off",
+      "link": "https://www.wired.com/story/irobot-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-18T05:00:00Z",
+      "description": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free clea..."
     },
     {
       "id": "0c5f61fa6d4b",
@@ -698,28 +728,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-18T06:11:17Z",
-      "description": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 237 # Comments: 89",
+      "description": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 264 # Comments: 94",
       "topic": "Cloud/DevOps",
       "topicIcon": "☁️",
       "importance": 3,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombi..."
-    },
-    {
-      "id": "e63e5236cc32",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-18T09:00:00Z",
-      "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low."
     },
     {
       "id": "76dca45e0dbc",
@@ -735,21 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally."
-    },
-    {
-      "id": "648491196373",
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-18T09:15:00Z",
-      "description": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom."
     }
   ]
 }
