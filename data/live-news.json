@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T05:28:14+06:00",
+  "lastUpdated": "2026-09-30T10:19:54+06:00",
   "news": [
     {
       "id": "2833bea77aa4",
@@ -45,21 +45,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com..."
-    },
-    {
-      "id": "be1440133b1c",
-      "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
-      "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-09-29T16:09:44Z",
-      "description": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone launch events in September and often announces products later in the year and in [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and t..."
     },
     {
       "id": "8a3fa5a7a887",
@@ -122,21 +107,6 @@
       "summary_en": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software co..."
     },
     {
-      "id": "e7c6a0bc5d6d",
-      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-29T18:45:00Z",
-      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Some of India's largest banks are holding off on supporting Apple Pay initially."
-    },
-    {
       "id": "e4cef31d0720",
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
       "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
@@ -158,7 +128,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-29T19:30:17Z",
-      "description": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?id=49899090 Points: 140 # Comments: 72",
+      "description": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?id=49899090 Points: 188 # Comments: 114",
       "topic": "Web/JavaScript",
       "topicIcon": "🌐",
       "importance": 6,
@@ -195,6 +165,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claim..."
+    },
+    {
+      "id": "e7c6a0bc5d6d",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-30T04:08:00Z",
+      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Some of India's largest banks are holding off on supporting Apple Pay initially."
     },
     {
       "id": "d4f823a1a6f1",
@@ -332,19 +317,49 @@
       "summary_en": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda."
     },
     {
+      "id": "3116448b4d43",
+      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+      "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-09-29T22:30:37Z",
+      "description": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+    },
+    {
       "id": "0b10a0cc8ae1",
-      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
       "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
-      "pubDate": "2026-09-29T22:06:18Z",
-      "description": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+      "pubDate": "2026-09-29T23:47:10Z",
+      "description": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers."
+      "summary_en": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers."
+    },
+    {
+      "id": "d6b003b6ebfa",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-09-30T00:19:13Z",
+      "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can m..."
     },
     {
       "id": "355c62d34bfd",
@@ -435,21 +450,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Eating less protein as larvae may limit their ability to produce proteins as adults."
-    },
-    {
-      "id": "8b7bc9c33eab",
-      "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
-      "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-09-29T14:56:55Z",
-      "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of it..."
     },
     {
       "id": "eadcdf1adcd2",
@@ -632,9 +632,9 @@
       "summary_en": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice."
     },
     {
-      "id": "36193bd2fd97",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "id": "22cdc3a1949b",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-09-29T19:52:37Z",
@@ -660,6 +660,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place whe..."
+    },
+    {
+      "id": "879babcdd3fe",
+      "title": "Protests against OpenAI get increasingly creative",
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-09-29T21:52:58Z",
+      "description": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "New sculpture depicts AI leaders escaping a sinking ship."
     },
     {
       "id": "499a6ea33b62",
@@ -707,49 +722,34 @@
       "summary_en": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
     },
     {
-      "id": "c1352d89fb38",
-      "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
-      "link": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-29T01:00:00Z",
-      "description": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 3,
+      "id": "71e6ed4c5cc0",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-09-29T23:30:55Z",
+      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studi..."
+      "summary_en": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's p..."
     },
     {
-      "id": "f08beb36ba97",
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-29T05:00:00Z",
-      "description": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 3,
-      "reliability": 4,
+      "id": "1a186591d509",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-30T04:01:52Z",
+      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes."
-    },
-    {
-      "id": "9c8acde8dc81",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-29T05:00:00Z",
-      "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October."
+      "summary_en": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
     }
   ]
 }
