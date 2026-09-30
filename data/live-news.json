@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T10:19:54+06:00",
+  "lastUpdated": "2026-09-30T16:55:33+06:00",
   "news": [
     {
       "id": "2833bea77aa4",
@@ -62,21 +62,6 @@
       "summary_en": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the ..."
     },
     {
-      "id": "11bacbdfdc6b",
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-29T10:36:22Z",
-      "description": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the ..."
-    },
-    {
       "id": "dcb66824e228",
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
@@ -128,7 +113,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-09-29T19:30:17Z",
-      "description": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?id=49899090 Points: 188 # Comments: 114",
+      "description": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?id=49899090 Points: 235 # Comments: 139",
       "topic": "Web/JavaScript",
       "topicIcon": "🌐",
       "importance": 6,
@@ -332,21 +317,6 @@
       "summary_en": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
     },
     {
-      "id": "0b10a0cc8ae1",
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-09-29T23:47:10Z",
-      "description": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers."
-    },
-    {
       "id": "d6b003b6ebfa",
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
@@ -362,49 +332,19 @@
       "summary_en": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can m..."
     },
     {
-      "id": "355c62d34bfd",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "id": "0b10a0cc8ae1",
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
-      "pubDate": "2026-09-29T09:14:13Z",
-      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "pubDate": "2026-09-30T05:18:13Z",
+      "description": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 4,
+      "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "The firm also issued an update on incidents in which its models accessed Australian government systems."
-    },
-    {
-      "id": "781a6921c510",
-      "title": "A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization",
-      "link": "https://www.wired.com/story/a-pentagon-influencer-called-liberal-women-a-pestilence-who-will-end-western-civilization/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-29T10:15:00Z",
-      "description": "Kurt Schlichter was part of a task force rooting out so-called woke ideologies at the military’s war colleges. He has called to bar childless adults from voting.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Kurt Schlichter was part of a task force rooting out so-called woke ideologies at the military’s war colleges. He has ca..."
-    },
-    {
-      "id": "34e949eb4311",
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-09-29T10:30:00Z",
-      "description": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity."
+      "summary_en": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers."
     },
     {
       "id": "8609a9119a71",
@@ -750,6 +690,66 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
+    },
+    {
+      "id": "b640aa75f483",
+      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-30T05:30:53Z",
+      "description": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy."
+    },
+    {
+      "id": "bf506f4dcc56",
+      "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
+      "link": "https://www.wired.com/gallery/the-best-kids-mattresses/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-30T09:32:00Z",
+      "description": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old."
+    },
+    {
+      "id": "dc0527dec1c9",
+      "title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
+      "link": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-09-30T10:00:00Z",
+      "description": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided the West Bank and measures what it cost people to move through it.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided..."
+    },
+    {
+      "id": "e200963ec8d1",
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-09-30T10:20:20Z",
+      "description": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says."
     }
   ]
 }
