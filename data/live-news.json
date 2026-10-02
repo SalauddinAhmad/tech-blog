@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T07:18:58+06:00",
+  "lastUpdated": "2026-10-02T13:59:57+06:00",
   "news": [
     {
       "id": "1a3c4f9926bf",
@@ -68,13 +68,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-01T17:32:43Z",
-      "description": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 84 # Comments: 89",
+      "description": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 135 # Comments: 132",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 6,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 84 # Com..."
+      "summary_en": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 135 # Co..."
     },
     {
       "id": "20c4b9d47cd4",
@@ -315,21 +315,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency."
-    },
-    {
-      "id": "ec99cede5e21",
-      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-02T01:05:13Z",
-      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The former employees were investigated for sharing data with an outside AI evaluation group."
     },
     {
       "id": "ff20b7b1f966",
@@ -743,13 +728,28 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-01T20:48:37Z",
-      "description": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.ycombinator.com/item?id=49926917 Points: 56 # Comments: 5",
+      "description": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.ycombinator.com/item?id=49926917 Points: 125 # Comments: 30",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 4,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.yco..."
+    },
+    {
+      "id": "4e39f67fdaf8",
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-01T20:53:32Z",
+      "description": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our tea..."
     }
   ]
 }
