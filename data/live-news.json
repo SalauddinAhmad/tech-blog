@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T05:58:49+06:00",
+  "lastUpdated": "2026-10-06T12:07:40+06:00",
   "news": [
     {
       "id": "2b3cd7b0777f",
@@ -107,13 +107,28 @@
       "summary_en": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation,..."
     },
     {
+      "id": "811f9c13d7ff",
+      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+      "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-06T00:24:57Z",
+      "description": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days Comments URL: https://news.ycombinator.com/item?id=49972607 Points: 106 # Comments: 86",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 6,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days Comments ..."
+    },
+    {
       "id": "91810f769b10",
       "title": "Apple and a hacker's future",
       "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-05T10:05:02Z",
-      "description": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 194 # Comments: 177",
+      "description": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 237 # Comments: 208",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 5,
@@ -165,21 +180,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Unconfirmed reports have suggested there was a laboratory accident."
-    },
-    {
-      "id": "f674aa00a3b8",
-      "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-      "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-05T15:43:13Z",
-      "description": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded Tegra X1+ processor, 3GB of RAM, and 16GB of storage, it sold for $199.99. But [&#8230;]",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatica..."
     },
     {
       "id": "6a3a35923c54",
@@ -345,21 +345,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
-    },
-    {
-      "id": "1838985c2f69",
-      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-      "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-10-05T04:00:52Z",
-      "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls."
     },
     {
       "id": "ca7c7614e355",
@@ -648,18 +633,48 @@
     },
     {
       "id": "3288015068af",
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "title": "Example.com just launched the biggest redesign in decades",
       "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-05T22:55:11Z",
-      "description": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 33 # Comments: 20",
+      "description": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 164 # Comments: 92",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 4,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/..."
+    },
+    {
+      "id": "197455394523",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-10-05T23:09:55Z",
+      "description": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends..."
+    },
+    {
+      "id": "6ae05f74a921",
+      "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras October 2026",
+      "link": "https://www.wired.com/story/sony-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-06T05:00:00Z",
+      "description": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha came..."
     },
     {
       "id": "396bf8c3d4f5",
@@ -735,21 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with a..."
-    },
-    {
-      "id": "3685b45efb88",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-05T18:08:39Z",
-      "description": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the E..."
     }
   ]
 }
