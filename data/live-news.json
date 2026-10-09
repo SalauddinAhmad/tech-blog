@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-10-09T05:39:04+06:00",
+  "lastUpdated": "2026-10-09T10:54:22+06:00",
   "news": [
+    {
+      "id": "35f787ee8f97",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-08T20:39:31Z",
+      "description": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 10,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings."
+    },
     {
       "id": "7ad84d0adb1e",
       "title": "Asos hackers took more personal details than first revealed, BBC finds",
@@ -15,21 +30,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact det..."
-    },
-    {
-      "id": "f08f8de24a59",
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-08T01:59:54Z",
-      "description": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August."
     },
     {
       "id": "91bce0d3ced7",
@@ -197,36 +197,6 @@
       "summary_en": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
     },
     {
-      "id": "43a4fe127910",
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-07T23:50:29Z",
-      "description": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme."
-    },
-    {
-      "id": "f0cfa9e453a6",
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-10-08T00:00:24Z",
-      "description": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Get ready for more AI in your Windows and more AI on the desktop."
-    },
-    {
       "id": "6c58fc404818",
       "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
       "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
@@ -338,13 +308,13 @@
       "source": "Ars Technica",
       "sourceIcon": "ars",
       "pubDate": "2026-10-08T19:26:32Z",
-      "description": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"",
+      "description": "\"[T]he Trump-RFK Jr. anti-vax agenda keeps getting more corrupt and dangerous.\"",
       "topic": "Other",
       "topicIcon": "📰",
       "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\""
+      "summary_en": "\"[T]he Trump-RFK Jr. anti-vax agenda keeps getting more corrupt and dangerous.\""
     },
     {
       "id": "d7f318171ec8",
@@ -378,7 +348,7 @@
     },
     {
       "id": "24471b348ef2",
-      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
       "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
       "source": "Ars Technica",
       "sourceIcon": "ars",
@@ -390,6 +360,21 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Hamilton also coined the term \"software engineering\" and founded two successful software companies."
+    },
+    {
+      "id": "e04326262fce",
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-08T20:53:01Z",
+      "description": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press."
     },
     {
       "id": "b66c80208096",
@@ -407,6 +392,21 @@
       "summary_en": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Star..."
     },
     {
+      "id": "d39f5eac4fae",
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-08T21:37:32Z",
+      "description": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\""
+    },
+    {
       "id": "329a33b3e560",
       "title": "White House blocks Microsoft from foreign worker hiring program",
       "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
@@ -420,6 +420,21 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad."
+    },
+    {
+      "id": "2eced5b9b09d",
+      "title": "Nvidia-backed AI data centre firm scraps mega listing due to market volatility",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-09T04:06:23Z",
+      "description": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\"."
     },
     {
       "id": "27cf6fe2aef9",
@@ -482,21 +497,6 @@
       "summary_en": "WIRED has partnered with Neal Agarwal of Neal.fun to create a visualization of Elon Musk’s massive wealth. Here’s how it..."
     },
     {
-      "id": "648f102387a4",
-      "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
-      "link": "https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-08T13:00:00Z",
-      "description": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of wha..."
-    },
-    {
       "id": "f23a36255ba8",
       "title": "Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price",
       "link": "https://www.wired.com/story/amazon-alexa-tablets-2026/",
@@ -510,6 +510,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for k..."
+    },
+    {
+      "id": "648f102387a4",
+      "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
+      "link": "https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-08T13:00:00Z",
+      "description": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
+      "topic": "Mobile",
+      "topicIcon": "📱",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of wha..."
     },
     {
       "id": "5b7af9708b29",
@@ -555,6 +570,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro."
+    },
+    {
+      "id": "9bce984ffc5c",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "link": "https://opper.ai/jevman-benchmark/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-08T16:34:13Z",
+      "description": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making. So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts. The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo: https://github.com/opper-ai/jevman-benchmark/blob/main/CONTR... You can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try. It's pretty fun to play and surprisingly difficult to beat jev's highscore. Any feedback is more than welcome! Comments URL: https://news.ycombinator.com/item?id=50007993 Points: 48 # Comments: 7",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives a..."
     },
     {
       "id": "9346eaa9f479",
@@ -692,6 +722,21 @@
       "summary_en": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open lette..."
     },
     {
+      "id": "2b3851633cfc",
+      "title": "Feds get ready to rewrite car headlight rules",
+      "link": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-08T20:26:13Z",
+      "description": "Reducing glare and allowing modern light technologies will be two goals.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Reducing glare and allowing modern light technologies will be two goals."
+    },
+    {
       "id": "055daf4225c5",
       "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
       "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
@@ -705,51 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Blo..."
-    },
-    {
-      "id": "1bc6c949e17a",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-08T21:00:00Z",
-      "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engin..."
-    },
-    {
-      "id": "52d0c7b75c08",
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "link": "https://github.com/thesnarkitecht/rembrandt",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-10-08T21:00:55Z",
-      "description": "Article URL: https://github.com/thesnarkitecht/rembrandt Comments URL: https://news.ycombinator.com/item?id=50012199 Points: 37 # Comments: 38",
-      "topic": "Open Source",
-      "topicIcon": "🔓",
-      "importance": 4,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://github.com/thesnarkitecht/rembrandt Comments URL: https://news.ycombinator.com/item?id=50012199 Poi..."
-    },
-    {
-      "id": "505bfb552fa3",
-      "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
-      "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-08T22:40:11Z",
-      "description": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally ..."
     }
   ]
 }
