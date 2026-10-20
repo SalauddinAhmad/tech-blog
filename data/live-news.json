@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T05:22:05+06:00",
+  "lastUpdated": "2026-10-20T09:43:37+06:00",
   "news": [
     {
       "id": "e3d5ab0af1ce",
@@ -62,21 +62,6 @@
       "summary_en": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of stat..."
     },
     {
-      "id": "6a23445afa18",
-      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-      "link": "https://news.ycombinator.com/item?id=50154029",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-10-19T16:00:18Z",
-      "description": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling. Here’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQ We also put together a post with example traces and analyses from flow-1 and other models: https://laminar.sh/blog/flow-1-in-action Agent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles. Agents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough. Collecting traces alone doesn’t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from. Using another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper ones often miss errors or flag unrelated things. So we built our model to solve exactly this problem. We finetuned a small OSS model and then post trained it with RL on thousands of synthetic investigations of realistic agent workflows in software, legal, customer support, etc. We got a model that is both good at agent trace analysis and very cheap to run. flow-1 runs inside a harness we call Signals. It acts as a coding agent, treating an agent trace like a repo, with each span (an LLM call, tool call, etc.) as a file. It starts from a compressed string representation of a full agent trace and a user prompt, then greps across spans and reads the relevant ones in full. The beauty of Signals is that it can respond to a general prompt. You can ask it to identify user frustration, check whether your browser agent completed a checkout, and so on. It’s not limited to raw error detection. It returns findings as JSON in a schema users can freely define. We call these signal events. Once you’re analyzing every trace, you also have too many individual events to read. That’s why we automatically group similar signal events into clusters. You can see recurring problems and how often they happen, then drill into individual events and the traces behind them. You can use traces from a cluster to build an eval dataset for that type of failure. You can then use your favourite coding agent to hillclimb on those evals and check that the fix works across these cases before shipping it to prod. Trace → analyze → catch errors and form clusters → fix → release. Making this loop easy is why we built Laminar. We’ve put the same thought into the rest of Laminar. Our blog ( https://laminar.sh/blog ) explains how looking closely at how agents actually work led us to build 20x trace compression, a custom SQL query engine and automatic task extraction. Laminar is Apache 2.0 and self-hostable ( https://github.com/lmnr-ai/lmnr ). We make money from the managed cloud. We’d love to hear how you track your agents’ performance today. How much do you learn from user feedback versus your own monitoring? And when you fix something, how do you check that it hasn’t introduced a different failure? Comments URL: https://news.ycombinator.com/item?id=50154029 Points: 44 # Comments: 22",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI ag..."
-    },
-    {
       "id": "93bc531bda3a",
       "title": "PSA: Patch your Plex media server before someone hacks it",
       "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
@@ -98,7 +83,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-19T13:36:43Z",
-      "description": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=50152321 Points: 133 # Comments: 59",
+      "description": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=50152321 Points: 166 # Comments: 84",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 6,
@@ -135,6 +120,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forer..."
+    },
+    {
+      "id": "fc3599f167b0",
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "link": "https://ipinfo.io/blog/france-fridges-hack",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-20T00:00:49Z",
+      "description": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 69 # Comments: 65",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 6,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Poin..."
+    },
+    {
+      "id": "2bd238535e48",
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-20T02:00:00Z",
+      "description": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
     },
     {
       "id": "717c5d08e907",
@@ -362,19 +377,19 @@
       "summary_en": "The Saudi government did not immediately respond to BBC requests for comment."
     },
     {
-      "id": "022ad7569a85",
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-18T23:24:59Z",
-      "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
+      "id": "f17b9c982038",
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-19T22:44:26Z",
+      "description": "Congenital measles can be fatal, and survivors require monitoring for years.",
+      "topic": "Mobile",
+      "topicIcon": "📱",
+      "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
+      "summary_en": "Congenital measles can be fatal, and survivors require monitoring for years."
     },
     {
       "id": "e5cad304e22b",
@@ -735,21 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run..."
-    },
-    {
-      "id": "43c9106709af",
-      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-      "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-19T21:00:17Z",
-      "description": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assistance. The idea [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I wa..."
     }
   ]
 }
