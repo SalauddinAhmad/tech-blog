@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T09:43:37+06:00",
+  "lastUpdated": "2026-10-20T15:12:01+06:00",
   "news": [
     {
       "id": "e3d5ab0af1ce",
@@ -47,21 +47,6 @@
       "summary_en": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers go..."
     },
     {
-      "id": "ecf6666fb420",
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-19T09:00:00Z",
-      "description": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 7,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of stat..."
-    },
-    {
       "id": "93bc531bda3a",
       "title": "PSA: Patch your Plex media server before someone hacks it",
       "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
@@ -77,19 +62,34 @@
       "summary_en": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes."
     },
     {
-      "id": "65347ca450d8",
-      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-      "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-10-19T13:36:43Z",
-      "description": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=50152321 Points: 166 # Comments: 84",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 6,
-      "reliability": 3,
+      "id": "f6e3170c2d58",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-20T05:59:56Z",
+      "description": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 7,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://..."
+      "summary_en": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos."
+    },
+    {
+      "id": "1a9bb903c0ed",
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-20T08:46:00Z",
+      "description": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 7,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday."
     },
     {
       "id": "ea3b81d8158f",
@@ -122,19 +122,34 @@
       "summary_en": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forer..."
     },
     {
+      "id": "733cc19037e0",
+      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-19T21:12:30Z",
+      "description": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
+    },
+    {
       "id": "fc3599f167b0",
       "title": "France's supermarket fridges were vulnerable online for months",
       "link": "https://ipinfo.io/blog/france-fridges-hack",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-20T00:00:49Z",
-      "description": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 69 # Comments: 65",
+      "description": "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 163 # Comments: 135",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 6,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Poin..."
+      "summary_en": "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?..."
     },
     {
       "id": "2bd238535e48",
@@ -288,18 +303,18 @@
     },
     {
       "id": "c67da6c0eaa5",
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
       "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
       "pubDate": "2026-10-19T18:21:54Z",
-      "description": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
+      "description": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
       "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+      "summary_en": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
     },
     {
       "id": "f206d1912eab",
@@ -362,21 +377,6 @@
       "summary_en": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\""
     },
     {
-      "id": "733cc19037e0",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-19T21:12:30Z",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The Saudi government did not immediately respond to BBC requests for comment."
-    },
-    {
       "id": "f17b9c982038",
       "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
       "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
@@ -392,49 +392,34 @@
       "summary_en": "Congenital measles can be fatal, and survivors require monitoring for years."
     },
     {
-      "id": "e5cad304e22b",
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-19T06:08:02Z",
-      "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "id": "74e54eaf5e34",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-10-20T04:00:00Z",
+      "description": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
-    },
-    {
-      "id": "bcf7b500203a",
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-19T07:30:00Z",
-      "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
+      "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital netwo..."
+      "summary_en": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging u..."
     },
     {
-      "id": "b4d1814ee9aa",
-      "title": "Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It",
-      "link": "https://www.wired.com/review/insta360-luna-ultra-luna-pro/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-19T09:00:00Z",
-      "description": "Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
+      "id": "f5650bacb7db",
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "link": "https://deathplanswitch.com/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-20T04:37:43Z",
+      "description": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients. There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients. Death Plan Switch solves this problem, it's free to download and use or study under the MIT license. I've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests. I hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts. Happy to answer any questions. Kind regards, Peter Bishop. Comments URL: https://news.ycombinator.com/item?id=50161408 Points: 63 # Comments: 48",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journali..."
+      "summary_en": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've recently launched Death Plan..."
     },
     {
       "id": "b93423fcf928",
@@ -555,21 +540,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late."
-    },
-    {
-      "id": "ced358144305",
-      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
-      "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-19T14:24:42Z",
-      "description": "Deutsche Telekom, Orange, Telef&#243;nica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initiative by Deutsche [&#8230;]",
-      "topic": "Cloud/DevOps",
-      "topicIcon": "☁️",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Deutsche Telekom, Orange, Telef&#243;nica, and Vodafone signed a letter of intent saying they're considering a joint bid..."
     },
     {
       "id": "7bf27ea750e3",
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run..."
+    },
+    {
+      "id": "43c9106709af",
+      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-10-19T21:00:17Z",
+      "description": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assistance. The idea [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I wa..."
+    },
+    {
+      "id": "85ed69736e92",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-10-19T21:28:20Z",
+      "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors ..."
     }
   ]
 }
