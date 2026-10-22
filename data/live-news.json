@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T04:08:49+06:00",
+  "lastUpdated": "2026-10-22T07:16:52+06:00",
   "news": [
     {
       "id": "b1ec87d70575",
@@ -77,6 +77,21 @@
       "summary_en": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report re..."
     },
     {
+      "id": "daa7510564af",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-21T22:39:50Z",
+      "description": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 7,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him f..."
+    },
+    {
       "id": "889a998fdecb",
       "title": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
       "link": "https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/",
@@ -150,36 +165,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion."
-    },
-    {
-      "id": "986dfb3f67a1",
-      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-      "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-21T19:02:49Z",
-      "description": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in pe..."
-    },
-    {
-      "id": "34727e2ab12c",
-      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-21T19:42:32Z",
-      "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices..."
     },
     {
       "id": "d40817bd8696",
@@ -347,21 +332,6 @@
       "summary_en": "Opinion: In a world of AI slop, showing the human hands making things helps."
     },
     {
-      "id": "258d5ff776fa",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-21T19:53:20Z",
-      "description": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed f..."
-    },
-    {
       "id": "23d28394e263",
       "title": "Websites taken down worldwide as critical cyber-security update issued",
       "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
@@ -407,34 +377,79 @@
       "summary_en": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is..."
     },
     {
-      "id": "2d2caae98728",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-20T23:01:23Z",
-      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocki..."
-    },
-    {
-      "id": "de99a1d351f8",
-      "title": "The tech helping crack decades-old cold cases",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-20T23:13:24Z",
-      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
+      "id": "f07cf8fa2350",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-21T21:48:52Z",
+      "description": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
+      "summary_en": "Survey of 2,018 IT heads at big firms points to a lack of leverage."
+    },
+    {
+      "id": "050546a5bfa2",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-21T22:06:07Z",
+      "description": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Time-based a la carte charges come on top of the purchase price for the games themselves."
+    },
+    {
+      "id": "f8a386616265",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-21T22:17:50Z",
+      "description": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship."
+    },
+    {
+      "id": "b4c060cbae4b",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-21T23:06:37Z",
+      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+    },
+    {
+      "id": "135446502c7a",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-21T23:13:27Z",
+      "description": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 101 # Comments: 44",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 5,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 101 ..."
     },
     {
       "id": "d9b3e1bd8579",
@@ -450,21 +465,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
-    },
-    {
-      "id": "8d22fc4debd3",
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-21T06:36:39Z",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
       "id": "aac73e0d7244",
@@ -587,21 +587,6 @@
       "summary_en": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive informat..."
     },
     {
-      "id": "f96aeaefdb93",
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-      "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-21T13:30:00Z",
-      "description": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to b..."
-    },
-    {
       "id": "0b9a88c0b2e5",
       "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
       "link": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
@@ -615,21 +600,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substan..."
-    },
-    {
-      "id": "a61adc6e1acb",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-21T14:00:00Z",
-      "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a ne..."
     },
     {
       "id": "24b79b6be13d",
@@ -693,7 +663,7 @@
     },
     {
       "id": "9f2c544ee930",
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
@@ -728,7 +698,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-21T19:01:12Z",
-      "description": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 144 # Comments: 30",
+      "description": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 241 # Comments: 58",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 4,
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technolog..."
+    },
+    {
+      "id": "34727e2ab12c",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-21T19:42:32Z",
+      "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices..."
+    },
+    {
+      "id": "543ca2ad9127",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-21T19:52:20Z",
+      "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central..."
     }
   ]
 }
