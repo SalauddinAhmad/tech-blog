@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T07:15:53+06:00",
+  "lastUpdated": "2026-10-23T13:03:00+06:00",
   "news": [
     {
       "id": "2ca8afa9f4ea",
@@ -60,21 +60,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter."
-    },
-    {
-      "id": "7725e6031bc0",
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-22T02:24:17Z",
-      "description": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 7,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “br..."
     },
     {
       "id": "6af0fd42e696",
@@ -180,21 +165,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials ..."
-    },
-    {
-      "id": "58cb78b92a32",
-      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-10-22T21:24:41Z",
-      "description": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 315 # Comments: 126",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news...."
     },
     {
       "id": "5eee804247a4",
@@ -323,13 +293,13 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-22T15:26:22Z",
-      "description": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 319 # Comments: 123",
+      "description": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 393 # Comments: 137",
       "topic": "Mobile",
       "topicIcon": "📱",
       "importance": 5,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 319 # Comments: 12..."
+      "summary_en": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 393 # Comments: 13..."
     },
     {
       "id": "bb883487b1ce",
@@ -677,19 +647,19 @@
       "summary_en": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor."
     },
     {
-      "id": "2461578ab7a5",
-      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-      "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-22T15:24:32Z",
-      "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
+      "id": "7502ffe393ce",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "link": "https://github.com/dsmurrell/onkey",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-22T14:04:44Z",
+      "description": "Hi all I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve. Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original. So, I asked an agent (Claude Code) if it could write some code to listen to Spotify and also listen to me and see if it could detect both pitches and score me. It impressed me by writing some Python and showing me my pitch in the terminal! It couldn’t go all the way though and detect the singer’s pitch in real time. So I found the next best setup and built OnKey, a Mac app that needs to listen to the song once (it doesn’t save it) and then when it’s learnt the song (takes a couple of minutes), you can sing along to the pitch track that it’s learnt. OnKey is free to use and open source under the MIT license. It can listen to Spotify, Apple Music, and YouTube playing in your browser with the right permissions. During the build I found that someone had done something similar in Nightingale, but this requires a library of songs exported to disk and who has this in 2026 (maybe some of you ;) - but we need to help the normies too). You can check out a demo video on the site of me singing (warning given) here: https://singonkey.app The app sends out to find the song info (short Shazam fingerprint, and looks up song details), lyrics (from LRCLIB), and checks for updates. The app never sends the music (it doesn’t save this to disk) and your voice. Everything you’d expect to stay private does. It’s still weak in a few places: - when the song’s backing is noisy it’s hard to pick the pitch track out - sometimes it gets a note an octave off - it’s limited to Apple Silicon Macs, M1 or later, and only macOS 14.2 up because extra drivers aren’t required past this point - the scoring is built for beginners like me so it’s fairly easy on you Would love for people to try it out and let me know what works and what doesn’t for them! Comments URL: https://news.ycombinator.com/item?id=50195488 Points: 16 # Comments: 7",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
       "importance": 4,
-      "reliability": 4,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is n..."
+      "summary_en": "Hi all I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing..."
     },
     {
       "id": "5923975de219",
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders..."
+    },
+    {
+      "id": "080e7241fa8f",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-22T20:01:51Z",
+      "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternati..."
+    },
+    {
+      "id": "10f059e81394",
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "link": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-22T20:05:51Z",
+      "description": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it ..."
     }
   ]
 }
