@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T04:08:44+06:00",
+  "lastUpdated": "2026-10-23T07:15:53+06:00",
   "news": [
     {
       "id": "2ca8afa9f4ea",
@@ -17,6 +17,21 @@
       "summary_en": "Hackers were already probing the bug before defenders were told it existed."
     },
     {
+      "id": "fb9585399ef6",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-22T23:50:41Z",
+      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 9,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the..."
+    },
+    {
       "id": "cb2237817d8d",
       "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
       "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
@@ -32,19 +47,19 @@
       "summary_en": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
     },
     {
-      "id": "daa7510564af",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-21T22:39:50Z",
-      "description": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 7,
-      "reliability": 4,
+      "id": "b41d3a9b91e5",
+      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-22T22:25:33Z",
+      "description": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 8,
+      "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him f..."
+      "summary_en": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter."
     },
     {
       "id": "7725e6031bc0",
@@ -60,21 +75,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “br..."
-    },
-    {
-      "id": "cb5d986544d6",
-      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-      "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-22T14:03:00Z",
-      "description": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 7,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able ..."
     },
     {
       "id": "6af0fd42e696",
@@ -105,6 +105,36 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+    },
+    {
+      "id": "5ad6cfcc6b70",
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-22T21:52:31Z",
+      "description": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 7,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "\"We need to keep our eyes on numerous required fuelings for the lander.\""
+    },
+    {
+      "id": "d8c2497a7a86",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-22T22:12:19Z",
+      "description": "Markers released top-line results today after previously reporting the trial succeeded.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 7,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Markers released top-line results today after previously reporting the trial succeeded."
     },
     {
       "id": "449bfdd29ecd",
@@ -152,19 +182,19 @@
       "summary_en": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials ..."
     },
     {
-      "id": "7c0720e50a86",
-      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
-      "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-22T19:44:51Z",
-      "description": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]",
-      "topic": "Other",
-      "topicIcon": "📰",
+      "id": "58cb78b92a32",
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-22T21:24:41Z",
+      "description": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 315 # Comments: 126",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
       "importance": 6,
-      "reliability": 4,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrum..."
+      "summary_en": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news...."
     },
     {
       "id": "5eee804247a4",
@@ -180,36 +210,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from ..."
-    },
-    {
-      "id": "f8a386616265",
-      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-10-21T22:17:50Z",
-      "description": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship."
-    },
-    {
-      "id": "b4c060cbae4b",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-21T23:06:37Z",
-      "description": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
     },
     {
       "id": "2a375ccbde88",
@@ -317,34 +317,19 @@
       "summary_en": "\"I will take my place as the conqueror, a sorcerer, a king.\""
     },
     {
-      "id": "78de0a523640",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-22T15:03:58Z",
-      "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
-    },
-    {
       "id": "045a2ef443d2",
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
       "link": "https://github.com/oosexgang/hackios-xnu-kernel",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-22T15:26:22Z",
-      "description": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 269 # Comments: 97",
+      "description": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 319 # Comments: 123",
       "topic": "Mobile",
       "topicIcon": "📱",
       "importance": 5,
       "reliability": 3,
       "summary_bn": "",
-      "summary_en": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718..."
+      "summary_en": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 319 # Comments: 12..."
     },
     {
       "id": "bb883487b1ce",
@@ -557,34 +542,49 @@
       "summary_en": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
     },
     {
+      "id": "1f013ba2bc25",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-22T21:07:09Z",
+      "description": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Comcast plans job cuts and more AI agents for its shrinking cable customer base."
+    },
+    {
       "id": "0e6b7b9249b2",
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-10-22T22:08:24Z",
-      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the mostly highly valued private company ever.",
+      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 5,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the mostly highly valued ..."
+      "summary_en": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued pr..."
     },
     {
-      "id": "8d22fc4debd3",
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-21T23:04:03Z",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 5,
+      "id": "01c9b3e37908",
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-10-22T23:02:43Z",
+      "description": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a [&#8230;]",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+      "summary_en": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Fam..."
     },
     {
       "id": "56395636cfd1",
@@ -677,21 +677,6 @@
       "summary_en": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor."
     },
     {
-      "id": "2dba5216d961",
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-      "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-22T14:59:28Z",
-      "description": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft ..."
-    },
-    {
       "id": "2461578ab7a5",
       "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
       "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
@@ -750,6 +735,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of..."
+    },
+    {
+      "id": "55c9b7f636b6",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-22T20:00:00Z",
+      "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders..."
     }
   ]
 }
