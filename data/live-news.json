@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T10:22:36+06:00",
+  "lastUpdated": "2026-10-28T17:00:58+06:00",
   "news": [
     {
       "id": "80ab2e667301",
@@ -30,21 +30,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in ..."
-    },
-    {
-      "id": "a175d7b773ba",
-      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-      "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-27T13:01:00Z",
-      "description": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm pl..."
     },
     {
       "id": "578f4a1cc2a6",
@@ -345,66 +330,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
-    },
-    {
-      "id": "77a762d00ca5",
-      "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
-      "link": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-27T09:35:00Z",
-      "description": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price."
-    },
-    {
-      "id": "ce36f5af847f",
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-27T09:37:55Z",
-      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "topic": "Mobile",
-      "topicIcon": "📱",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
-    },
-    {
-      "id": "68b50db2aaea",
-      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
-      "link": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-27T10:15:00Z",
-      "description": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents sho..."
-    },
-    {
-      "id": "0522430c305e",
-      "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
-      "link": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-27T10:45:00Z",
-      "description": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, a..."
     },
     {
       "id": "4433382607b3",
@@ -750,6 +675,81 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
+    },
+    {
+      "id": "4d0cc269936e",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-28T05:20:32Z",
+      "description": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries."
+    },
+    {
+      "id": "354a5be38f2b",
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+      "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-28T09:30:00Z",
+      "description": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI..."
+    },
+    {
+      "id": "40cf53196ad8",
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-28T10:15:00Z",
+      "description": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their r..."
+    },
+    {
+      "id": "c691013ac56f",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-27T14:06:42Z",
+      "description": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 947 # Comments: 355",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 3,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-america..."
+    },
+    {
+      "id": "5df984d6f0d3",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-27T14:25:11Z",
+      "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivi..."
     }
   ]
 }
