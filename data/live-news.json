@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T05:32:53+06:00",
+  "lastUpdated": "2026-10-28T10:22:36+06:00",
   "news": [
     {
       "id": "80ab2e667301",
@@ -30,21 +30,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in ..."
-    },
-    {
-      "id": "72732c29de14",
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-27T13:00:00Z",
-      "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just me..."
     },
     {
       "id": "a175d7b773ba",
@@ -90,6 +75,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phon..."
+    },
+    {
+      "id": "4ba4897dde9b",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-28T01:15:28Z",
+      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 6,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
     },
     {
       "id": "5a64346a893a",
@@ -407,21 +407,6 @@
       "summary_en": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, a..."
     },
     {
-      "id": "0ba745f0c495",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-27T13:00:00Z",
-      "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
-    },
-    {
       "id": "4433382607b3",
       "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
       "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
@@ -737,19 +722,34 @@
       "summary_en": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging..."
     },
     {
-      "id": "a8c29f5bc02c",
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-27T09:30:00Z",
-      "description": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "id": "4c5627bb6952",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-27T23:34:27Z",
+      "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
-      "importance": 3,
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks."
+      "summary_en": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it ..."
+    },
+    {
+      "id": "2c43e290abc0",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-28T00:01:10Z",
+      "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
     }
   ]
 }
