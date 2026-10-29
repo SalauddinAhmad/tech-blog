@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T04:25:53+06:00",
+  "lastUpdated": "2026-10-29T08:09:07+06:00",
   "news": [
     {
       "id": "e19bd8c68654",
@@ -7,7 +7,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "sourceIcon": "bbc",
-      "pubDate": "2026-10-28T22:12:43Z",
+      "pubDate": "2026-10-29T01:30:43Z",
       "description": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
@@ -122,19 +122,34 @@
       "summary_en": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the na..."
     },
     {
-      "id": "7e12983350e8",
-      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-      "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-28T13:39:18Z",
-      "description": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 6,
+      "id": "9c5b37f8dc98",
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-28T22:51:15Z",
+      "description": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 7,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters."
+    },
+    {
+      "id": "3b64f2126ca3",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-10-28T23:05:39Z",
+      "description": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 7,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release."
+      "summary_en": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri ..."
     },
     {
       "id": "b90659780b41",
@@ -227,19 +242,19 @@
       "summary_en": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year..."
     },
     {
-      "id": "c56458dd612a",
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-10-27T22:37:30Z",
-      "description": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 5,
-      "reliability": 5,
+      "id": "ee5e2424785d",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-10-28T23:15:00Z",
+      "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 6,
+      "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+      "summary_en": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
     },
     {
       "id": "bab4d2d109d6",
@@ -257,21 +272,6 @@
       "summary_en": "US-owned trans-Pacific cables face growing risks from sabotage and China."
     },
     {
-      "id": "9f876b814d3c",
-      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-      "link": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-10-28T11:54:23Z",
-      "description": "Previously: Amazon to acquire Globalstar and expand Amazon Leo satellite network - https://news.ycombinator.com/item?id=47775183 - April 2026 (119 comments) Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 218 # Comments: 100",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 5,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Previously: Amazon to acquire Globalstar and expand Amazon Leo satellite network - https://news.ycombinator.com/item?id=..."
-    },
-    {
       "id": "fb027ec6d225",
       "title": "A hidden ocean change near Antarctica could have global consequences",
       "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
@@ -285,21 +285,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation."
-    },
-    {
-      "id": "c93dba4bd9c8",
-      "title": "Meta has a new AI pet app called Waddle World",
-      "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-28T13:53:31Z",
-      "description": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI."
     },
     {
       "id": "36e2ba37c839",
@@ -452,19 +437,64 @@
       "summary_en": "US agency has sued 10 states for trying to stop gambling on prediction markets."
     },
     {
-      "id": "2c43e290abc0",
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-28T00:01:10Z",
-      "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 4,
+      "id": "c99ede2d1aa6",
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-28T20:00:00Z",
+      "description": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of grou..."
+    },
+    {
+      "id": "86bc1d0d410b",
+      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+      "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-28T22:17:15Z",
+      "description": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
+      "summary_en": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\""
+    },
+    {
+      "id": "0c9c5da2c216",
+      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-10-28T22:35:50Z",
+      "description": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
+      "topic": "Regulation",
+      "topicIcon": "⚖️",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea."
+    },
+    {
+      "id": "6f0240bccdc0",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-29T01:27:40Z",
+      "description": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
     },
     {
       "id": "354a5be38f2b",
@@ -720,36 +750,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open ..."
-    },
-    {
-      "id": "8d8489c29ef1",
-      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-      "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-10-28T19:10:29Z",
-      "description": "It's not as different from the previous model as you might have expected.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "It's not as different from the previous model as you might have expected."
-    },
-    {
-      "id": "c39e9244b74d",
-      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-      "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-10-28T19:37:31Z",
-      "description": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried [&#8230;]",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the coun..."
     }
   ]
 }
