@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T07:36:30+06:00",
+  "lastUpdated": "2026-10-30T14:09:12+06:00",
   "news": [
     {
       "id": "8488ef5b2588",
@@ -17,34 +17,34 @@
       "summary_en": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a ..."
     },
     {
-      "id": "8e8e4f8e5797",
-      "title": "Crypto worth billions frozen after suspected Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-10-30T01:20:57Z",
-      "description": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
-      "topic": "Security",
-      "topicIcon": "🔒",
-      "importance": 9,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
-    },
-    {
       "id": "700f3e4bbfb4",
       "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
       "link": "https://news.ycombinator.com/item?id=50291116",
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-29T15:56:32Z",
-      "description": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago. To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds. What we offer: - Virtual devboards you can program and run with a single API call, without leaving your terminal. - An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine. - A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit. Here is a demo of our simulation used in an AI code review session: https://www.youtube.com/watch?v=kBK1ZjGWWbQ Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars. We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time. Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode ( https://github.com/renode/renode ) and QEMU ( https://www.qemu.org/ ), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this. 1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast. 2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself. 3. The open source tools were bloated, with features that we would never use. Yes, there were a breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them. Users were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware. Because of these issues, we made our own simulation engine from scratch, fully written in Rust. - Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models. - We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps. Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations. Check it out at https://simantic.com/cloud-sim , and you can start using our AI firmware reviewer bot in your own Github repos here: https://simantic.com/dashboard/simantic-bot . We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones. Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev Comments URL: https://news.ycombinator.com/item?id=50291116 Points: 50 # Comments: 14",
+      "description": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago. To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds. What we offer: - Virtual devboards you can program and run with a single API call, without leaving your terminal. - An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine. - A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit. Here is a demo of our simulation used in an AI code review session: https://www.youtube.com/watch?v=kBK1ZjGWWbQ Our users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars. We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time. Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode ( https://github.com/renode/renode ) and QEMU ( https://www.qemu.org/ ), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this. 1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast. 2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself. 3. The open source tools were bloated, with features that we would never use. Yes, there were a breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them. Users were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware. Because of these issues, we made our own simulation engine from scratch, fully written in Rust. - Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models. - We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps. Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations. Check it out at https://simantic.com/cloud-sim , and you can start using our AI firmware reviewer bot in your own Github repos here: https://simantic.com/dashboard/simantic-bot . We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones. Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev Comments URL: https://news.ycombinator.com/item?id=50291116 Points: 66 # Comments: 18",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 8,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets e..."
+    },
+    {
+      "id": "8e8e4f8e5797",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-30T07:16:05Z",
+      "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 8,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
     },
     {
       "id": "715f06690d2e",
@@ -143,13 +143,13 @@
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-10-29T23:44:56Z",
-      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "topic": "AI/ML",
       "topicIcon": "🤖",
       "importance": 7,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says."
+      "summary_en": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
     },
     {
       "id": "d04ec9fedce9",
@@ -203,7 +203,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-29T20:59:55Z",
-      "description": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 38 # Comments: 11",
+      "description": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 64 # Comments: 16",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 6,
@@ -225,21 +225,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
-    },
-    {
-      "id": "133aa26c6489",
-      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-      "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-29T03:34:46Z",
-      "description": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers becaus..."
     },
     {
       "id": "b65ab71cbfef",
@@ -383,7 +368,7 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-10-29T21:38:59Z",
-      "description": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 695 # Comments: 419",
+      "description": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1208 # Comments: 741",
       "topic": "Security",
       "topicIcon": "🔒",
       "importance": 5,
@@ -438,7 +423,7 @@
     },
     {
       "id": "772e2e8e8ca4",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
@@ -510,21 +495,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding..."
-    },
-    {
-      "id": "7d26f449290a",
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-10-29T15:00:00Z",
-      "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's pla..."
     },
     {
       "id": "648c3c3aab67",
@@ -678,14 +648,14 @@
     },
     {
       "id": "14fa7a1cc7db",
-      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
       "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
       "source": "TechCrunch",
       "sourceIcon": "crunch",
       "pubDate": "2026-10-29T20:43:56Z",
       "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "topic": "Other",
-      "topicIcon": "📰",
+      "topic": "Security",
+      "topicIcon": "🔒",
       "importance": 4,
       "reliability": 4,
       "summary_bn": "",
@@ -722,6 +692,21 @@
       "summary_en": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic t..."
     },
     {
+      "id": "8dff2cf2a458",
+      "title": "Herdr has released native app",
+      "link": "https://github.com/herdrdev/herdr-app",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-10-30T00:42:41Z",
+      "description": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 159 # Comments: 94",
+      "topic": "Startups",
+      "topicIcon": "🚀",
+      "importance": 4,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 1..."
+    },
+    {
       "id": "c4d34ddeaf92",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
@@ -737,19 +722,34 @@
       "summary_en": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workpla..."
     },
     {
-      "id": "ce9e9222b2ca",
-      "title": "Norton Coupon Codes: Up to 58% Off",
-      "link": "https://www.wired.com/story/norton-coupon-code/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-10-29T05:00:00Z",
-      "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "id": "809b0a589971",
+      "title": "How video game remakes tap the power of nostalgia",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "sourceIcon": "bbc",
+      "pubDate": "2026-10-30T07:45:00Z",
+      "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
       "topic": "Other",
       "topicIcon": "📰",
+      "importance": 4,
+      "reliability": 5,
+      "summary_bn": "",
+      "summary_en": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
+    },
+    {
+      "id": "b8bc21c2cd95",
+      "title": "Liquid Glass Finally Makes Sense on the iPhone Duo",
+      "link": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-10-29T09:30:00Z",
+      "description": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.",
+      "topic": "Mobile",
+      "topicIcon": "📱",
       "importance": 3,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to he..."
+      "summary_en": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place."
     }
   ]
 }
