@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T05:40:17+06:00",
+  "lastUpdated": "2026-11-15T11:08:59+06:00",
   "news": [
     {
       "id": "0dac5bc8bd77",
@@ -47,34 +47,19 @@
       "summary_en": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazil..."
     },
     {
-      "id": "f42c8666591c",
-      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-11-14T00:37:01Z",
-      "description": "The next title in the series is expected to be the biggest video game release ever.",
-      "topic": "Other",
-      "topicIcon": "📰",
+      "id": "bd2f75c9c0c3",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-11-14T11:13:17Z",
+      "description": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 207 # Comments: 61",
+      "topic": "Web/JavaScript",
+      "topicIcon": "🌐",
       "importance": 5,
-      "reliability": 5,
+      "reliability": 3,
       "summary_bn": "",
-      "summary_en": "The next title in the series is expected to be the biggest video game release ever."
-    },
-    {
-      "id": "7b8ef8b8b9e1",
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "source": "Ars Technica",
-      "sourceIcon": "ars",
-      "pubDate": "2026-11-14T00:49:13Z",
-      "description": "One way or another, the company will get some more data on Saturday.",
-      "topic": "Other",
-      "topicIcon": "📰",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "One way or another, the company will get some more data on Saturday."
+      "summary_en": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?i..."
     },
     {
       "id": "f88fcfa12fe4",
@@ -122,34 +107,19 @@
       "summary_en": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at George..."
     },
     {
-      "id": "332f7fa7e6f2",
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-11-14T01:00:00Z",
-      "description": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
+      "id": "f6b407f900ec",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "source": "Ars Technica",
+      "sourceIcon": "ars",
+      "pubDate": "2026-11-15T00:40:59Z",
+      "description": "It felt like stepping into the future.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 5,
       "reliability": 5,
       "summary_bn": "",
-      "summary_en": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides."
-    },
-    {
-      "id": "15ee692dbf09",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-11-14T01:53:04Z",
-      "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM..."
+      "summary_en": "It felt like stepping into the future."
     },
     {
       "id": "20c02030de45",
@@ -392,19 +362,19 @@
       "summary_en": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
     },
     {
-      "id": "700c0c38f4a0",
-      "title": "The FAA Nationwide Ground Stop Is Over",
-      "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-11-14T01:46:40Z",
-      "description": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
+      "id": "a8381ccf0f4a",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-11-15T00:08:07Z",
+      "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "topic": "Hardware",
+      "topicIcon": "💻",
+      "importance": 4,
       "reliability": 4,
       "summary_bn": "",
-      "summary_en": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be ..."
+      "summary_en": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, i..."
     },
     {
       "id": "fb8b65d838ae",
@@ -692,21 +662,6 @@
       "summary_en": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that othe..."
     },
     {
-      "id": "7e8a918c3908",
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-11-14T12:45:45Z",
-      "description": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 424 # Comments: 163",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 3,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments..."
-    },
-    {
       "id": "a4c867c48a44",
       "title": "A gadget to make your dumb house smarter",
       "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
@@ -743,13 +698,58 @@
       "source": "Hacker News",
       "sourceIcon": "hn",
       "pubDate": "2026-11-14T13:20:43Z",
-      "description": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 150 # Comments: 34",
+      "description": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 179 # Comments: 39",
       "topic": "Startups",
       "topicIcon": "🚀",
       "importance": 3,
       "reliability": 3,
       "summary_bn": "",
       "summary_en": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL..."
+    },
+    {
+      "id": "529d65553fb4",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "link": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-11-14T14:05:54Z",
+      "description": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!) Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features. If anyone actually has this issue / want of a terminal-based game that runs alongside your agents so you don't doomscroll, do you have any suggestions, or additional ideas I could add? It's hosted on GitLab, soo, that's one additional thing i'd like to mention Thanks for reading!! snipedbywifi (p.s. first HN post lol) (p.s. p.s. there's a lot of hidden lore in the game, so.. lore-divers? you might like it?) Comments URL: https://news.ycombinator.com/item?id=50497132 Points: 147 # Comments: 34",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try ..."
+    },
+    {
+      "id": "74ce09572bbc",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-11-14T15:00:00Z",
+      "description": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the act..."
+    },
+    {
+      "id": "9ed594075d0b",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "source": "Hacker News",
+      "sourceIcon": "hn",
+      "pubDate": "2026-11-14T15:40:52Z",
+      "description": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 221 # Comments: 97",
+      "topic": "Security",
+      "topicIcon": "🔒",
+      "importance": 3,
+      "reliability": 3,
+      "summary_bn": "",
+      "summary_en": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item..."
     }
   ]
 }
