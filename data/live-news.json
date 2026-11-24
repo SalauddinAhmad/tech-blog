@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T05:28:11+06:00",
+  "lastUpdated": "2026-11-24T14:43:51+06:00",
   "news": [
     {
       "id": "c2c96bd84b3b",
@@ -107,21 +107,6 @@
       "summary_en": "\"I would ask you to please reach out to Roscosmos directly.\""
     },
     {
-      "id": "04e5e033b799",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-11-23T01:25:53Z",
-      "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Three significant backers share what gave them conviction to bet billions on Anthropic."
-    },
-    {
       "id": "e9690fe5735d",
       "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
       "link": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
@@ -135,21 +120,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Canadian citizen Yat Choi moved from DOGE to the National Design Studio before launching his own company, Govmaxxing."
-    },
-    {
-      "id": "6545db87281a",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-11-23T20:00:00Z",
-      "description": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 6,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship pr..."
     },
     {
       "id": "8e84e3770e7a",
@@ -195,21 +165,6 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Lady..."
-    },
-    {
-      "id": "6352bd0d59b4",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-11-23T00:08:00Z",
-      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
     },
     {
       "id": "d76321c82e0f",
@@ -420,6 +375,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
+    },
+    {
+      "id": "0ff2877103f3",
+      "title": "Google alternative Kagi launches an email service",
+      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-11-24T00:02:52Z",
+      "description": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 5,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking..."
     },
     {
       "id": "0c4133404e41",
@@ -750,6 +720,36 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "\"The mistake has been corrected,\" Elon Musk chimed in."
+    },
+    {
+      "id": "eea6d4f773cb",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "sourceIcon": "crunch",
+      "pubDate": "2026-11-23T22:02:05Z",
+      "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without havin..."
+    },
+    {
+      "id": "4ce697c6dbd7",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-11-23T22:09:26Z",
+      "description": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basica..."
     }
   ]
 }
