@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T04:59:02+06:00",
+  "lastUpdated": "2026-11-26T10:53:42+06:00",
   "news": [
     {
       "id": "65e4432b2079",
@@ -137,36 +137,6 @@
       "summary_en": "The pitch is an unusual combination of privacy promises and AI features."
     },
     {
-      "id": "11304642d4ef",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "source": "TechCrunch",
-      "sourceIcon": "crunch",
-      "pubDate": "2026-11-25T00:12:02Z",
-      "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'..."
-    },
-    {
-      "id": "2a1422ea57bb",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-11-25T03:44:07Z",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 5,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's re..."
-    },
-    {
       "id": "58957c3acc4b",
       "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
       "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
@@ -240,21 +210,6 @@
       "reliability": 5,
       "summary_bn": "",
       "summary_en": "Prior modeling estimated the plume would cover hundreds of square miles."
-    },
-    {
-      "id": "927dd6b10beb",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "source": "TheVerge",
-      "sourceIcon": "verge",
-      "pubDate": "2026-11-25T16:00:59Z",
-      "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you [&#8230;]",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 5,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear..."
     },
     {
       "id": "bd85725bcde7",
@@ -347,51 +302,6 @@
       "summary_en": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\""
     },
     {
-      "id": "7d3fb794a805",
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-11-24T23:39:04Z",
-      "description": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "topic": "Hardware",
-      "topicIcon": "💻",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese ..."
-    },
-    {
-      "id": "3267b6051ed1",
-      "title": "Why tiny cars are taking off across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "sourceIcon": "bbc",
-      "pubDate": "2026-11-25T00:34:05Z",
-      "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-      "topic": "Regulation",
-      "topicIcon": "⚖️",
-      "importance": 4,
-      "reliability": 5,
-      "summary_bn": "",
-      "summary_en": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
-    },
-    {
-      "id": "788f1fc23eab",
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "link": "https://buttons.joshwcomeau.com/",
-      "source": "Hacker News",
-      "sourceIcon": "hn",
-      "pubDate": "2026-11-25T03:23:07Z",
-      "description": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 823 # Comments: 129",
-      "topic": "Startups",
-      "topicIcon": "🚀",
-      "importance": 4,
-      "reliability": 3,
-      "summary_bn": "",
-      "summary_en": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 823 # ..."
-    },
-    {
       "id": "1a74ad4b4089",
       "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
       "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
@@ -452,21 +362,6 @@
       "summary_en": "Here are 11 independent stores WIRED editors love and the gifts we’d order from them on Shop.com."
     },
     {
-      "id": "ce02cb052879",
-      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
-      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
-      "source": "Wired",
-      "sourceIcon": "wired",
-      "pubDate": "2026-11-25T11:00:00Z",
-      "description": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
-      "topic": "AI/ML",
-      "topicIcon": "🤖",
-      "importance": 4,
-      "reliability": 4,
-      "summary_bn": "",
-      "summary_en": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIR..."
-    },
-    {
       "id": "34b561b5b73b",
       "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
       "link": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
@@ -480,6 +375,21 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch."
+    },
+    {
+      "id": "ce02cb052879",
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-11-25T11:00:00Z",
+      "description": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIR..."
     },
     {
       "id": "cca14cf6e35c",
@@ -750,6 +660,96 @@
       "reliability": 4,
       "summary_bn": "",
       "summary_en": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+    },
+    {
+      "id": "4813dbe88c16",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-11-25T23:56:44Z",
+      "description": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consum..."
+    },
+    {
+      "id": "54e67f56863f",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "source": "TheVerge",
+      "sourceIcon": "verge",
+      "pubDate": "2026-11-26T00:04:34Z",
+      "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required [&#8230;]",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 4,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Go..."
+    },
+    {
+      "id": "f08beb36ba97",
+      "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-11-25T06:00:00Z",
+      "description": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes."
+    },
+    {
+      "id": "95702407817e",
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-11-25T06:00:00Z",
+      "description": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "topic": "AI/ML",
+      "topicIcon": "🤖",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons."
+    },
+    {
+      "id": "a48d37d1597d",
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "link": "https://www.wired.com/story/noom-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-11-25T06:00:00Z",
+      "description": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and e..."
+    },
+    {
+      "id": "2ef030f3f81f",
+      "title": "Klook Promo Code: 20% Off November 2026",
+      "link": "https://www.wired.com/story/klook-promo-code/",
+      "source": "Wired",
+      "sourceIcon": "wired",
+      "pubDate": "2026-11-25T06:00:00Z",
+      "description": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+      "topic": "Other",
+      "topicIcon": "📰",
+      "importance": 3,
+      "reliability": 4,
+      "summary_bn": "",
+      "summary_en": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts o..."
     }
   ]
 }
